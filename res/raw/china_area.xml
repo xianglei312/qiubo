@@ -1,0 +1,3787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country value="中国" id="China">
+	<province value="请选择" id="QingXuanZe">
+		<city value="请选择" id="QingXuanZe">
+			<area value="请选择" id = ""/>
+		</city>
+	</province>
+	<province value="直辖市" id="ZhiXiaShi">
+		<city value="北京" id="BeiJing">
+			<area value="东城" />
+			<area value="西城" />
+			<area value="朝阳" />
+			<area value="海淀" />
+			<area value="丰台" />
+			<area value="石景山" />
+			<area value="门头沟" />
+			<area value="房山" />
+			<area value="通州" />
+			<area value="顺义" />
+			<area value="大兴" />
+			<area value="昌平" />
+			<area value="平谷" />
+			<area value="怀柔" />
+			<area value="延庆" />
+			<area value="密云" />
+		</city>
+		<city value="天津" id="TianJin">
+			<area value="和平" />
+			<area value="河东" />
+			<area value="河西" />
+			<area value="南开" />
+			<area value="河北" />
+			<area value="红桥" />
+			<area value="塘沽" />
+			<area value="汉沽" />
+			<area value="大港" />
+			<area value="西青" />
+			<area value="东丽" />
+			<area value="津南" />
+			<area value="北辰" />
+			<area value="武清" />
+			<area value="宝坻" />
+			<area value="静海" />
+			<area value="宁河" />
+			<area value="蓟县" />
+		</city>
+		<city value="上海" id="ShangHai">
+			<area value="浦东新" />
+			<area value="徐汇" />
+			<area value="长宁" />
+			<area value="普陀" />
+			<area value="闸北" />
+			<area value="虹口" />
+			<area value="杨浦" />
+			<area value="黄浦" />
+			<area value="卢湾" />
+			<area value="静安" />
+			<area value="宝山" />
+			<area value="闵行" />
+			<area value="嘉定" />
+			<area value="金山" />
+			<area value="松江" />
+			<area value="青浦" />
+			<area value="崇明" />
+			<area value="奉贤" />
+			<area value="南汇" />
+		</city>
+		<city value="重庆" id="ChongQing">
+			<area value="渝中" />
+			<area value="大渡口" />
+			<area value="江北" />
+			<area value="沙坪坝" />
+			<area value="九龙坡" />
+			<area value="南岸" />
+			<area value="北碚" />
+			<area value="渝北" />
+			<area value="巴南" />
+			<area value="北部新区" />
+			<area value="万盛" />
+			<area value="双桥" />
+			<area value="綦江" />
+			<area value="潼南" />
+			<area value="铜梁" />
+			<area value="大足" />
+			<area value="荣昌" />
+			<area value="璧山" />
+			<area value="江津" />
+			<area value="合川" />
+			<area value="永川" />
+			<area value="南川" />
+			<area value="万州" />
+			<area value="涪陵" />
+			<area value="黔江" />
+			<area value="长寿" />
+			<area value="梁平" />
+			<area value="城口" />
+			<area value="丰都" />
+			<area value="垫江" />
+			<area value="武隆" />
+			<area value="忠县" />
+			<area value="开县" />
+			<area value="云阳" />
+			<area value="奉节" />
+			<area value="巫山" />
+			<area value="巫溪" />
+			<area value="石柱" />
+			<area value="秀山" />
+			<area value="酉阳" />
+			<area value="彭水" />
+		</city>
+	</province>
+	<province value="辽宁" id="LiaoNing">
+		<city value="沈阳" id="ShenYang">
+			<area value="和平" />
+			<area value="沈河" />
+			<area value="皇姑" />
+			<area value="大东" />
+			<area value="铁西" />
+			<area value="东陵" />
+			<area value="于洪" />
+			<area value="苏家屯" />
+			<area value="沈北新区" />
+			<area value="新民" />
+			<area value="法库" />
+			<area value="辽中" />
+			<area value="康平" />
+		</city>
+		<city value="大连" id="DaLian">
+			<area value="西岗" />
+			<area value="中山" />
+			<area value="沙河口" />
+			<area value="甘井子" />
+			<area value="旅顺口" />
+			<area value="金州" />
+			<area value="瓦房店" />
+			<area value="普兰店" />
+			<area value="庄河" />
+			<area value="长海" />
+		</city>
+		<city value="鞍山" id="AnShan">
+			<area value="铁东" />
+			<area value="铁西" />
+			<area value="立山" />
+			<area value="千山" />
+			<area value="海城" />
+			<area value="台安" />
+			<area value="岫岩" />
+		</city>
+		<city value="抚顺" id="FuShun">
+			<area value="顺城" />
+			<area value="新抚" />
+			<area value="东洲" />
+			<area value="望花" />
+			<area value="抚顺" />
+			<area value="清原" />
+			<area value="新宾" />
+		</city>
+		<city value="本溪" id="BenXi">
+			<area value="平山" />
+			<area value="明山" />
+			<area value="溪湖" />
+			<area value="南芬" />
+			<area value="本溪" />
+			<area value="桓仁" />
+		</city>
+		<city value="丹东" id="DanDong">
+			<area value="振兴" />
+			<area value="元宝" />
+			<area value="振安" />
+			<area value="东港" />
+			<area value="凤城" />
+			<area value="宽甸" />
+		</city>
+		<city value="锦州" id="JinZhou">
+			<area value="太和" />
+			<area value="古塔" />
+			<area value="凌河" />
+			<area value="凌海" />
+			<area value="北镇" />
+			<area value="黑山" />
+			<area value="义县" />
+		</city>
+		<city value="营口" id="YingKou">
+			<area value="站前" />
+			<area value="西市" />
+			<area value="鲅鱼圈" />
+			<area value="老边" />
+			<area value="盖州" />
+			<area value="大石桥" />
+		</city>
+		<city value="阜新" id="FuXin">
+			<area value="海州" />
+			<area value="新邱" />
+			<area value="太平" />
+			<area value="清河门" />
+			<area value="细河" />
+			<area value="彰武" />
+			<area value="阜新" />
+		</city>
+		<city value="辽阳" id="LiaoYang">
+			<area value="白塔" />
+			<area value="文圣" />
+			<area value="宏伟" />
+			<area value="太子河" />
+			<area value="弓长岭" />
+			<area value="灯塔" />
+			<area value="辽阳" />
+		</city>
+		<city value="铁岭" id="TieLing">
+			<area value="银州" />
+			<area value="清河" />
+			<area value="调兵山" />
+			<area value="开原" />
+			<area value="铁岭" />
+			<area value="昌图" />
+			<area value="西丰" />
+		</city>
+		<city value="朝阳" id="ChaoYang">
+			<area value="双塔" />
+			<area value="龙城" />
+			<area value="凌源" />
+			<area value="北票" />
+			<area value="朝阳" />
+			<area value="建平" />
+			<area value="喀喇沁左翼" />
+		</city>
+		<city value="盘锦" id="PanJin">
+			<area value="双台子" />
+			<area value="兴隆台" />
+			<area value="盘山" />
+			<area value="大洼" />
+		</city>
+		<city value="葫芦岛" id="HuLuDao">
+			<area value="龙港" />
+			<area value="南票" />
+			<area value="连山" />
+			<area value="兴城" />
+			<area value="绥中" />
+			<area value="建昌" />
+		</city>
+	</province>
+	<province value="吉林" id="JiLin">
+		<city value="长春" id="ChangChun">
+			<area value="南关" />
+			<area value="朝阳" />
+			<area value="宽城" />
+			<area value="二道" />
+			<area value="绿园" />
+			<area value="双阳" />
+			<area value=" 高新" />
+			<area value=" 经开" />
+			<area value=" 净月新" />
+			<area value=" 西新" />
+			<area value=" 南部新城" />
+			<area value=" 西部新城" />
+			<area value=" 北部新城" />
+			<area value=" 长东北先导" />
+			<area value="德惠" />
+			<area value="九台" />
+			<area value="榆树" />
+			<area value="农安" />
+		</city>
+		<city value="吉林" id="JiLin">
+			<area value="船营" />
+			<area value="昌邑" />
+			<area value="龙潭" />
+			<area value="丰满" />
+			<area value=" 高新" />
+			<area value=" 九台经开" />
+			<area value="蛟河" />
+			<area value="桦甸" />
+			<area value="舒兰" />
+			<area value="磐石" />
+			<area value="永吉" />
+		</city>
+		<city value="四平" id="SiPing">
+			<area value="铁西" />
+			<area value="铁东" />
+			<area value="公主岭" />
+			<area value="双辽" />
+			<area value="梨树" />
+			<area value="伊通" />
+			<area value="辽河农垦" />
+		</city>
+		<city value="辽源" id="LiaoYuan">
+			<area value="龙山" />
+			<area value="西安" />
+			<area value="东丰" />
+			<area value="东辽" />
+
+		</city>
+		<city value="通化" id="TongHua">
+			<area value="东昌" />
+			<area value="二道江" />
+			<area value="梅河口" />
+			<area value="集安" />
+			<area value="通化" />
+			<area value="辉南" />
+			<area value="柳河" />
+		</city>
+		<city value="白山" id="BaiShan">
+			<area value="浑江" />
+			<area value="江源" />
+			<area value="临江" />
+			<area value="抚松" />
+			<area value="靖宇" />
+			<area value="长白" />
+		</city>
+		<city value="松原" id="SongYuan">
+			<area value="宁江" />
+			<area value="长岭" />
+			<area value="乾安" />
+			<area value="扶余" />
+			<area value="前郭尔罗斯" />
+		</city>
+		<city value="白城" id="BaiCheng">
+			<area value="洮北" />
+			<area value="洮南" />
+			<area value="大安" />
+			<area value="镇赉" />
+			<area value="通榆" />
+		</city>
+
+		
+		<city value="延边" id="YanBian">
+			<area value="延吉" />
+			<area value="图们" />
+			<area value="敦化" />
+			<area value="珲春" />
+			<area value="龙井" />
+			<area value="和龙" />
+			<area value="汪清" />
+			<area value="安图" />
+		</city>
+	</province>
+
+
+------------------------------------------------------------
+	<province value="江苏" id="JiangSu">
+		<city value="南京" id="NanJing">
+			<area value="玄武" />
+			<area value="鼓楼" />
+			<area value="白下" />
+			<area value="秦淮" />
+			<area value="下关" />
+			<area value="建邺" />
+			<area value="栖霞" />
+			<area value="雨花台" />
+			<area value="浦口" />
+			<area value="江宁" />
+			<area value="六合" />
+<area value="溧水" />
+			<area value="高淳" />
+		</city>
+		<city value="苏州" id="SuZhou">
+			<area value="金阊" />
+			<area value="沧浪" />
+			<area value="平江" />
+			<area value="虎丘" />
+			<area value="吴中" />
+			<area value="相城" />
+			<area value="常熟" />
+			<area value="张家港" />
+			<area value="太仓" />
+			<area value="昆山" />
+			<area value="吴江" />
+		</city>
+		<city value="无锡" id="WuXi">
+			<area value="崇安" />
+			<area value="北塘" />
+			<area value="南长" />
+			<area value="滨湖" />
+			<area value="锡山" />
+			<area value="惠山" />
+			<area value="江阴" />
+			<area value="宜兴" />
+		</city>
+		<city value="常州" id="ChangZhou">
+			<area value="钟楼" />
+			<area value="天宁" />
+			<area value="戚墅堰" />
+			<area value="新北" />
+			<area value="武进" />
+			<area value="金坛" />
+			<area value="溧阳" />
+		</city>
+		<city value="扬州" id="YangZhou">
+			<area value="维扬" />
+			<area value="广陵" />
+			<area value="邗江" />
+			<area value="宝应" />
+			<area value="高邮" />
+			<area value="江都" />
+			<area value="仪征" />
+		</city>
+		<city value="南通" id="NanTong">
+			<area value="崇川" />
+			<area value="港闸" />
+			<area value="通州" />
+			<area value="如皋" />
+			<area value="海门" />
+			<area value="启东" />
+			<area value="海安" />
+			<area value="如东" />
+		</city>
+		<city value="镇江" id="ZhenJiang">
+			<area value="京口" />
+			<area value="润州" />
+			<area value="丹徒" />
+			<area value="丹阳" />
+			<area value="扬中" />
+			<area value="句容" />
+		</city>
+		<city value="泰州" id="TaiZhou">
+			<area value="海陵" />
+			<area value="高港" />
+			<area value="泰兴" />
+			<area value="姜堰" />
+			<area value="靖江" />
+			<area value="兴化" />
+		</city>
+		<city value="淮安" id="HuaiAn">
+			<area value="清河" />
+			<area value="清浦" />
+			<area value="楚州" />
+			<area value="淮阴" />
+			<area value="涟水" />
+			<area value="洪泽" />
+			<area value="金湖" />
+			<area value="盱眙" />
+		</city>
+		<city value="徐州" id="XuZhou">
+			<area value="云龙" />
+			<area value="鼓楼" />
+			<area value="铜山" />
+			<area value="贾汪" />
+			<area value="泉山" />
+			<area value="睢宁" />
+			<area value="沛县" />
+			<area value="丰县" />
+			<area value="邳州" />
+			<area value="新沂" />
+		</city>
+		<city value="盐城" id="YanCheng">
+			<area value="亭湖" />
+			<area value="盐都" />
+			<area value="建湖" />
+			<area value="响水" />
+			<area value="阜宁" />
+			<area value="射阳" />
+			<area value="滨海" />
+			<area value="东台" />
+			<area value="大丰" />
+		</city>
+		<city value="宿迁" id="Qian">
+			<area value="宿城" />
+			<area value="宿豫" />
+			<area value="沭阳" />
+			<area value="泗阳" />
+			<area value="泗洪" />
+		</city>
+		<city value="连云港" id="LianYunGang">
+			<area value="新浦" />
+			<area value="连云" />
+			<area value="海州" />
+			<area value="东海" />
+			<area value="灌云" />
+			<area value="赣榆" />
+			<area value="灌南" />
+		</city>
+	</province>
+	<province value="浙江" id="ZheJiang">
+		<city value="杭州" id="HangZhou">
+			<area value="上城" />
+			<area value="下城" />
+			<area value="江干" />
+			<area value="拱墅" />
+			<area value="西湖" />
+			<area value="滨江" />
+			<area value="萧山" />
+			<area value="余杭" />
+			<area value="建德" />
+			<area value="富阳" />
+			<area value="临安" />
+			<area value="桐庐" />
+			<area value="淳安" />
+		</city>
+		<city value="宁波" id="NingBo">
+			<area value="海曙" />
+			<area value="江东" />
+			<area value="江北" />
+			<area value="北仑" />
+			<area value="镇海" />
+			<area value="鄞州" />
+			<area value="余姚" />
+			<area value="慈溪" />
+			<area value="奉化" />
+			<area value="象山" />
+			<area value="宁海" />
+		</city>
+		<city value="温州" id="WenZhou">
+			<area value="鹿城" />
+			<area value="龙湾" />
+			<area value="瓯海" />
+			<area value="瑞安" />
+			<area value="乐清" />
+			<area value="洞头" />
+			<area value="永嘉" />
+			<area value="平阳" />
+			<area value="苍南" />
+			<area value="文成" />
+			<area value="泰顺" />
+		</city>
+		<city value="嘉兴" id="JiaXing">
+			<area value="秀城" />
+			<area value="秀洲" />
+			<area value="海宁" />
+			<area value="平湖" />
+			<area value="桐乡" />
+			<area value="嘉善" />
+			<area value="海盐" />
+		</city>
+		<city value="湖州" id="HuZhou">
+			<area value="吴兴" />
+			<area value="南浔" />
+			<area value="德清" />
+			<area value="长兴" />
+			<area value="安吉" />
+		</city>
+		<city value="绍兴" id="ShaoXing">
+			<area value="越城" />
+			<area value="诸暨" />
+			<area value="上虞" />
+			<area value="嵊州" />
+			<area value="绍兴" />
+			<area value="新昌" />
+		</city>
+		<city value="金华" id="JinHua">
+			<area value="婺城" />
+			<area value="金东" />
+			<area value="兰溪" />
+			<area value="义乌" />
+			<area value="东阳" />
+			<area value="永康" />
+			<area value="武义" />
+			<area value="浦江" />
+			<area value="磐安" />
+		</city>
+		<city value="衢州" id="QuZhou">
+			<area value="柯城" />
+			<area value="衢江" />
+			<area value="江山" />
+			<area value="常山" />
+			<area value="开化" />
+			<area value="龙游" />
+		</city>
+		<city value="舟山" id="ZhouShan">
+			<area value="定海" />
+			<area value="普陀" />
+			<area value="岱山" />
+			<area value="嵊泗" />
+		</city>
+		<city value="台州" id="TaiZhou_ZheJiang">
+			<area value="椒江" />
+			<area value="黄岩" />
+			<area value="路桥" />
+			<area value="温岭" />
+			<area value="临海" />
+			<area value="玉环" />
+			<area value="三门" />
+			<area value="天台" />
+			<area value="仙居" />
+		</city>
+		<city value="丽水" id="LiShui">
+			<area value="莲都" />
+			<area value="龙泉" />
+			<area value="青田" />
+			<area value="缙云" />
+			<area value="遂昌" />
+			<area value="松阳" />
+			<area value="云和" />
+			<area value="庆元" />
+			<area value="景宁" />
+		</city>
+	</province>
+	<province value="安徽" id="AnHui">
+		<city value="淮北" id="HuaiBei">
+			<area value="相山" />
+			<area value="烈山" />
+			<area value="杜集" />
+			<area value="濉溪" />
+		</city>
+		<city value="合肥" id="HeFei">
+			<area value="庐阳" />
+			<area value="包河" />
+			<area value="蜀山" />
+			<area value="瑶海" />
+			<area value="肥东" />
+			<area value="肥西" />
+			<area value="长丰" />
+            <area value="庐江" />
+             <area value="巢湖" />
+		</city>
+		<city value="六安" id="LiuAn">
+			<area value="金安" />
+			<area value="裕安" />
+			<area value="舒城" />
+			<area value="金寨" />
+			<area value="霍山" />
+			<area value="霍邱" />
+			<area value="寿县" />
+		</city>
+		<city value="亳州" id="HaoZhou">
+			<area value="谯城" />
+			<area value="涡阳" />
+			<area value="蒙城" />
+			<area value="利辛" />
+		</city>
+		<city value="宿州" id="SuZhou2">
+			<area value="埇桥" />
+			<area value="灵璧" />
+			<area value="泗县" />
+			<area value="砀山" />
+			<area value="萧县" />
+		</city>
+		<city value="阜阳" id="FuYang">
+			<area value="颖东" />
+			<area value="颍州" />
+			<area value="颖泉" />
+			<area value="太和" />
+			<area value="临泉" />
+			<area value="阜南" />
+			<area value="颍上" />
+			<area value="界首" />
+		</city>
+		<city value="蚌埠" id="BangBu">
+			<area value="蚌山" />
+			<area value="禹会" />
+			<area value="龙子湖" />
+			<area value="淮上" />
+			<area value="怀远" />
+			<area value="固镇" />
+			<area value="五河" />
+		</city>
+		<city value="淮南" id="HuaiNan">
+			<area value="田家庵" />
+			<area value="大通" />
+			<area value="谢家集" />
+			<area value="八公山" />
+			<area value="潘集" />
+			<area value="凤台" />
+		</city>
+		<city value="滁州" id="ChuZhou">
+			<area value="琅琊" />
+			<area value="南谯" />
+			<area value="来安" />
+			<area value="全椒" />
+			<area value="定远" />
+			<area value="凤阳" />
+			<area value="天长" />
+			<area value="明光" />
+		</city>
+		<city value="芜湖" id="WuHu">
+			<area value="镜湖" />
+			<area value="弋江" />
+			<area value="鸠江" />
+			<area value="三山" />
+			<area value="繁昌" />
+			<area value="南陵" />
+			<area value="芜湖" />
+             <area value="无为" />
+		</city>
+		<city value="马鞍山" id="MaAnShan">
+			<area value="雨山" />
+			<area value="花山" />
+			<area value="金家庄" />
+			<area value="当涂" />
+             <area value="含山" />
+			<area value="和县" />
+
+		</city>
+		<city value="安庆" id="AnQing">
+			<area value="迎江" />
+			<area value="大观" />
+			<area value="宜秀" />
+			<area value="怀宁" />
+			<area value="潜山" />
+			<area value="枞阳" />
+			<area value="宿松" />
+			<area value="太湖" />
+			<area value="望江" />
+			<area value="岳西" />
+			<area value="桐城" />
+		</city>
+		<city value="池州" id="ChiZhou">
+			<area value="贵池" />
+			<area value="东至" />
+			<area value="石台" />
+			<area value="青阳" />
+		</city>
+		<city value="铜陵" id="TongLing">
+			<area value="铜官山" />
+			<area value="狮子山" />
+			<area value="郊区" />
+			<area value="铜陵" />
+		</city>
+		<city value="宣城" id="XuanCheng">
+			<area value="宣州" />
+			<area value="广德" />
+			<area value="郎溪" />
+			<area value="泾县" />
+			<area value="旌德" />
+			<area value="绩溪" />
+			<area value="宁国" />
+		</city>
+		<city value="黄山" id="HuangShan">
+			<area value="屯溪" />
+			<area value="徽州" />
+			<area value="黄山" />
+			<area value="黟县" />
+			<area value="歙县" />
+			<area value="休宁" />
+			<area value="祁门" />
+		</city>
+	</province>
+	<province value="福建" id="FuJian">
+		<city value="福州" id="FuZhou">
+			<area value="鼓楼" />
+			<area value="台江" />
+			<area value="仓山" />
+			<area value="马尾" />
+			<area value="晋安" />
+			<area value="福清" />
+			<area value="长乐" />
+			<area value="闽侯" />
+			<area value="连江" />
+			<area value="罗源" />
+			<area value="闽清" />
+			<area value="永泰" />
+			<area value="平潭" />
+		</city>
+		<city value="厦门" id="XiaMen">
+			<area value="思明" />
+			<area value="海沧" />
+			<area value="湖里" />
+			<area value="集美" />
+			<area value="同安" />
+			<area value="翔安" />
+		</city>
+		<city value="泉州" id="QuanZhou">
+			<area value="鲤城" />
+			<area value="丰泽" />
+			<area value="洛江" />
+			<area value="泉港" />
+			<area value="石狮" />
+			<area value="晋江" />
+			<area value="南安" />
+			<area value="惠安" />
+			<area value="安溪" />
+			<area value="永春" />
+			<area value="德化" />
+			<area value="金门" />
+			<area value="台商投资" />
+		</city>
+		<city value="莆田" id="PuTian">
+			<area value="城厢" />
+			<area value="涵江" />
+			<area value="荔城" />
+			<area value="秀屿" />
+			<area value="仙游" />
+		</city>
+		<city value="三明" id="SanMing">
+			<area value="梅列" />
+			<area value="三元" />
+			<area value="永安" />
+			<area value="明溪" />
+			<area value="清流" />
+			<area value="宁化" />
+			<area value="大田" />
+			<area value="尤溪" />
+			<area value="沙县" />
+			<area value="将乐" />
+			<area value="泰宁" />
+			<area value="建宁县" />
+		</city>
+		<city value="漳州" id="ZhangZhou">
+			<area value="芗城" />
+			<area value="龙文" />
+			<area value="龙海" />
+			<area value="云霄" />
+			<area value="漳浦" />
+			<area value="诏安" />
+			<area value="长泰" />
+			<area value="东山" />
+			<area value="南靖" />
+			<area value="平和" />
+			<area value="华安" />
+		</city>
+		<city value="南平" id="NanPing">
+			<area value="延平" />
+			<area value="邵武" />
+			<area value="武夷山" />
+			<area value="建瓯" />
+			<area value="建阳" />
+			<area value="顺昌" />
+			<area value="浦城" />
+			<area value="光泽" />
+			<area value="松溪" />
+			<area value="政和" />
+		</city>
+		<city value="龙岩" id="LongYan">
+			<area value="新罗" />
+			<area value="漳平" />
+			<area value="长汀" />
+			<area value="永定" />
+			<area value="上杭" />
+			<area value="武平" />
+			<area value="连城" />
+		</city>
+		<city value="宁德" id="NingDe">
+			<area value="蕉城" />
+			<area value="东侨经济开发" />
+			<area value="福安" />
+			<area value="福鼎" />
+			<area value="霞浦" />
+			<area value="古田" />
+			<area value="屏南" />
+			<area value="寿宁" />
+			<area value="周宁" />
+			<area value="柘荣" />
+		</city>
+	</province>
+	<province value="河北" id="HeBei">
+		<city value="石家庄" id="ShiJiaZhuang">
+			<area value="长安" />
+			<area value="桥东" />
+			<area value="桥西" />
+			<area value="新华" />
+			<area value="裕华" />
+			<area value="井陉矿" />
+			<area value="正定" />
+			<area value="高新技术开发" />
+			<area value="辛集" />
+			<area value="藁城" />
+			<area value="晋州" />
+			<area value="新乐" />
+			<area value="鹿泉" />
+			<area value="井陉" />
+			<area value="栾城" />
+			<area value="行唐" />
+			<area value="灵寿" />
+			<area value="高邑" />
+			<area value="深泽" />
+			<area value="赞皇" />
+			<area value="无极" />
+			<area value="平山" />
+			<area value="元氏" />
+			<area value="赵县" />
+		</city>
+		<city value="衡水" id="HengShui">
+			<area value="桃城" />
+			<area value="冀州" />
+			<area value="深州" />
+			<area value="枣强" />
+			<area value="武邑" />
+			<area value="武强" />
+			<area value="饶阳" />
+			<area value="安平" />
+			<area value="故城" />
+			<area value="景县" />
+			<area value="阜城" />
+		</city>
+		<city value="唐山" id="TangShan">
+			<area value="路北" />
+			<area value="路南" />
+			<area value="古冶" />
+			<area value="开平" />
+			<area value="丰润" />
+			<area value="丰南" />
+			<area value="遵化" />
+			<area value="迁安" />
+			<area value="滦县" />
+			<area value="滦南" />
+			<area value="乐亭" />
+			<area value="迁西" />
+			<area value="玉田" />
+			<area value="唐海" />
+		</city>
+		<city value="秦皇岛" id="QinHuangDao">
+			<area value="北戴河" />
+			<area value="海港" />
+			<area value="山海关" />
+			<area value="秦皇岛经济技术开发" />
+			<area value="抚宁" />
+			<area value="昌黎" />
+			<area value="青龙" />
+			<area value="卢龙" />
+		</city>
+		<city value="张家口" id="ZhangJiaKou">
+			<area value="桥西" />
+			<area value="桥东" />
+			<area value="宣化区" />
+			<area value="下花园" />
+			<area value="高新" />
+			<area value="宣化县" />
+			<area value="张北" />
+			<area value="康保" />
+			<area value="沽源" />
+			<area value="尚义" />
+			<area value="蔚县" />
+			<area value="阳原" />
+			<area value="怀安" />
+			<area value="万全" />
+			<area value="怀来" />
+			<area value="涿鹿" />
+			<area value="赤城" />
+			<area value="崇礼" />
+		</city>
+		<city value="承德" id="ChengDe">
+			<area value="双桥" />
+			<area value="双滦" />
+			<area value="鹰手营子矿" />
+			<area value="平泉" />
+			<area value="承德" />
+			<area value="宽城" />
+			<area value="兴隆" />
+			<area value="隆化" />
+			<area value="滦平" />
+			<area value="围场" />
+			<area value="丰宁" />
+		</city>
+		<city value="邯郸" id="HanDan">
+			<area value="丛台" />
+			<area value="邯山" />
+			<area value="复兴" />
+			<area value="五仓" />
+			<area value="峰峰矿" />
+			<area value="高新技术开发" />
+			<area value="武安" />
+			<area value="邯郸" />
+			<area value="涉县" />
+			<area value="永年" />
+			<area value="磁县" />
+			<area value="肥乡" />
+			<area value="邱县" />
+			<area value="曲周" />
+			<area value="魏县" />
+			<area value="广平" />
+			<area value="馆陶" />
+			<area value="大名" />
+			<area value="鸡泽" />
+			<area value="临漳" />
+			<area value="成安" />
+		</city>
+		<city value="沧州" id="CangZhou">
+			<area value="新华" />
+			<area value="运河" />
+			<area value="开发区" />
+			<area value="辖泊头" />
+			<area value="任丘" />
+			<area value="黄骅" />
+			<area value="河间" />
+			<area value="沧县" />
+			<area value="青县" />
+			<area value="东光" />
+			<area value="海兴" />
+			<area value="盐山" />
+			<area value="肃宁" />
+			<area value="南皮" />
+			<area value="吴桥" />
+			<area value="献县" />
+			<area value="孟村" />
+		</city>
+		<city value="邢台" id="XingTai">
+			<area value="桥东" />
+			<area value="桥西" />
+			<area value="沙河" />
+			<area value="南宫" />
+			<area value="清河" />
+			<area value="宁晋" />
+			<area value="内丘" />
+			<area value="广宗" />
+			<area value="邢台" />
+			<area value="任县" />
+			<area value="临西" />
+			<area value="新河" />
+			<area value="隆尧" />
+			<area value="柏乡" />
+			<area value="威县" />
+			<area value="临城" />
+			<area value="平乡" />
+			<area value="南和" />
+			<area value="巨鹿" />
+		</city>
+		<city value="保定" id="BaoDing">
+			<area value="新市" />
+			<area value="北市" />
+			<area value="南市" />
+			<area value="徐水" />
+			<area value="满城" />
+			<area value="高新技术开发" />
+			<area value="安新" />
+			<area value="涿州" />
+			<area value="定州" />
+			<area value="安国" />
+			<area value="高碑店" />
+			<area value="涞水" />
+			<area value="阜平" />
+			<area value="定兴" />
+			<area value="唐县" />
+			<area value="高阳县" />
+			<area value="容城" />
+			<area value="涞源" />
+			<area value="望都" />
+			<area value="易县" />
+			<area value="曲阳" />
+			<area value="蠡县" />
+			<area value="顺平" />
+			<area value="博野" />
+			<area value="雄县" />
+            <area value="清苑" />
+		</city>
+		<city value="廊坊" id="LangFang">
+			<area value="安次" />
+			<area value="广阳" />
+			<area value="三河" />
+			<area value="霸州" />
+			<area value="香河" />
+			<area value="永清" />
+			<area value="固安" />
+			<area value="文安" />
+			<area value="大城" />
+			<area value="大厂" />
+		</city>
+	</province>
+	<province value="山西" id="ShanXi">
+		<city value="太原" id="TaiYuan">
+			<area value="杏花岭" />
+			<area value="小店" />
+			<area value="迎泽" />
+			<area value="尖草坪" />
+			<area value="万柏林" />
+			<area value="晋源" />
+			<area value="古交" />
+			<area value="清徐" />
+			<area value="阳曲" />
+			<area value="娄烦" />
+		</city>
+		<city value="大同" id="DaTong">
+			<area value="城区" />
+			<area value="矿区" />
+			<area value="南郊" />
+			<area value="新荣" />
+			<area value="阳高" />
+			<area value="天镇" />
+			<area value="广灵" />
+			<area value="灵丘" />
+			<area value="浑源" />
+			<area value="左云" />
+			<area value="大同" />
+		</city>
+		<city value="朔州" id="ShuoZhou">
+			<area value="朔城" />
+			<area value="平鲁" />
+			<area value="山阴" />
+			<area value="应县" />
+			<area value="右玉" />
+			<area value="怀仁" />
+		</city>
+		<city value="忻州" id="XinZhou">
+			<area value="忻府" />
+			<area value="原平" />
+			<area value="定襄" />
+			<area value="五台" />
+			<area value="代县" />
+			<area value="繁峙" />
+			<area value="宁武" />
+			<area value="静乐" />
+			<area value="神池" />
+			<area value="五寨" />
+			<area value="岢岚" />
+			<area value="河曲" />
+			<area value="保德" />
+			<area value="偏关" />
+		</city>
+		<city value="长治" id="ChangZhi">
+			<area value="城区" />
+			<area value="郊区" />
+			<area value="潞城" />
+			<area value="长治" />
+			<area value="襄垣" />
+			<area value="屯留" />
+			<area value="平顺" />
+			<area value="黎城" />
+			<area value="壶关" />
+			<area value="长子" />
+			<area value="武乡" />
+			<area value="沁县" />
+			<area value="沁源" />
+		</city>
+		<city value="阳泉" id="YangQuan">
+			<area value="城区" />
+			<area value="矿区" />
+			<area value="郊区" />
+			<area value="平定" />
+			<area value="盂县" />
+		</city>
+		<city value="晋中" id="JinZhong">
+			<area value="榆次" />
+			<area value="介休" />
+			<area value="太谷" />
+			<area value="祁县" />
+			<area value="平遥" />
+			<area value="灵石" />
+			<area value="寿阳" />
+			<area value="昔阳" />
+			<area value="和顺" />
+			<area value="左权" />
+			<area value="榆社" />
+		</city>
+		<city value="吕梁" id="LuLiang">
+			<area value="离石" />
+			<area value="孝义" />
+			<area value="汾阳" />
+			<area value="文水" />
+			<area value="中阳" />
+			<area value="兴县" />
+			<area value="临县" />
+			<area value="方山" />
+			<area value="柳林" />
+			<area value="岚县" />
+			<area value="交口" />
+			<area value="交城" />
+			<area value="石楼" />
+		</city>
+		<city value="晋城" id="JinCheng">
+			<area value="城区" />
+			<area value="泽州" />
+			<area value="高平" />
+			<area value="阳城" />
+			<area value="陵川" />
+			<area value="沁水" />
+		</city>
+		<city value="临汾" id="LinFen">
+			<area value="尧都" />
+			<area value="侯马" />
+			<area value="霍州" />
+			<area value="曲沃" />
+			<area value="翼城" />
+			<area value="襄汾" />
+			<area value="洪洞" />
+			<area value="古县" />
+			<area value="安泽" />
+			<area value="浮山" />
+			<area value="吉县" />
+			<area value="乡宁" />
+			<area value="蒲县" />
+			<area value="大宁" />
+			<area value="永和" />
+			<area value="隰县" />
+			<area value="汾西" />
+		</city>
+		<city value="运城" id="YunCheng">
+			<area value="盐湖" />
+			<area value="永济" />
+			<area value="河津" />
+			<area value="芮城" />
+			<area value="临猗" />
+			<area value="万荣" />
+			<area value="新绛" />
+			<area value="稷山" />
+			<area value="闻喜" />
+			<area value="夏县" />
+			<area value="绛县" />
+			<area value="平陆" />
+			<area value="垣曲" />
+		</city>
+	</province>
+	<province value="江西" id="JiangXi">
+		<city value="南昌" id="NanChang">
+			<area value="东湖" />
+			<area value="西湖" />
+			<area value="青云谱" />
+			<area value="湾里" />
+			<area value="青山湖" />
+			<area value="南昌" />
+			<area value="新建" />
+			<area value="进贤" />
+			<area value="安义" />
+		</city>
+		<city value="上饶" id="ShangRao">
+			<area value="信州" />
+			<area value="德兴" />
+			<area value="上饶" />
+			<area value="广丰" />
+			<area value="玉山" />
+			<area value="婺源" />
+			<area value="鄱阳" />
+			<area value="余干" />
+			<area value="万年" />
+			<area value="弋阳" />
+			<area value="横峰" />
+			<area value="铅山" />
+		</city>
+		<city value="九江" id="JiuJiang">
+			<area value="浔阳" />
+			<area value="庐山" />
+			<area value="瑞昌" />
+			<area value="共青城" />
+			<area value="九江" />
+			<area value="武宁" />
+			<area value="修水" />
+			<area value="永修" />
+			<area value="德安" />
+			<area value="星子" />
+			<area value="都昌" />
+			<area value="湖口" />
+			<area value="彭泽" />
+		</city>
+		<city value="萍乡" id="PingXiang">
+			<area value="安源" />
+			<area value="湘东" />
+			<area value="上栗" />
+			<area value="芦溪" />
+			<area value="莲花" />
+		</city>
+		<city value="新余" id="XinYu">
+			<area value="渝水" />
+			<area value="分宜" />
+		</city>
+		<city value="鹰潭" id="YingTan">
+			<area value="月湖" />
+			<area value="贵溪" />
+			<area value="余江" />
+		</city>
+		<city value="赣州" id="GanZhou">
+			<area value="章贡" />
+			<area value="经济开发" />
+			<area value="南康" />
+			<area value="瑞金" />
+			<area value="赣县" />
+			<area value="信丰" />
+			<area value="大余" />
+			<area value="上犹" />
+			<area value="崇义" />
+			<area value="安远" />
+			<area value="龙南" />
+			<area value="定南" />
+			<area value="全南" />
+			<area value="兴国" />
+			<area value="宁都" />
+			<area value="于都" />
+			<area value="会昌" />
+			<area value="寻乌" />
+			<area value="石城" />
+		</city>
+		<city value="宜春" id="YiChun">
+			<area value="袁州" />
+			<area value="樟树" />
+			<area value="丰城" />
+			<area value="高安" />
+			<area value="靖安" />
+			<area value="奉新" />
+			<area value="上高" />
+			<area value="宜丰" />
+			<area value="铜鼓" />
+			<area value="万载" />
+		</city>
+		<city value="景德镇" id="JingDeZhen">
+			<area value="昌江" />
+			<area value="珠山" />
+			<area value="乐平" />
+			<area value="浮梁" />
+		</city>
+		<city value="吉安" id="JiAn">
+			<area value="吉州" />
+			<area value="青原" />
+			<area value="井冈山" />
+			<area value="吉安" />
+			<area value="新干" />
+			<area value="永丰" />
+			<area value="峡江" />
+			<area value="吉水" />
+			<area value="泰和" />
+			<area value="万安" />
+			<area value="遂川" />
+			<area value="安福" />
+			<area value="永新" />
+		</city>
+		<city value="抚州" id="FuZhou_JiangXi">
+			<area value="临川" />
+			<area value="东乡" />
+			<area value="金溪" />
+			<area value="资溪" />
+			<area value="南城" />
+			<area value="南丰" />
+			<area value="黎川" />
+			<area value="广昌" />
+			<area value="崇仁" />
+			<area value="乐安" />
+			<area value="宜黄" />
+		</city>
+	</province>
+	<province value="山东" id="ShangDong">
+		<city value="济南" id="JiNan">
+			<area value="市中" />
+			<area value="历下" />
+			<area value="天桥" />
+			<area value="槐荫" />
+			<area value="历城" />
+			<area value="长清" />
+			<area value="章丘" />
+			<area value="平阴" />
+			<area value="济阳" />
+			<area value="商河" />
+		</city>
+		<city value="青岛" id="QingDao">
+			<area value="市南" />
+			<area value="市北" />
+			<area value="四方" />
+			<area value="李沧" />
+			<area value="崂山" />
+			<area value="城阳" />
+			<area value="黄岛" />
+			<area value="胶南" />
+			<area value="胶州" />
+			<area value="平度" />
+			<area value="莱西" />
+			<area value="即墨" />
+			<area value="开发区" />
+		</city>
+		<city value="淄博" id="ZiBo">
+			<area value="张店" />
+			<area value="临淄" />
+			<area value="淄川" />
+			<area value="博山" />
+			<area value="周村" />
+			<area value="桓台" />
+			<area value="沂源" />
+			<area value="高青" />
+		</city>
+		<city value="泰安" id="TaiAn">
+			<area value="泰山" />
+			<area value="岱岳" />
+			<area value="新泰" />
+			<area value="肥城" />
+			<area value="宁阳" />
+			<area value="东平" />
+		</city>
+		<city value="济宁" id="JiNing">
+			<area value="市中" />
+			<area value="任城" />
+			<area value="曲阜" />
+			<area value="兖州" />
+			<area value="邹城" />
+			<area value="鱼台" />
+			<area value="金乡" />
+			<area value="嘉祥" />
+			<area value="微山" />
+			<area value="汶上" />
+			<area value="泗水" />
+			<area value="梁山" />
+		</city>
+		<city value="德州" id="DeZhou">
+			<area value="德城" />
+			<area value="乐陵" />
+			<area value="禹城" />
+			<area value="陵县" />
+			<area value="宁津" />
+			<area value="齐河" />
+			<area value="武城" />
+			<area value="庆云" />
+			<area value="平原" />
+			<area value="夏津" />
+			<area value="临邑" />
+		</city>
+		<city value="日照" id="RiZhao">
+			<area value="东港" />
+			<area value="岚山" />
+			<area value="莒县" />
+			<area value="五莲" />
+		</city>
+		<city value="潍坊" id="WeiFang">
+			<area value="潍城" />
+			<area value="寒亭" />
+			<area value="坊子" />
+			<area value="奎文" />
+			<area value="青州" />
+			<area value="诸城" />
+			<area value="寿光" />
+			<area value="安丘" />
+			<area value="高密" />
+			<area value="昌邑" />
+			<area value="昌乐" />
+			<area value="临朐" />
+		</city>
+		<city value="枣庄" id="ZaoZhuang">
+			<area value="市中" />
+			<area value="高新" />
+			<area value="山亭" />
+			<area value="峄城" />
+			<area value="台儿庄" />
+			<area value="薛城" />
+			<area value="滕州" />
+		</city>
+		<city value="临沂" id="LinYi">
+			<area value="兰山" />
+			<area value="罗庄" />
+			<area value="河东" />
+			<area value="沂南" />
+			<area value="郯城" />
+			<area value="沂水" />
+			<area value="苍山" />
+			<area value="费县" />
+			<area value="平邑" />
+			<area value="莒南" />
+			<area value="蒙阴" />
+			<area value="临沭" />
+		</city>
+		<city value="莱芜" id="LaiWu">
+			<area value="莱城" />
+			<area value="钢城" />
+		</city>
+		<city value="滨州" id="BinZhou">
+			<area value="滨城" />
+			<area value="无棣" />
+			<area value="阳信" />
+			<area value="沾化" />
+			<area value="惠民" />
+			<area value="博兴" />
+			<area value="邹平" />
+			<area value="高新技术产业开发" />
+			<area value="北海新" />
+		</city>
+		<city value="聊城" id="LiaoCheng">
+			<area value="东昌府" />
+			<area value="临清" />
+			<area value="高唐" />
+			<area value="阳谷" />
+			<area value="茌平" />
+			<area value="莘县" />
+			<area value="东阿" />
+			<area value="冠县" />
+		</city>
+		<city value="菏泽" id="HeZe">
+			<area value="牡丹" />
+			<area value="鄄城" />
+			<area value="单县" />
+			<area value="郓城" />
+			<area value="曹县" />
+			<area value="定陶" />
+			<area value="巨野" />
+			<area value="东明" />
+			<area value="成武" />
+		</city>
+		<city value="烟台" id="YanTai">
+			<area value="芝罘" />
+			<area value="福山" />
+			<area value="牟平" />
+			<area value="莱山" />
+			<area value="龙口" />
+			<area value="莱阳" />
+			<area value="莱州" />
+			<area value="招远" />
+			<area value="蓬莱" />
+			<area value="栖霞" />
+			<area value="海阳" />
+			<area value="长岛" />
+		</city>
+		<city value="威海" id="WeiHai">
+			<area value="环翠" />
+			<area value="乳山" />
+			<area value="文登" />
+			<area value="荣成" />
+		</city>
+		<city value="东营" id="DongYing">
+			<area value="东营" />
+			<area value="河口" />
+			<area value="广饶" />
+			<area value="垦利" />
+			<area value="利津" />
+		</city>
+	</province>
+	<province value="河南" id="HeNan">
+		<city value="郑州" id="ZhengZhou">
+			<area value="中原" />
+			<area value="二七" />
+			<area value="管城" />
+			<area value="金水" />
+			<area value="上街" />
+			<area value="邙山" />
+			<area value="巩义" />
+			<area value="新郑" />
+			<area value="新密" />
+			<area value="登封" />
+			<area value="荣阳" />
+			<area value="中牟" />
+		</city>
+		<city value="开封" id="KaiFeng">
+			<area value="龙亭" />
+			<area value="顺河" />
+			<area value="鼓楼" />
+			<area value="南关" />
+			<area value="郊区" />
+			<area value="开封" />
+			<area value="尉氏" />
+			<area value="兰考" />
+			<area value="杞县" />
+			<area value="通许" />
+		</city>
+		<city value="洛阳" id="LuoYang">
+			<area value="老城" />
+			<area value="西工" />
+			<area value="涧西" />
+			<area value="瀍河" />
+			<area value="洛龙" />
+			<area value="吉利" />
+			<area value="偃师" />
+			<area value="孟津" />
+			<area value="汝阳" />
+			<area value="伊川" />
+			<area value="嵩县" />
+			<area value="宜阳" />
+			<area value="新安" />
+			<area value="栾川" />
+			<area value="洛宁" />
+		</city>
+		<city value="平顶山" id="PingDingShan">
+			<area value="卫东" />
+			<area value="新华" />
+			<area value="湛河" />
+			<area value="石龙" />
+			<area value="汝州" />
+			<area value="舞钢" />
+			<area value="宝丰" />
+			<area value="叶县" />
+			<area value="鲁山" />
+			<area value="郏县" />
+
+<city value="焦作" id="PingDingShan">
+			<area value="解放" />
+			<area value="中站" />
+			<area value="马村" />
+			<area value="山阳" />
+			<area value="沁阳" />
+			<area value="孟州" />
+			<area value="修武" />
+			<area value="温县" />
+			<area value="武陟" />
+			<area value="博爱" />
+		</city>
+		<city value="鹤壁" id="HeBi">
+			<area value="鹤山" />
+			<area value="山城" />
+			<area value="淇滨" />
+			<area value="浚县" />
+			<area value="淇县" />
+		</city>
+		<city value="安阳" id="AnYang">
+			<area value="文峰" />
+			<area value="北关" />
+			<area value="殷都" />
+			<area value="龙安" />
+			<area value="林州" />
+			<area value="安阳" />
+			<area value="内黄" />
+			<area value="汤阴" />
+			<area value="滑县" />
+		</city>
+		<city value="濮阳" id="PuYang">
+			<area value="华龙" />
+			<area value="濮阳" />
+			<area value="南乐" />
+			<area value="台前" />
+			<area value="清丰" />
+			<area value="范县" />
+		</city>
+		<city value="漯河" id="LuoHe">
+			<area value="源汇" />
+			<area value="郾城" />
+			<area value="临颍" />
+			<area value="舞阳" />
+<area value="召陵" />
+		</city>
+		<city value="许昌" id="XuChang">
+			<area value="魏都" />
+			<area value="禹州" />
+			<area value="长葛" />
+			<area value="许昌" />
+			<area value="鄢陵" />
+			<area value="襄城" />
+		</city>
+		<city value="三门峡" id="SanMenXia">
+			<area value="湖滨" />
+			<area value="义马" />
+			<area value="灵宝" />
+			<area value="卢氏" />
+			<area value="陕县" />
+			<area value="渑池" />
+		</city>
+		<city value="商丘" id="ShangQiu">
+			<area value="梁园" />
+			<area value="睢阳" />
+			<area value="永城" />
+			<area value="虞城" />
+			<area value="民权" />
+			<area value="夏邑" />
+			<area value="柘城" />
+			<area value="宁陵" />
+			<area value="睢县" />
+		</city>
+		<city value="南阳" id="NanYang">
+			<area value="宛城" />
+			<area value="卧龙" />
+			<area value="邓州" />
+			<area value="桐柏" />
+			<area value="方城" />
+			<area value="淅川" />
+			<area value="镇平" />
+			<area value="唐河" />
+			<area value="南召" />
+			<area value="内乡" />
+			<area value="新野" />
+			<area value="社旗" />
+			<area value="西峡" />
+		</city>
+		<city value="信阳" id="XinYang">
+			<area value="浉河" />
+			<area value="平桥" />
+			<area value="潢川" />
+			<area value="淮滨" />
+			<area value="息县" />
+			<area value="新县" />
+			<area value="商城" />
+			<area value="固始" />
+			<area value="罗山" />
+			<area value="光山" />
+		</city>
+		<city value="济源" id="JiYuan">
+		</city>
+		<city value="周口" id="ZhouKou">
+			<area value="川汇" />
+			<area value="项城" />
+			<area value="扶沟" />
+			<area value="西华" />
+			<area value="商水" />
+			<area value="沈丘" />
+			<area value="郸城" />
+			<area value="淮阳" />
+			<area value="太康" />
+			<area value="鹿邑" />
+
+		</city>
+		</city>
+		<city value="驻马店" id="ZhuMaDian">
+			<area value="驿城" />
+			<area value="确山" />
+			<area value="新蔡" />
+			<area value="上蔡" />
+			<area value="西平" />
+			<area value="泌阳" />
+			<area value="平舆" />
+			<area value="汝南" />
+			<area value="遂平" />
+			<area value="正阳" />
+		</city>
+
+<city value="新乡" id="XinXiang">
+			<area value="红旗" />
+			<area value="卫滨" />
+			<area value="凤泉" />
+			<area value="牧野" />
+			<area value="新乡" />
+			<area value="获嘉" />
+			<area value="封丘" />
+			<area value="延津" />
+			<area value="原阳" />
+			<area value="长垣" />
+<area value="卫辉" />
+			<area value="辉县" />
+		</city>
+
+	</province>
+	<province value="湖北" id="HuBei">
+		<city value="武汉" id="WuHan">
+			<area value="江岸" />
+			<area value="江汉" />
+			<area value="硚口" />
+			<area value="汉阳" />
+			<area value="武昌" />
+			<area value="青山" />
+			<area value="洪山" />
+			<area value="东西湖" />
+			<area value="汉南" />
+			<area value="蔡甸" />
+			<area value="江夏" />
+			<area value="黄陂" />
+			<area value="新洲" />
+			<area value="武汉经济技术开发区" />
+			<area value="武汉东湖经济技术开发区" />
+		</city>
+		<city value="宜昌" id="YiChang">
+			<area value="西陵" />
+			<area value="伍家岗" />
+			<area value="点军" />
+			<area value="猇亭" />
+			<area value="夷陵" />
+			<area value="宜昌高新技术开发区" />
+			<area value="宜都" />
+			<area value="当阳" />
+			<area value="枝江" />
+			<area value="远安" />
+			<area value="兴山" />
+			<area value="秭归" />
+			<area value="长阳" />
+			<area value="五峰" />
+		</city>
+		<city value="荆州" id="gZhou">
+			<area value="沙市" />
+			<area value="荆州" />
+			<area value="荆州开发" />
+			<area value="石首" />
+			<area value="洪湖" />
+			<area value="松滋" />
+			<area value="公安" />
+			<area value="监利" />
+			<area value="江陵" />
+		</city>
+		<city value="十堰" id="ShiYan">
+			<area value="茅箭" />
+			<area value="张湾" />
+			<area value="十堰经济开发区" />
+			<area value="武当山旅游经济特区" />
+			<area value="丹江口" />
+			<area value="郧县" />
+			<area value="郧西" />
+			<area value="竹山" />
+			<area value="竹溪" />
+			<area value="房县" />
+		</city>
+		<city value="襄樊" id="XiangFan">
+			<area value="襄城" />
+			<area value="襄阳" />
+			<area value="樊城" />
+			<area value="襄阳高新技术产业开发区" />
+			<area value="襄阳经济技术开发区" />
+			<area value="鱼梁洲经济技术开发区" />
+			<area value="老河口" />
+			<area value="枣阳" />
+			<area value="宜城" />
+			<area value="南漳" />
+			<area value="谷城" />
+			<area value="保康" />
+		</city>
+		<city value="黄石" id="HuangShi">
+			<area value="黄石港" />
+			<area value="西塞山" />
+			<area value="下陆" />
+			<area value="铁山" />
+			<area value="大冶" />
+			<area value="阳新" />
+			<area value="黄石经济技术开发区" />
+		</city>
+		<city value="黄冈" id="HuangGang">
+			<area value="黄州" />
+			<area value="麻城" />
+			<area value="武穴" />
+			<area value="团风" />
+			<area value="红安" />
+			<area value="罗田" />
+			<area value="英山" />
+			<area value="浠水" />
+			<area value="蕲春" />
+			<area value="黄梅" />
+			<area value="龙感湖" />
+		</city>
+		<city value="恩施" id="EnShi">
+			<area value="恩施" />
+			<area value="利川" />
+			<area value="建始" />
+			<area value="巴东" />
+			<area value="宣恩" />
+			<area value="咸丰" />
+			<area value="来凤" />
+			<area value="鹤峰" />
+		</city>
+		<city value="荆门" id="JingMen">
+			<area value="东宝" />
+			<area value="掇刀" />
+			<area value="钟祥" />
+			<area value="京山" />
+			<area value="沙洋" />
+		</city>
+		<city value="咸宁" id="XianNing">
+			<area value="咸安" />
+			<area value="赤壁" />
+			<area value="嘉鱼" />
+			<area value="通城" />
+			<area value="崇阳" />
+			<area value="通山" />
+		</city>
+		<city value="孝感" id="XiaoGan">
+			<area value="孝南" />
+			<area value="应城" />
+			<area value="安陆" />
+			<area value="汉川" />
+			<area value="孝昌" />
+			<area value="大悟" />
+			<area value="云梦" />
+		</city>
+		<city value="鄂州" id="EZhou">
+			<area value="鄂城" />
+			<area value="梁子湖" />
+			<area value="华容" />
+		</city>
+		<city value="天门" id="TianMen">
+			<area value="天门" />
+		</city>
+		<city value="仙桃" id="XianTao">
+			<area value="仙桃" />
+		</city>
+		<city value="随州" id="SuiZhou">
+			<area value="曾都" />
+			<area value="广水" />
+			<area value="随县" />
+		</city>
+		<city value="潜江" id="QianJiang">
+			<area value="潜江" />
+		</city>
+	</province>
+	<province value="湖南" id="HuNan">
+		<city value="长沙" id="ChangSha">
+			<area value="岳麓" />
+			<area value="芙蓉" />
+			<area value="天心" />
+			<area value="开福" />
+			<area value="雨花" />
+			<area value="望城" />
+			<area value="浏阳" />
+			<area value="长沙" />
+			<area value="宁乡" />
+		</city>
+		<city value="株洲" id="ZhuZhou">
+			<area value="天元" />
+			<area value="荷塘" />
+			<area value="芦淞" />
+			<area value="石峰" />
+			<area value="云龙" />
+			<area value="醴陵" />
+			<area value="株洲" />
+			<area value="炎陵" />
+			<area value="茶陵" />
+			<area value="攸县" />
+		</city>
+		<city value="湘潭" id="XiangTan">
+			<area value="岳塘" />
+			<area value="雨湖" />
+			<area value="韶山" />
+			<area value="湘乡" />
+			<area value="湘潭" />
+		</city>
+		<city value="衡阳" id="HengYang">
+			<area value="雁峰" />
+			<area value="珠晖" />
+			<area value="石鼓" />
+			<area value="蒸湘" />
+			<area value="南岳" />
+			<area value="常宁" />
+			<area value="耒阳" />
+			<area value="衡阳" />
+			<area value="衡东" />
+			<area value="衡山" />
+			<area value="衡南" />
+			<area value="祁东" />
+		</city>
+		<city value="邵阳" id="ShaoYang">
+			<area value="双清" />
+			<area value="大祥" />
+			<area value="北塔" />
+			<area value="武冈" />
+			<area value="邵东" />
+			<area value="洞口" />
+			<area value="新邵" />
+			<area value="绥宁" />
+			<area value="新宁" />
+			<area value="邵阳" />
+			<area value="隆回" />
+			<area value="城步" />
+		</city>
+		<city value="张家界" id="ZhangJiaJie">
+			<area value="永定" />
+			<area value="武陵源" />
+			<area value="慈利" />
+			<area value="桑植" />
+		</city>
+		<city value="益阳" id="YiYang">
+			<area value="赫山" />
+			<area value="资阳" />
+			<area value="沅江" />
+			<area value="桃江" />
+			<area value="南县" />
+			<area value="安化" />
+		</city>
+		<city value="常德" id="ChangDe">
+			<area value="鼎城" />
+			<area value="武陵" />
+			<area value="津市" />
+			<area value="澧县" />
+			<area value="临澧" />
+			<area value="桃源" />
+			<area value="汉寿" />
+			<area value="安乡" />
+			<area value="石门" />
+		</city>
+		<city value="娄底" id="LouDi">
+			<area value="娄星" />
+			<area value="冷水江" />
+			<area value="涟源" />
+			<area value="新化" />
+			<area value="双峰" />
+		</city>
+		<city value="郴州" id="ChenZhou">
+			<area value="苏仙" />
+			<area value="北湖" />
+			<area value="资兴" />
+			<area value="宜章" />
+			<area value="汝城" />
+			<area value="安仁" />
+			<area value="嘉禾" />
+			<area value="临武" />
+			<area value="桂东" />
+			<area value="永兴" />
+			<area value="桂阳" />
+		</city>
+		<city value="永州" id="YongZhou">
+			<area value="零陵" />
+			<area value="冷水滩" />
+			<area value="祁阳" />
+			<area value="蓝山" />
+			<area value="宁远" />
+			<area value="新田" />
+			<area value="东安" />
+			<area value="江永" />
+			<area value="道县" />
+			<area value="双牌" />
+			<area value="江华" />
+		</city>
+		<city value="怀化" id="HuaiHua">
+			<area value="鹤城" />
+			<area value="洪江" />
+			<area value="会同" />
+			<area value="沅陵" />
+			<area value="辰溪" />
+			<area value="溆浦" />
+			<area value="中方" />
+			<area value="新晃" />
+			<area value="芷江" />
+			<area value="通道" />
+			<area value="靖州" />
+			<area value="麻阳" />
+		</city>
+		<city value="湘西" id="XiangXi">
+			<area value="吉首" />
+			<area value="古丈" />
+			<area value="龙山" />
+			<area value="永顺" />
+			<area value="凤凰" />
+			<area value="泸溪" />
+			<area value="保靖" />
+			<area value="花垣" />
+
+		</city>
+		<city value="岳阳" id="YueYang">
+			<area value="岳阳楼" />
+			<area value="云溪" />
+			<area value="君山" />
+			<area value="华容" />
+			<area value="华容" />
+			<area value="湘阴" />
+			<area value="平江" />
+			<area value="汨罗" />
+<area value="临湘" />
+		</city>
+
+	</province>
+	<province value="广东" id="GuangDong">
+		<city value="广州" id="GuangZhou">
+			<area value="越秀" />
+			<area value="荔湾" />
+			<area value="海珠" />
+			<area value="天河" />
+			<area value="白云" />
+			<area value="黄埔" />
+			<area value="番禺" />
+			<area value="花都" />
+			<area value="南沙" />
+			<area value="萝岗" />
+			<area value="从化" />
+<area value="增城" />
+
+
+		</city>
+		<city value="深圳" id="ShenZhen">
+			<area value="福田" />
+			<area value="罗湖" />
+			<area value="南山" />
+			<area value="宝安" />
+			<area value="龙岗" />
+			<area value="盐田" />
+		</city>
+		<city value="珠海" id="ZhuHai">
+			<area value="香洲" />
+			<area value="斗门" />
+			<area value="金湾" />
+		</city>
+		<city value="汕头" id="ShanTou">
+			<area value="金平" />
+			<area value="龙湖" />
+			<area value="濠江" />
+			<area value="潮阳" />
+			<area value="潮南" />
+			<area value="澄海" />
+			<area value="南澳" />
+		</city>
+		<city value="佛山" id="FoShan">
+			<area value="禅城" />
+			<area value="南海" />
+			<area value="顺德" />
+			<area value="三水" />
+			<area value="高明" />
+		</city>
+		<city value="韶关" id="ShaoGuan">
+			<area value="浈江" />
+			<area value="武江" />
+			<area value="曲江" />
+			<area value="乐昌" />
+			<area value="南雄" />
+			<area value="始兴" />
+			<area value="仁化" />
+			<area value="翁源" />
+			<area value="新丰" />
+			<area value="乳源" />
+		</city>
+		<city value="湛江" id="ZhanJiang">
+			<area value="赤坎" />
+			<area value="霞山" />
+			<area value="坡头" />
+			<area value="麻章" />
+			<area value="廉江" />
+			<area value="雷州" />
+			<area value="吴川" />
+			<area value="遂溪" />
+			<area value="徐闻" />
+		</city>
+		<city value="肇庆" id="ZhaoQing">
+			<area value="端州" />
+			<area value="鼎湖" />
+			<area value="高要" />
+			<area value="四会" />
+			<area value="广宁" />
+			<area value="怀集" />
+			<area value="封开" />
+			<area value="德庆" />
+		</city>
+		<city value="江门" id="JiangMen">
+			<area value="江海" />
+			<area value="蓬江" />
+			<area value="新会" />
+			<area value="台山" />
+			<area value="开平" />
+			<area value="鹤山" />
+			<area value="恩平" />
+		</city>
+		<city value="茂名" id="MaoMing">
+			<area value="茂南" />
+			<area value="茂港" />
+			<area value="高州" />
+			<area value="化州" />
+			<area value="信宜" />
+			<area value="电白" />
+		</city>
+		<city value="惠州" id="HuiZhou">
+			<area value="惠城" />
+			<area value="惠阳" />
+			<area value="博罗" />
+			<area value="惠东" />
+			<area value="龙门" />
+		</city>
+		<city value="梅州" id="MeiZhou">
+			<area value="梅江" />
+			<area value="兴宁" />
+			<area value="梅县" />
+			<area value="大埔" />
+			<area value="丰顺" />
+			<area value="五华" />
+			<area value="平远" />
+			<area value="蕉岭" />
+		</city>
+		<city value="汕尾" id="ShanWei">
+			<area value="城区" />
+			<area value="陆丰" />
+			<area value="海丰" />
+			<area value="陆河" />
+		</city>
+		<city value="河源" id="HeYuan">
+			<area value="源城" />
+			<area value="龙川" />
+			<area value="和平" />
+			<area value="连平" />
+			<area value="紫金" />
+			<area value="东源" />
+		</city>
+		<city value="阳江" id="YangJiang">
+			<area value="江城" />
+			<area value="阳春" />
+			<area value="阳西" />
+			<area value="阳东" />
+		</city>
+		<city value="清远" id="QingYuan">
+			<area value="清城" />
+			<area value="英德" />
+			<area value="连州" />
+			<area value="佛冈" />
+			<area value="阳山" />
+			<area value="清新" />
+			<area value="连山" />
+			<area value="连南" />
+		</city>
+		<city value="东莞" id="DongGuan">
+			<area value="东城" />
+			<area value="南城" />
+			<area value="莞城" />
+			<area value="万江" />
+			<area value="石碣" />
+			<area value="石龙" />
+			<area value="茶山" />
+			<area value="石排" />
+			<area value="企石" />
+			<area value="横沥" />
+			<area value="桥头" />
+			<area value="谢岗" />
+			<area value="东坑" />
+			<area value="常平" />
+			<area value="寮步" />
+			<area value="大朗" />
+			<area value="黄江" />
+			<area value="清溪" />
+			<area value="塘厦" />
+			<area value="凤岗" />
+			<area value="长安" />
+			<area value="虎门" />
+			<area value="厚街" />
+			<area value="沙田" />
+			<area value="道滘" />
+			<area value="洪梅" />
+			<area value="麻涌" />
+			<area value="中堂" />
+			<area value="高埗" />
+			<area value="樟木头" />
+			<area value="大岭山" />
+			<area value="望牛墩" />
+		</city>
+		<city value="中山" id="ZhongShan">
+			<area value="石岐" />
+			<area value="东区" />
+			<area value="西区" />
+			<area value="南区" />
+			<area value="火炬" />
+			<area value="五桂山" />
+			<area value="小榄" />
+			<area value="古镇" />
+			<area value="横栏" />
+			<area value="东升" />
+			<area value="港口" />
+			<area value="沙溪" />
+			<area value="大涌" />
+			<area value="黄圃" />
+			<area value="南头" />
+			<area value="东凤" />
+			<area value="阜沙" />
+			<area value="三角" />
+			<area value="民众" />
+			<area value="南朗" />
+			<area value="三乡" />
+			<area value="板芙" />
+			<area value="神湾" />
+			<area value="坦洲" />
+		</city>
+		<city value="潮州" id="ChaoZhou">
+			<area value="湘桥" />
+			<area value="枫溪" />
+			<area value="潮安" />
+			<area value="饶平" />
+		</city>
+		<city value="揭阳" id="JieYang">
+			<area value="榕城" />
+			<area value="普宁" />
+			<area value="惠来" />
+			<area value="揭东" />
+			<area value="揭西" />
+		</city>
+		<city value="云浮" id="YunFu">
+			<area value="云城" />
+			<area value="罗定" />
+			<area value="新兴" />
+			<area value="郁南" />
+			<area value="云安" />
+		</city>
+	</province>
+	<province value="广西" id="GuangXi">
+		<city value="南宁" id="NanNing">
+			<area value="青秀" />
+			<area value="兴宁" />
+			<area value="西乡塘" />
+			<area value="江南" />
+			<area value="良庆" />
+			<area value="邕宁" />
+			<area value="武鸣" />
+			<area value="隆安" />
+			<area value="马山" />
+			<area value="上林" />
+			<area value="宾阳" />
+			<area value="横县" />
+		</city>
+		<city value="柳州" id="iuZhou">
+			<area value="城中" />
+			<area value="鱼峰" />
+			<area value="柳北" />
+			<area value="柳南" />
+			<area value="柳江" />
+			<area value="柳城" />
+			<area value="鹿寨" />
+			<area value="融安" />
+			<area value="融水" />
+			<area value="三江" />
+		</city>
+		<city value="崇左" id="ChongZuo">
+			<area value="江州" />
+			<area value="凭祥" />
+			<area value="宁明" />
+			<area value="扶绥" />
+			<area value="龙州" />
+			<area value="大新" />
+			<area value="天等" />
+		</city>
+		<city value="来宾" id="LaiBin">
+			<area value="兴宾" />
+			<area value="合山" />
+			<area value="象州" />
+			<area value="武宣" />
+			<area value="忻城" />
+			<area value="金秀" />
+		</city>
+		<city value="河池" id="HeChi">
+			<area value="金城江" />
+			<area value="宜州" />
+			<area value="天峨" />
+			<area value="凤山" />
+			<area value="南丹" />
+			<area value="东兰" />
+			<area value="都安" />
+			<area value="罗城" />
+			<area value="巴马" />
+			<area value="环江" />
+			<area value="大化" />
+		</city>
+		<city value="贺州" id="HeZhou">
+			<area value="八步" />
+			<area value="平桂" />
+			<area value="钟山" />
+			<area value="昭平" />
+			<area value="富川" />
+		</city>
+		<city value="百色" id="BaiSe">
+			<area value="右江" />
+			<area value="凌云" />
+			<area value="平果" />
+			<area value="西林" />
+			<area value="乐业" />
+			<area value="德保" />
+			<area value="田林" />
+			<area value="田阳" />
+			<area value="靖西" />
+			<area value="田东" />
+			<area value="那坡" />
+			<area value="隆林" />
+		</city>
+		<city value="玉林" id="YuLin">
+			<area value="玉州" />
+			<area value="福绵" />
+			<area value="玉东" />
+			<area value="北流" />
+			<area value="容县" />
+			<area value="陆川" />
+			<area value="博白" />
+			<area value="兴业" />
+		</city>
+		<city value="贵港" id="GuiGang">
+			<area value="港北" />
+			<area value="港南" />
+			<area value="覃塘" />
+			<area value="桂平" />
+			<area value="平南" />
+		</city>
+		<city value="钦州" id="QinZhou">
+			<area value="钦南" />
+			<area value="钦北" />
+			<area value="灵山" />
+			<area value="浦北" />
+		</city>
+		<city value="桂林" id="GuiLin">
+			<area value="象山" />
+			<area value="秀峰" />
+			<area value="叠彩" />
+			<area value="七星" />
+			<area value="雁山" />
+			<area value="阳朔" />
+			<area value="临桂" />
+			<area value="灵川" />
+			<area value="全州" />
+			<area value="平乐" />
+			<area value="兴安" />
+			<area value="灌阳" />
+			<area value="荔浦" />
+			<area value="资源" />
+			<area value="永福" />
+			<area value="龙胜" />
+			<area value="恭城" />
+		</city>
+		<city value="梧州" id="WuZhou">
+			<area value="万秀" />
+			<area value="蝶山" />
+			<area value="长洲" />
+			<area value="岑溪" />
+			<area value="苍梧" />
+			<area value="藤县" />
+			<area value="蒙山" />
+		</city>
+		<city value="北海" id="BeiHai">
+			<area value="海城" />
+			<area value="银海" />
+			<area value="铁山港" />
+			<area value="合浦" />
+		</city>
+		<city value="防城港" id="FangChengGang">
+			<area value="港口" />
+			<area value="防城" />
+			<area value="东兴" />
+			<area value="上思" />
+		</city>
+	</province>
+	<province value="海南" id="HaiNan">
+		<city value="海口" id="HaiKou">
+			<area value="龙华" />
+			<area value="秀英" />
+			<area value="琼山" />
+			<area value="美兰" />
+		</city>
+		<city value="三亚" id="SanYa">
+			<area value="三亚" />
+		</city>
+		<city value="儋州" id="DanZhou">
+			<area value="儋州" />
+		</city>
+		<city value="五指山" id="WuZhiShan">
+			<area value="五指山" />
+		</city>
+		<city value="文昌" id="WenChang">
+			<area value="文昌" />
+		</city>
+		<city value="琼海" id="QiongHai">
+			<area value="琼海" />
+		</city>
+		<city value="万宁" id="WanNing">
+			<area value="万宁" />
+		</city>
+		<city value="东方" id="DongFang">
+			<area value="东方" />
+		</city>
+		<city value="琼中黎族苗族自治县" id="QiongZhongLiZuMiaoZu">
+			<area value="琼中黎族苗族自治县" />
+		</city>
+		<city value="保亭黎族苗族自治县" id="BaoTingLiZuMiaoZu">
+			<area value="保亭黎族苗族自治县" />
+		</city>
+		<city value="白沙黎族自治县" id="BaiShaLiZuMiaoZu">
+			<area value="白沙黎族自治县" />
+		</city>
+		<city value="昌江黎族自治县" id="ChangJiangLiZu">
+			<area value="昌江黎族自治县" />
+		</city>
+		<city value="乐东黎族自治县" id="LeDongLiZu">
+			<area value="乐东黎族自治县" />
+		</city>
+		<city value="陵水黎族自治县" id="LingShuiLiZu">
+			<area value="陵水黎族自治县" />
+		</city>
+		<city value="定安" id="AnDing">
+			<area value="定安" />
+		</city>
+		<city value="屯昌" id="TunChang">
+			<area value="屯昌" />
+		</city>
+		<city value="澄迈" id="ChengMai">
+			<area value="澄迈" />
+		</city>
+		<city value="临高" id="LinGao">
+			<area value="临高" />
+		</city>
+		<city value="洋浦经济开发区" id="YangPuJingJiKaiFaQu">
+			<area value="洋浦经济开发区" />
+		</city>
+		<city value="西沙群岛" id="XiShaQunDao">
+			<area value="西沙群岛" />
+		</city>
+		<city value="南沙群岛" id="NanShaQunDao">
+			<area value="南沙群岛" />
+		</city>
+		<city value="中沙群岛" id="ZhongShaQunDao">
+			<area value="中沙群岛" />
+		</city>
+	</province>
+	<province value="四川" id="SiChuan">
+		<city value="成都" id="ChengDu">
+			<area value="青羊" />
+			<area value="锦江" />
+			<area value="武侯" />
+			<area value="成华" />
+			<area value="金牛" />
+			<area value="龙泉驿" />
+			<area value="青白江" />
+			<area value="高新" />
+			<area value="金堂" />
+			<area value="双流" />
+			<area value="温江" />
+			<area value="崇州" />
+			<area value="新都" />
+			<area value="都江堰" />
+			<area value="邛崃" />
+			<area value="郫县" />
+			<area value="蒲江" />
+			<area value="新津" />
+			<area value="大邑" />
+			<area value="彭州" />
+		</city>
+		<city value="自贡" id="ZiGong">
+			<area value="自流井" />
+			<area value="贡井" />
+			<area value="大安" />
+			<area value="沿滩" />
+			<area value="荣县" />
+			<area value="富顺" />
+		</city>
+		<city value="攀枝花" id="PanZhiHua">
+			<area value="东区" />
+			<area value="西区" />
+			<area value="仁和" />
+			<area value="米易" />
+			<area value="盐边" />
+		</city>
+		<city value="泸州" id="LuZhou">
+			<area value="江阳" />
+			<area value="龙马潭" />
+			<area value="纳溪" />
+			<area value="泸县" />
+			<area value="合江" />
+			<area value="叙永" />
+			<area value="古蔺" />
+		</city>
+		<city value="德阳" id="DeYang">
+			<area value="旌阳" />
+			<area value="广汉" />
+			<area value="什邡" />
+			<area value="绵竹" />
+			<area value="中江" />
+<area value="罗汉" />
+		</city>
+		<city value="绵阳" id="MianYang">
+			<area value="游仙" />
+			<area value="江油" />
+			<area value="平武" />
+			<area value="安县" />
+			<area value="梓潼" />
+			<area value="北川" />
+			<area value="盐亭" />
+			<area value="三台" />
+<area value="涪城" />
+		</city>
+		<city value="广元" id="GuangYuan">
+			<area value="市中" />
+			<area value="元坝" />
+			<area value="朝天" />
+			<area value="剑阁" />
+			<area value="旺苍" />
+			<area value="青川" />
+			<area value="苍溪" />
+		</city>
+		<city value="遂宁" id="SuiNing">
+			<area value="船山" />
+			<area value="蓬溪" />
+			<area value="射洪" />
+			<area value="大英" />
+<area value="安居" />
+		</city>
+		<city value="内江" id="NeiJiang">
+			<area value="市中" />
+			<area value="东兴" />
+			<area value="资中" />
+			<area value="威远" />
+			<area value="隆昌" />
+		</city>
+		<city value="资阳" id="ZiYang">
+			<area value="简阳" />
+			<area value="安岳" />
+			<area value="雁江" />
+			<area value="乐至" />
+		</city>
+		<city value="眉山" id="MeiShan">
+			<area value="东坡" />
+			<area value="仁寿" />
+			<area value="彭山" />
+			<area value="洪雅" />
+			<area value="青神" />
+			<area value="丹棱" />
+		</city>
+		<city value="乐山" id="LeShan">
+			<area value="市中" />
+			<area value="五通桥" />
+			<area value="沙湾" />
+			<area value="峨眉山" />
+			<area value="犍为" />
+			<area value="夹江" />
+			<area value="井研" />
+			<area value="峨边" />
+			<area value="金口河" />
+			<area value="马边" />
+<area value="沐川" />
+
+		</city>
+		<city value="南充" id="NanChong">
+			<area value="阆中" />
+			<area value="顺庆" />
+			<area value="高坪" />
+			<area value="嘉陵" />
+			<area value="营山" />
+			<area value="仪陇" />
+			<area value="蓬安" />
+			<area value="南部" />
+			<area value="西充" />
+		</city>
+		<city value="雅安" id="YaAn">
+			<area value="雨城" />
+			<area value="名山" />
+			<area value="石棉" />
+			<area value="天全" />
+			<area value="芦山" />
+			<area value="宝兴" />
+			<area value="荥经" />
+			<area value="汉源" />
+		</city>
+		<city value="广安" id="GuangAn">
+			<area value="广安" />
+			<area value="岳池" />
+			<area value="武胜" />
+			<area value="邻水" />
+			<area value="华蓥" />
+		</city>
+		<city value="巴中" id="BaZhong">
+			<area value="巴州" />
+			<area value="通江" />
+			<area value="南江" />
+			<area value="平昌" />
+		</city>
+		<city value="达州" id="DaZhou">
+			<area value="通川" />
+			<area value="达县" />
+			<area value="宣汉" />
+			<area value="大竹" />
+			<area value="开江" />
+			<area value="万源" />
+			<area value="渠县" />
+		</city>
+		<city value="宜宾" id="YiBin">
+			<area value="宜宾" />
+			<area value="江安" />
+			<area value="长宁" />
+			<area value="高县" />
+			<area value="筠连" />
+			<area value="屏山" />
+			<area value="珙县" />
+			<area value="兴文" />
+			<area value="翠屏" />
+			<area value="南溪" />
+		</city>
+		<city value="阿坝" id="ABa">
+			<area value="汶川" />
+			<area value="松潘" />
+			<area value="南坪" />
+			<area value="金川" />
+			<area value="小金" />
+			<area value="阿坝" />
+			<area value="黑水" />
+			<area value="壤塘" />
+			<area value="马尔康" />
+			<area value="理县" />
+			<area value="茂县" />
+			<area value="若尔盖" />
+			<area value="红原" />
+		</city>
+		<city value="甘孜" id="GanZi">
+			<area value="康定" />
+			<area value="泸定" />
+			<area value="丹巴" />
+			<area value="九龙" />
+			<area value="雅江" />
+			<area value="道孚" />
+			<area value="炉霍" />
+			<area value="甘孜" />
+			<area value="新龙" />
+			<area value="德格" />
+			<area value="白玉" />
+			<area value="石渠" />
+			<area value="色达" />
+			<area value="理塘" />
+			<area value="乡城" />
+			<area value="稻城" />
+			<area value="得荣" />
+<area value="巴塘" />
+
+		</city>
+		<city value="凉山" id="LiangShan">
+			<area value="西昌" />
+			<area value="盐源" />
+			<area value="德昌" />
+			<area value="会理" />
+			<area value="昭觉" />
+			<area value="美姑" />
+			<area value="雷波" />
+			<area value="木里" />
+			<area value="会东" />
+			<area value="宁南" />
+			<area value="普格" />
+			<area value="布拖" />
+			<area value="金阳" />
+			<area value="喜德" />
+			<area value="冕宁" />
+			<area value="越西" />
+			<area value="甘洛" />
+		</city>
+	</province>
+	<province value="贵州" id="GuiZhou">
+		<city value="贵阳" id="GuiYang">
+			<area value="南明" />
+			<area value="云岩" />
+			<area value="花溪" />
+			<area value="乌当" />
+			<area value="白云" />
+			<area value="小河" />
+			<area value="清镇" />
+			<area value="息烽" />
+			<area value="开阳" />
+			<area value="修文" />
+		</city>
+		<city value="六盘水" id="LiuPanShui">
+			<area value="钟山" />
+			<area value="水城" />
+			<area value="盘县特区" />
+			<area value="六枝特区" />
+		</city>
+		<city value="遵义" id="ZunYi">
+			<area value="红花岗" />
+			<area value="赤水" />
+			<area value="仁怀" />
+			<area value="遵义" />
+			<area value="绥阳" />
+			<area value="桐梓" />
+			<area value="习水" />
+			<area value="凤冈" />
+			<area value="正安" />
+			<area value="余庆" />
+			<area value="湄潭" />
+			<area value="道真" />
+			<area value="务川" />
+<area value="汇川" />
+
+		</city>
+		<city value="铜仁" id="TongRen">
+			<area value="铜仁" />
+			<area value="德江" />
+			<area value="江口" />
+			<area value="石阡" />
+			<area value="思南" />
+			<area value="万山" />
+			<area value="玉屏" />
+			<area value="沿河" />
+			<area value="松桃" />
+			<area value="印江" />
+		</city>
+		<city value="毕节" id="BiJie">
+			<area value="毕节" />
+			<area value="赫章" />
+			<area value="纳雍" />
+			<area value="黔西" />
+			<area value="大方" />
+			<area value="织金" />
+			<area value="金沙" />
+			<area value="威宁" />
+		</city>
+		<city value="安顺" id="AnShun">
+			<area value="西秀" />
+			<area value="普定" />
+			<area value="平坝" />
+			<area value="镇宁" />
+			<area value="紫云" />
+			<area value="关岭" />
+		</city>
+		<city value="黔西南" id="QianXiNan">
+			<area value="兴义" />
+			<area value="望谟" />
+			<area value="兴仁" />
+			<area value="普安" />
+			<area value="册亨" />
+			<area value="晴隆" />
+			<area value="贞丰" />
+			<area value="安龙" />
+		</city>
+		<city value="黔东南" id="QianDongNan">
+			<area value="凯里" />
+			<area value="施秉" />
+			<area value="从江" />
+			<area value="锦屏" />
+			<area value="镇远" />
+			<area value="麻江" />
+			<area value="台江" />
+			<area value="天柱" />
+			<area value="黄平" />
+			<area value="榕江" />
+			<area value="剑河" />
+			<area value="三穗" />
+			<area value="雷山" />
+			<area value="黎平" />
+			<area value="岑巩" />
+			<area value="丹寨" />
+		</city>
+		<city value="黔南" id="QianNan">
+			<area value="都匀" />
+			<area value="福泉" />
+			<area value="贵定" />
+			<area value="惠水" />
+			<area value="罗甸" />
+			<area value="瓮安" />
+			<area value="荔波" />
+			<area value="龙里" />
+			<area value="平塘" />
+			<area value="长顺" />
+			<area value="独山" />
+			<area value="三都" />
+		</city>
+	</province>
+	<province value="黑龙江" id="HeiLongJiang">
+		<city value="哈尔滨" id="HaErBin">
+			<area value="道里" />
+			<area value="南岗" />
+			<area value="道外" />
+			<area value="香坊" />
+			<area value="松北" />
+			<area value="平房" />
+			<area value="呼兰" />
+			<area value="阿城" />
+			<area value="双城" />
+			<area value="尚志" />
+			<area value="五常" />
+			<area value="依兰" />
+			<area value="方正" />
+			<area value="宾县" />
+			<area value="巴彦县" />
+			<area value="木兰县" />
+			<area value="通河" />
+			<area value="延寿" />
+		</city>
+		<city value="齐齐哈尔" id="QiQiHaEr">
+			<area value="龙沙" />
+			<area value="建华" />
+			<area value="铁锋" />
+			<area value="富拉尔基" />
+			<area value="昂昂溪" />
+			<area value="碾子山" />
+			<area value="梅里斯达斡尔族" />
+			<area value="讷河" />
+			<area value="克山" />
+			<area value="克东" />
+			<area value="甘南" />
+			<area value="富裕" />
+			<area value="依安" />
+			<area value="拜泉" />
+			<area value="龙江" />
+			<area value="泰来" />
+		</city>
+		<city value="牡丹江" id="MuDanJiang">
+			<area value="爱民" />
+			<area value="东安" />
+			<area value="阳明" />
+			<area value="西安" />
+			<area value="绥芬河" />
+			<area value="海林" />
+			<area value="宁安" />
+			<area value="穆棱" />
+			<area value="东宁" />
+			<area value="林口" />
+		</city>
+		<city value="佳木斯" id="JiaMuSi">
+			<area value="前进" />
+			<area value="向阳" />
+			<area value="东风" />
+			<area value="郊区" />
+			<area value="同江" />
+			<area value="富锦" />
+			<area value="桦南" />
+			<area value="桦川" />
+			<area value="汤原" />
+			<area value="抚远" />
+		</city>
+		<city value="大庆" id="DaQing">
+			<area value="萨尔图" />
+			<area value="龙凤" />
+			<area value="让胡路" />
+			<area value="红岗" />
+			<area value="大同" />
+			<area value="肇州" />
+			<area value="肇源" />
+			<area value="林甸" />
+			<area value="杜尔伯特" />
+		</city>
+		<city value="鸡西" id="JiXi">
+			<area value="鸡冠" />
+			<area value="恒山" />
+			<area value="滴道" />
+			<area value="梨树" />
+			<area value="城子河" />
+			<area value="麻山" />
+			<area value="虎林" />
+			<area value="密山" />
+			<area value="鸡东" />
+		</city>
+		<city value="双鸭山" id="ShuangYaShan">
+			<area value="尖山" />
+			<area value="岭东" />
+			<area value="四方台" />
+			<area value="宝山" />
+			<area value="集贤" />
+			<area value="友谊" />
+			<area value="宝清" />
+			<area value="饶河" />
+		</city>
+		<city value="伊春" id="YiChun_HeiLongJiang">
+			<area value="伊春" />
+			<area value="南岔" />
+			<area value="友好" />
+			<area value="西林" />
+			<area value="翠峦" />
+			<area value="新青" />
+			<area value="美溪" />
+			<area value="金山屯" />
+			<area value="五营" />
+			<area value="乌马河" />
+			<area value="汤旺河" />
+			<area value="带岭区" />
+			<area value="乌伊岭" />
+			<area value="红星" />
+			<area value="上甘岭" />
+			<area value="铁力" />
+			<area value="嘉荫" />
+		</city>
+		<city value="七台河" id="QiTaiHe">
+			<area value="桃山" />
+			<area value="新兴" />
+			<area value="茄子河" />
+			<area value="勃利" />
+		</city>
+		<city value="鹤岗" id="HeGang">
+			<area value="兴山" />
+			<area value="向阳" />
+			<area value="工农" />
+			<area value="南山" />
+			<area value="兴安" />
+			<area value="东山" />
+			<area value="萝北" />
+			<area value="绥滨" />
+		</city>
+		<city value="黑河" id="HeiHe">
+			<area value="爱辉" />
+			<area value="北安" />
+			<area value="五大连池" />
+			<area value="嫩江" />
+			<area value="逊克" />
+			<area value="孙吴" />
+		</city>
+		<city value="绥化" id="SuiHua">
+			<area value="北林" />
+			<area value="安达" />
+			<area value="肇东" />
+			<area value="海伦" />
+			<area value="望奎" />
+			<area value="兰西" />
+			<area value="青冈" />
+			<area value="庆安" />
+			<area value="明水" />
+			<area value="绥棱" />
+</city>
+		<city value="大兴安岭" id="DaXingAnLing">
+			<area value="呼玛" />
+			<area value="塔河" />
+			<area value="漠河" />
+			<area value="加格达奇" />
+			<area value="松岭" />
+			<area value="新林" />
+			<area value="呼中" />
+		</city>
+	</province>
+	<province value="内蒙古" id="NeiMenGu">
+		<city value="呼和浩特" id="HuHeHaoTe">
+			<area value="土默特左旗" />
+			<area value="托克托" />
+			<area value="和林格尔" />
+			<area value="武川" />
+			<area value="清水河" />
+			<area value="回民" />
+			<area value="玉泉" />
+			<area value="赛罕" />
+<area value="新城" />
+		</city>
+		<city value="包头" id="BaoTou">
+			<area value="昆都仑" />
+			<area value="东河" />
+			<area value="青山" />
+			<area value="石拐" />
+			<area value="白云矿" />
+			<area value="九原" />
+			<area value="土默特右" />
+			<area value="固阳" />
+			<area value="达尔罕茂明安联合" />
+		</city>
+		<city value="乌海" id="WuHai">
+			<area value="海勃湾" />
+			<area value="海南" />
+			<area value="乌达" />
+		</city>
+		<city value="赤峰" id="ChiFeng">
+			<area value="红山" />
+			<area value="元宝山" />
+			<area value="松山" />
+			<area value="阿鲁科尔沁" />
+			<area value="巴林左" />
+			<area value="巴林右" />
+			<area value="林西" />
+			<area value="克什克腾" />
+			<area value="翁牛特" />
+			<area value="喀喇沁" />
+			<area value="宁城" />
+			<area value="敖汉" />
+		</city>
+		<city value="通辽" id="TongLiao">
+			<area value="科尔沁" />
+			<area value="霍林郭勒" />
+			<area value="科尔沁左翼中" />
+			<area value="科尔沁左翼后" />
+			<area value="开鲁" />
+			<area value="库伦" />
+			<area value="奈曼" />
+			<area value="扎鲁特" />
+		</city>
+		<city value="鄂尔多斯" id="EErDuoSi">
+			<area value="东胜" />
+			<area value="达拉特" />
+			<area value="准格尔" />
+			<area value="鄂托克前" />
+			<area value="鄂托克" />
+			<area value="杭锦" />
+			<area value="乌审" />
+			<area value="伊金霍洛" />
+		</city>
+		<city value="呼伦贝尔" id="HuLunBeiEr">
+			<area value="海拉尔" />
+			<area value="满洲里" />
+			<area value="牙克石" />
+			<area value="扎兰屯" />
+			<area value="额尔古纳" />
+			<area value="根河" />
+			<area value="阿荣" />
+			<area value="鄂伦春" />
+			<area value="莫力达瓦达斡尔族" />
+			<area value="鄂温克族" />
+			<area value="陈巴尔虎" />
+			<area value="新巴尔虎左" />
+			<area value="新巴尔虎右" />
+		</city>
+		<city value="巴彦淖尔" id="BaYanNaoEr">
+			<area value="临河" />
+			<area value="五原" />
+			<area value="磴口" />
+			<area value="乌拉特前" />
+			<area value="乌拉特中" />
+			<area value="乌拉特后" />
+			<area value="杭锦后" />
+		</city>
+		<city value="乌兰察布" id="WuLanChaBu">
+			<area value="集宁" />
+			<area value="丰镇" />
+			<area value="卓资" />
+			<area value="化德" />
+			<area value="商都" />
+			<area value="兴和" />
+			<area value="凉城" />
+			<area value="察哈尔右翼前" />
+			<area value="察哈尔右翼中" />
+			<area value="察哈尔右翼后" />
+			<area value="四子王" />
+		</city>
+		<city value="兴安" id="XingAn">
+			<area value="乌兰浩特" />
+			<area value="阿尔山" />
+			<area value="科尔沁右翼前" />
+			<area value="科尔沁右翼中" />
+			<area value="扎赉特" />
+			<area value="突泉" />
+		</city>
+		<city value="锡林郭勒" id="XiLinGuoLe">
+			<area value="锡林浩特" />
+			<area value="二连浩特" />
+			<area value="阿巴嘎" />
+			<area value="苏尼特左" />
+			<area value="苏尼特右" />
+			<area value="东乌珠穆沁" />
+			<area value="西乌珠穆沁" />
+			<area value="太仆寺" />
+			<area value="镶黄" />
+			<area value="正镶白" />
+			<area value="正蓝" />
+			<area value="多伦" />
+		</city>
+		<city value="阿拉善" id="ALaShan">
+			<area value="阿拉善左" />
+			<area value="阿拉善右" />
+			<area value="额济纳" />
+		</city>
+	</province>
+	<province value="新疆" id="XinJiang">
+		<city value="乌鲁木齐" id="WuLuMuQi">
+			<area value="天山" />
+			<area value="沙依巴克" />
+			<area value="新市" />
+			<area value="水磨沟" />
+			<area value="头屯河" />
+			<area value="达坂城" />
+			<area value="米东" />
+			<area value="乌鲁木齐" />
+		</city>
+		<city value="克拉玛依" id="KeLaMaYi">
+			<area value="独山子" />
+			<area value="克拉玛依" />
+			<area value="白碱滩" />
+			<area value="乌尔禾" />
+		</city>
+		<city value="吐鲁番" id="TuLuFan">
+			<area value="吐鲁番" />
+			<area value="鄯善" />
+			<area value="托克逊" />
+		</city>
+		<city value="哈密" id="HaMi">
+			<area value="哈密" />
+			<area value="巴里坤哈萨克" />
+			<area value="伊吾" />
+		</city>
+		<city value="昌吉" id="ChangJi">
+			<area value="昌吉" />
+			<area value="阜康" />
+			<area value="呼图壁" />
+			<area value="玛纳斯" />
+			<area value="奇台" />
+			<area value="吉木萨尔" />
+			<area value="木垒哈萨克" />
+<area value="米泉" />
+		</city>
+		<city value="博尔塔拉" id="BoErTaLaMeng">
+			<area value="博乐" />
+			<area value="精河" />
+			<area value="温泉" />
+		</city>
+		<city value="巴音郭楞" id="BaYinGuoLeng">
+			<area value="库尔勒" />
+			<area value="轮台" />
+			<area value="尉犁" />
+			<area value="若羌" />
+			<area value="且末" />
+			<area value="焉耆" />
+			<area value="和静" />
+			<area value="和硕" />
+			<area value="博湖" />
+		</city>
+		<city value="阿克苏" id="AKeSu">
+			<area value="阿克苏" />
+			<area value="温宿" />
+			<area value="库车" />
+			<area value="沙雅" />
+			<area value="新和" />
+			<area value="拜城" />
+			<area value="乌什" />
+			<area value="阿瓦提" />
+			<area value="柯坪" />
+		</city>
+		<city value="克孜勒苏柯尔克孜" id="KeZiLeSuKeErKeZi">
+			<area value="阿图什" />
+			<area value="阿克陶" />
+			<area value="阿合奇" />
+			<area value="乌恰" />
+		</city>
+		<city value="喀什" id="KaSha">
+			<area value="喀什" />
+			<area value="疏附" />
+			<area value="疏勒" />
+			<area value="英吉沙" />
+			<area value="泽普" />
+			<area value="莎车" />
+			<area value="叶城" />
+			<area value="麦盖提" />
+			<area value="岳普湖" />
+			<area value="伽师" />
+			<area value="巴楚" />
+			<area value="塔什库尔干塔吉克" />
+		</city>
+		<city value="和田" id="HeTian">
+			<area value="和田市" />
+			<area value="和田县" />
+			<area value="墨玉" />
+			<area value="皮山" />
+			<area value="洛浦" />
+			<area value="策勒" />
+			<area value="于田" />
+			<area value="民丰" />
+		</city>
+		<city value="伊犁哈萨克" id="YiLiHaSaKe">
+			<area value="伊宁市" />
+			<area value="奎屯" />
+			<area value="伊宁县" />
+			<area value="察布查尔锡伯" />
+			<area value="霍城" />
+			<area value="巩留" />
+			<area value="新源" />
+			<area value="昭苏" />
+			<area value="特克斯" />
+			<area value="尼勒克" />
+		</city>
+		<city value="塔城" id="TaCheng">
+			<area value="塔城" />
+			<area value="乌苏" />
+			<area value="额敏" />
+			<area value="沙湾" />
+			<area value="托里" />
+			<area value="裕民" />
+			<area value="和布克赛尔" />
+		</city>
+		<city value="阿勒泰" id="ALeTai">
+			<area value="阿勒泰" />
+			<area value="布尔津" />
+			<area value="富蕴" />
+			<area value="福海" />
+			<area value="哈巴河" />
+			<area value="青河" />
+			<area value="吉木乃" />
+		</city>
+	</province>
+	<province value="宁夏" id="NingXia">
+		<city value="银川" id="YinChuan">
+			<area value="兴庆" />
+			<area value="金凤" />
+			<area value="西夏" />
+			<area value="灵武" />
+			<area value="永宁" />
+			<area value="贺兰" />
+		</city>
+		<city value="石嘴山" id="ShiZuiShan">
+			<area value="大武口" />
+			<area value="惠农" />
+			<area value="平罗" />
+		</city>
+		<city value="吴忠" id="WuZhong">
+			<area value="利通" />
+			<area value="红寺堡" />
+			<area value="青铜峡" />
+			<area value="同心" />
+			<area value="盐池" />
+		</city>
+		<city value="固原" id="GuYuan">
+			<area value="原州" />
+			<area value="西吉" />
+			<area value="隆德" />
+			<area value="泾源" />
+			<area value="彭阳" />
+		</city>
+		<city value="中卫" id="ZhongWei">
+			<area value="沙坡头" />
+			<area value="中宁" />
+			<area value="海原" />
+		</city>
+	</province>
+	<province value="西藏" id="XiZang">
+		<city value="拉萨" id="LaSa">
+			<area value="城关" />
+			<area value="林周" />
+			<area value="达孜" />
+			<area value="堆龙德庆" />
+			<area value="尼木" />
+			<area value="当雄" />
+			<area value="曲水" />
+			<area value="墨竹工卡" />
+		</city>
+		<city value="昌都" id="ChangDu">
+			<area value="昌都" />
+			<area value="左贡" />
+			<area value="芒康" />
+			<area value="洛隆" />
+			<area value="边坝" />
+			<area value="江达" />
+			<area value="贡觉" />
+			<area value="类乌齐" />
+			<area value="丁青" />
+			<area value="察雅" />
+			<area value="八宿" />
+		</city>
+		<city value="林芝" id="LinZhi">
+			<area value="林芝" />
+			<area value="米林" />
+			<area value="朗县" />
+			<area value="工布江达" />
+			<area value="波密" />
+			<area value="察隅" />
+			<area value="墨脱" />
+		</city>
+		<city value="山南" id="ShanNan">
+			<area value="乃东" />
+			<area value="扎囊" />
+			<area value="贡嘎" />
+			<area value="桑日" />
+			<area value="琼结" />
+			<area value="洛扎" />
+			<area value="加查" />
+			<area value="隆子" />
+			<area value="曲松" />
+			<area value="措美" />
+			<area value="错那" />
+			<area value="浪卡子" />
+		</city>
+		<city value="日喀则" id="RiKeZe">
+			<area value="日喀则" />
+			<area value="南木林" />
+			<area value="江孜" />
+			<area value="定日" />
+			<area value="萨迦" />
+			<area value="拉孜" />
+			<area value="昂仁" />
+			<area value="谢通门" />
+			<area value="白朗" />
+			<area value="仁布" />
+			<area value="康马" />
+			<area value="定结" />
+			<area value="仲巴" />
+			<area value="亚东" />
+			<area value="吉隆" />
+			<area value="聂拉木" />
+			<area value="萨嘎" />
+			<area value="岗巴" />
+		</city>
+		<city value="那曲" id="NaQu">
+			<area value="那曲" />
+			<area value="申扎" />
+			<area value="班戈" />
+			<area value="聂荣" />
+			<area value="安多" />
+			<area value="嘉黎" />
+			<area value="巴青" />
+			<area value="比如" />
+			<area value="索县" />
+			<area value="尼玛" />
+		</city>
+		<city value="阿里" id="ALi">
+			<area value="普兰" />
+			<area value="札达" />
+			<area value="噶尔" />
+			<area value="日土" />
+			<area value="革吉" />
+			<area value="改则" />
+			<area value="措勤" />
+		</city>
+	</province>
+	<province value="青海" id="QingHai">
+		<city value="西宁" id="XiNing">
+			<area value="城中" />
+			<area value="城东" />
+			<area value="城西" />
+			<area value="城北" />
+			<area value="城南新" />
+			<area value="海湖新" />
+			<area value="湟源" />
+			<area value="湟中" />
+			<area value="大通" />
+		</city>
+		<city value="海东" id="HaiDong">
+			<area value="平安" />
+			<area value="乐都" />
+			<area value="民和" />
+			<area value="互助" />
+			<area value="化隆" />
+			<area value="循化" />
+		</city>
+		<city value="海北" id="HaiBei">
+			<area value="海晏" />
+			<area value="祁连" />
+			<area value="刚察" />
+			<area value="门源" />
+		</city>
+		<city value="黄南藏族" id="HaiNanZangZu">
+			<area value="同仁" />
+			<area value="泽库" />
+			<area value="尖扎" />
+			<area value="河南" />
+		</city>
+		<city value="海南" id="HaiNan">
+			<area value="共和" />
+			<area value="同德" />
+			<area value="贵德" />
+			<area value="兴海" />
+			<area value="贵南" />
+		</city>
+		<city value="果洛" id="GuoLuo">
+			<area value="玛沁" />
+			<area value="班玛" />
+			<area value="甘德" />
+			<area value="达日" />
+			<area value="久治" />
+			<area value="玛多" />
+		</city>
+		<city value="玉树" id="YuShu">
+			<area value="玉树" />
+			<area value="杂多" />
+			<area value="称多" />
+			<area value="治多" />
+			<area value="囊谦" />
+			<area value="曲麻莱" />
+		</city>
+		<city value="海西" id="HaiXi">
+			<area value="德令哈" />
+			<area value="格尔木" />
+			<area value="乌兰" />
+			<area value="天峻" />
+			<area value="都兰" />
+			<area value="大柴旦行政委员会" />
+			<area value="冷湖行政委员会" />
+			<area value="茫崖行政委员会" />
+		</city>
+	</province>
+	<province value="甘肃" id="GanSu">
+		<city value="兰州" id="LanZhou">
+			<area value="城关" />
+			<area value="七里河" />
+			<area value="西固" />
+			<area value="安宁" />
+			<area value="红古" />
+			<area value="榆中" />
+			<area value="皋兰" />
+			<area value="永登" />
+		</city>
+		<city value="嘉峪关" id="JiaYuGuan">
+			<area value="长城" />
+			<area value="雄关" />
+			<area value="镜铁" />
+			<area value="五一" />
+			<area value="新华" />
+			<area value="前进" />
+			<area value="胜利" />
+			<area value="建设" />
+			<area value="朝阳" />
+			<area value="裕苑" />
+			<area value="镜铁山矿区" />
+			<area value="峪泉" />
+			<area value="文殊" />
+			<area value="新城" />
+		</city>
+		<city value="金昌" id="jinChang">
+			<area value="金川" />
+			<area value="永昌" />
+		</city>
+		<city value="白银" id="BaiYin">
+			<area value="白银" />
+			<area value="平川" />
+			<area value="会宁" />
+			<area value="靖远" />
+			<area value="景泰" />
+		</city>
+		<city value="天水" id="TianShui">
+			<area value="秦州" />
+			<area value="麦积" />
+			<area value="清水" />
+			<area value="秦安" />
+			<area value="甘谷" />
+			<area value="武山" />
+			<area value="张家川" />
+		</city>
+		<city value="武威" id="WuWei">
+			<area value="凉州" />
+			<area value="古浪" />
+			<area value="民勤" />
+			<area value="天祝" />
+		</city>
+		<city value="张掖" id="ZhangYe">
+			<area value="甘州" />
+			<area value="山丹" />
+			<area value="民乐" />
+			<area value="临泽" />
+			<area value="高台" />
+			<area value="肃南" />
+		</city>
+		<city value="酒泉" id="JiuQuan">
+			<area value="肃州" />
+			<area value="玉门" />
+			<area value="敦煌" />
+			<area value="金塔" />
+			<area value="瓜州" />
+			<area value="肃北" />
+			<area value="阿克塞" />
+		</city>
+		<city value="平凉" id="PingLiang">
+			<area value="崆峒" />
+			<area value="泾川" />
+			<area value="灵台" />
+			<area value="崇信" />
+			<area value="华亭" />
+			<area value="庄浪" />
+			<area value="静宁" />
+		</city>
+		<city value="庆阳" id="QingYang">
+			<area value="西峰" />
+			<area value="正宁" />
+			<area value="华池" />
+			<area value="合水" />
+			<area value="宁县" />
+			<area value="庆城" />
+			<area value="镇原" />
+			<area value="环县" />
+		</city>
+		<city value="定西" id="DingXi">
+			<area value="安定" />
+			<area value="通渭" />
+			<area value="陇西" />
+			<area value="漳县" />
+			<area value="渭源" />
+			<area value="岷县" />
+			<area value="临洮" />
+		</city>
+		<city value="陇南" id="LongNan">
+			<area value="武都" />
+			<area value="成县" />
+			<area value="两当" />
+			<area value="徽县" />
+			<area value="西和" />
+			<area value="礼县" />
+			<area value="康县" />
+			<area value="文县" />
+			<area value="宕昌" />
+		</city>
+		<city value="临夏" id="LinXia">
+			<area value="临夏市" />
+			<area value="临夏县" />
+			<area value="康乐" />
+			<area value="广河" />
+			<area value="永靖" />
+			<area value="和政" />
+			<area value="东乡族" />
+			<area value="积石山保安族东乡族撒拉族" />
+		</city>
+		<city value="甘南" id="GanNan">
+			<area value="合作" />
+			<area value="舟曲" />
+			<area value="卓尼" />
+			<area value="临潭" />
+			<area value="迭部" />
+			<area value="夏河" />
+			<area value="碌曲" />
+			<area value="玛曲" />
+		</city>
+	</province>
+	<province value="陕西" id="ShanXi2">
+		<city value="咸阳" id="XianYang">
+			<area value="秦都" />
+			<area value="渭城" />
+			<area value="兴平" />
+			<area value="杨陵" />
+			<area value="三原" />
+			<area value="泾阳" />
+			<area value="武功" />
+			<area value="乾县" />
+			<area value="礼泉" />
+			<area value="永寿" />
+			<area value="彬县" />
+			<area value="长武" />
+			<area value="旬邑" />
+			<area value="淳化" />
+			<area value="西咸" />
+		</city>
+		<city value="西安" id="XiAn">
+			<area value="新城" />
+			<area value="碑林" />
+			<area value="莲湖" />
+			<area value="灞桥" />
+			<area value="未央" />
+			<area value="雁塔" />
+			<area value="阎良" />
+			<area value="临潼" />
+			<area value="长安" />
+			<area value="蓝田" />
+			<area value="周至" />
+			<area value="户县" />
+			<area value="高陵" />
+		</city>
+		<city value="宝鸡" id="BaoJi">
+			<area value="渭滨" />
+			<area value="金台" />
+			<area value="陈仓" />
+			<area value="凤翔" />
+			<area value="岐山" />
+			<area value="扶风" />
+			<area value="眉县" />
+			<area value="陇县" />
+			<area value="千阳" />
+			<area value="麟游" />
+			<area value="凤县" />
+			<area value="太白" />
+		</city>
+		<city value="渭南" id="WeiNan">
+			<area value="临渭" />
+			<area value="韩城" />
+			<area value="华阴" />
+			<area value="华县" />
+			<area value="潼关" />
+			<area value="大荔" />
+			<area value="合阳" />
+			<area value="澄城" />
+			<area value="蒲城" />
+			<area value="白水" />
+			<area value="富平" />
+		</city>
+		<city value="铜川" id="TongChuan">
+			<area value="耀州" />
+			<area value="王益" />
+			<area value="印台" />
+			<area value="新区" />
+			<area value="宜君" />
+		</city>
+		<city value="延安" id="YanAn">
+			<area value="宝塔" />
+			<area value="延长" />
+			<area value="延川" />
+			<area value="子长" />
+			<area value="安塞" />
+			<area value="志丹" />
+			<area value="吴起" />
+			<area value="甘泉" />
+			<area value="富县" />
+			<area value="洛川" />
+			<area value="宜川" />
+			<area value="黄龙" />
+			<area value="黄陵" />
+		</city>
+		<city value="榆林" id="YuLin_ShanXi2">
+			<area value="榆阳" />
+			<area value="神木" />
+			<area value="府谷" />
+			<area value="横山" />
+			<area value="靖边" />
+			<area value="定边" />
+			<area value="绥德" />
+			<area value="米脂" />
+			<area value="佳县" />
+			<area value="吴堡" />
+			<area value="清涧" />
+			<area value="子洲" />
+		</city>
+		<city value="汉中" id="HanZhong">
+			<area value="汉台" />
+			<area value="南郑" />
+			<area value="城固" />
+			<area value="洋县" />
+			<area value="西乡" />
+			<area value="勉县" />
+			<area value="宁强" />
+			<area value="略阳" />
+			<area value="镇巴" />
+			<area value="留坝" />
+			<area value="佛坪" />
+		</city>
+		<city value="安康" id="AnKang">
+			<area value="汉滨" />
+			<area value="旬阳" />
+			<area value="汉阴" />
+			<area value="石泉" />
+			<area value="宁陕" />
+			<area value="紫阳" />
+			<area value="岚皋" />
+			<area value="平利" />
+			<area value="镇坪" />
+			<area value="白河" />
+		</city>
+		<city value="商洛" id="ShangLuo">
+			<area value="商州" />
+			<area value="洛南" />
+			<area value="丹凤" />
+			<area value="商南" />
+			<area value="山阳" />
+			<area value="镇安" />
+			<area value="柞水" />
+			<area value="兴平" />
+		</city>
+	</province>
+	<province value="云南" id="YunNan">
+		<city value="昆明" id="KunMing">
+			<area value="盘龙" />
+			<area value="五华" />
+			<area value="官渡" />
+			<area value="西山" />
+			<area value="东川" />
+			<area value="安宁" />
+			<area value="呈贡" />
+			<area value="晋宁" />
+			<area value="富民" />
+			<area value="宜良" />
+			<area value="嵩明" />
+			<area value="石林" />
+			<area value="禄劝" />
+			<area value="寻甸" />
+		</city>
+		<city value="曲靖" id="QuJing">
+			<area value="麒麟" />
+			<area value="宣威" />
+			<area value="马龙" />
+			<area value="沾益" />
+			<area value="富源" />
+			<area value="罗平" />
+			<area value="师宗" />
+			<area value="陆良" />
+			<area value="会泽" />
+		</city>
+		<city value="玉溪" id="YuXi">
+			<area value="红塔" />
+			<area value="江川" />
+			<area value="澄江" />
+			<area value="通海" />
+			<area value="华宁" />
+			<area value="易门" />
+			<area value="峨山" />
+			<area value="新平" />
+			<area value="元江哈尼" />
+		</city>
+		<city value="保山" id="BaoShan">
+			<area value="隆阳" />
+			<area value="施甸" />
+			<area value="腾冲" />
+			<area value="龙陵" />
+			<area value="昌宁" />
+		</city>
+		<city value="昭通" id="ShaoTong">
+			<area value="昭阳" />
+			<area value="鲁甸" />
+			<area value="巧家" />
+			<area value="盐津" />
+			<area value="大关" />
+			<area value="永善" />
+			<area value="绥江" />
+			<area value="镇雄" />
+			<area value="彝良" />
+			<area value="威信" />
+			<area value="水富" />
+		</city>
+		<city value="丽江" id="LiJiang">
+			<area value="古城" />
+			<area value="永胜" />
+			<area value="华坪" />
+			<area value="玉龙" />
+			<area value="宁蒗" />
+		</city>
+		<city value="普洱" id="PuEr">
+			<area value="思茅" />
+			<area value="普洱" />
+			<area value="墨江" />
+			<area value="景东" />
+			<area value="景谷" />
+			<area value="镇沅" />
+			<area value="江城" />
+			<area value="孟连" />
+			<area value="澜沧" />
+			<area value="西盟" />
+<area value="翠云" />
+		</city>
+		<city value="临沧" id="LinCang">
+			<area value="临翔" />
+			<area value="凤庆" />
+			<area value="云县" />
+			<area value="永德" />
+			<area value="镇康" />
+			<area value="双江" />
+			<area value="耿马" />
+			<area value="沧源" />
+		</city>
+		<city value="红河" id="HongHe">
+			<area value="蒙自" />
+			<area value="个旧" />
+			<area value="开远" />
+			<area value="绿春" />
+			<area value="建水" />
+			<area value="石屏" />
+			<area value="弥勒" />
+			<area value="泸西" />
+			<area value="元阳" />
+			<area value="红河" />
+			<area value="金平" />
+			<area value="河口" />
+			<area value="屏边" />
+		</city>
+		<city value="文山" id="WenShan">
+			<area value="文山" />
+			<area value="砚山" />
+			<area value="西畴" />
+			<area value="麻栗坡" />
+			<area value="马关" />
+			<area value="丘北" />
+			<area value="广南" />
+			<area value="富宁" />
+		</city>
+		<city value="西双版纳" id="XiShuangBanNa">
+			<area value="景洪" />
+			<area value="勐海" />
+			<area value="勐腊" />
+		</city>
+		<city value="德宏" id="DeHong">
+			<area value="芒市" />
+			<area value="瑞丽" />
+			<area value="梁河" />
+			<area value="盈江" />
+			<area value="陇川" />
+		</city>
+		<city value="怒江" id="NuJiangLi">
+			<area value="泸水" />
+			<area value="福贡" />
+			<area value="贡山" />
+			<area value="兰坪" />
+		</city>
+		<city value="迪庆" id="DiQing">
+			<area value="香格里拉" />
+			<area value="德钦" />
+			<area value="维西" />
+		</city>
+		<city value="大理" id="DaLi">
+			<area value="大理" />
+			<area value="祥云" />
+			<area value="宾川" />
+			<area value="弥渡" />
+			<area value="永平" />
+			<area value="云龙" />
+			<area value="洱源" />
+			<area value="剑川" />
+			<area value="鹤庆" />
+			<area value="漾濞" />
+			<area value="南涧" />
+			<area value="巍山" />
+		</city>
+		<city value="楚雄" id="ChuXiong">
+			<area value="楚雄" />
+			<area value="双柏" />
+			<area value="牟定" />
+			<area value="南华" />
+			<area value="姚安" />
+			<area value="大姚" />
+			<area value="永仁" />
+			<area value="元谋" />
+			<area value="武定" />
+			<area value="禄丰" />
+		</city>
+	</province>
+</country>

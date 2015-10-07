@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bground"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:background="@drawable/elad_top"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dip"
+            android:gravity="center|center_vertical"
+            android:text="@string/servicetab_booking_title"
+            android:textColor="@color/white"
+            android:textSize="20dip"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dip"
+        android:layout_marginRight="15dip"
+        android:layout_marginTop="15dip" >
+
+        <TableRow
+            android:background="@drawable/elad_shang"
+            android:gravity="center" >
+
+            <TextView
+                style="@style/qqs_textview"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/servicetab_booking_textviewa" />
+
+            <TextView
+                android:id="@+id/servicetab_booking_textviewa"
+                style="@style/qqs_textviewa"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow
+            android:background="@drawable/elad_zhongjian"
+            android:gravity="center" >
+
+            <TextView
+                style="@style/qqs_textview"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/servicetab_booking_textviewb" />
+
+            <TextView
+                android:id="@+id/servicetab_booking_textviewb"
+                style="@style/qqs_textviewa"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow
+            android:background="@drawable/elad_zhongjian"
+            android:gravity="center" >
+
+            <TextView
+                style="@style/qqs_textview"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/servicetab_booking_textviewc" />
+
+            <TextView
+                android:id="@+id/servicetab_booking_textviewc"
+                style="@style/qqs_textviewa"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow
+            android:background="@drawable/elad_zhongjian"
+            android:gravity="center" >
+
+            <TextView
+                style="@style/qqs_textview"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/servicetab_booking_textviewd" />
+
+            <TextView
+                android:id="@+id/servicetab_booking_textviewd"
+                style="@style/qqs_textviewa"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow
+            android:background="@drawable/elad_zhongjian"
+            android:gravity="center" >
+
+            <TextView
+                style="@style/qqs_textview"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/servicetab_booking_textviewe" />
+
+            <TextView
+                android:id="@+id/servicetab_booking_textviewe"
+                style="@style/qqs_textviewa"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow
+            android:background="@drawable/elad_zhongjian"
+            android:gravity="center" >
+
+            <TextView
+                style="@style/qqs_textview"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/servicetab_booking_textviewf" />
+
+            <TextView
+                android:id="@+id/servicetab_booking_textviewf"
+                style="@style/qqs_textviewa"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow
+            android:background="@drawable/elad_xia"
+            android:gravity="center" >
+
+            <TextView
+                style="@style/qqs_textview"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/servicetab_booking_textviewg" />
+
+            <TextView
+                android:id="@+id/servicetab_booking_textviewg"
+                style="@style/qqs_textviewa"
+                android:layout_weight="1" />
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

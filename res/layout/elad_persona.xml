@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="@drawable/elad_bg">
+<LinearLayout
+	  android:orientation="vertical"
+	  android:layout_width="fill_parent"
+	  android:layout_height="40dip" 
+	  android:background="@drawable/elad_top">
+  		<TextView android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:gravity="center|center_vertical"
+			android:textSize="20dip" 
+			android:textStyle="bold" 
+			android:textColor="@color/white"
+			android:layout_marginTop="7dip" 
+			android:text="@string/main_person"/>
+	</LinearLayout>
+    
+    
+	<TextView style="@style/pointtab_manager" 
+	    android:text="@string/tabcontent_settab_textviewa" />
+
+	<Button style="@style/btn_qqs" android:id="@+id/tabcontent_settab_Button"
+		android:textColor="@color/white" android:background="@drawable/elad_select_bt_over"
+		android:text="@string/tabcontent_settab_Button" />
+
+</LinearLayout>

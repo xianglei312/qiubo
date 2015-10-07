@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent" 
+	android:layout_height="fill_parent" android:background="@color/bground">
+	<LinearLayout
+	  android:orientation="vertical"
+	  android:layout_width="fill_parent"
+	  android:layout_height="40dip" 
+	  android:background="@drawable/elad_top">
+  		<TextView 
+  		    android:id="@+id/textviewtitle"
+  		    android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:gravity="center|center_vertical"
+			android:textSize="20dip" 
+			android:textStyle="bold" 
+			android:textColor="@color/white"
+			android:layout_marginTop="7dip" 
+			android:text="@string/buy_title"/>
+	</LinearLayout>
+
+    <ScrollView
+        android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+        >	
+    <LinearLayout android:gravity="center"
+	android:orientation="vertical" android:layout_width="fill_parent" 
+	android:layout_height="fill_parent">
+	<ImageView android:src="@android:drawable/alert_light_frame" android:layout_marginTop="5dip"
+		android:layout_height="180dip" android:layout_width="280dip"
+		android:id="@+id/imageView_video_pic" android:layout_gravity="center" />
+	<TableLayout android:layout_width="fill_parent" android:layout_marginRight="18dip"
+		android:layout_height="wrap_content" android:stretchColumns="2" android:layout_marginLeft="18dip"
+		android:shrinkColumns="2">
+		<TableRow android:background="@drawable/elad_shang" android:gravity="center">
+			<TextView android:gravity="center" style="@style/buy_textview"
+				android:text="@string/buy_textviewa" android:layout_weight="1" />
+			<TextView style="@style/buy_textviewa" 
+				android:layout_weight="1" android:id="@+id/buy_textviewa" />
+		</TableRow>
+		<TableRow android:background="@drawable/elad_zhongjian" android:gravity="center">
+			<TextView android:gravity="center" style="@style/buy_textview"
+				android:text="@string/buy_textviewb" android:layout_weight="1" />
+			<TextView style="@style/buy_textviewa" 
+				android:layout_weight="1" android:id="@+id/buy_textviewb" />
+		</TableRow>
+		<TableRow android:background="@drawable/elad_zhongjian" android:gravity="center">
+			<TextView android:gravity="center" style="@style/buy_textview"
+				android:text="@string/buy_textviewd" android:layout_weight="1" />
+			<TextView style="@style/buy_textviewa" 
+				android:layout_weight="1" android:id="@+id/buy_textviewd" />
+		</TableRow>
+		<TableRow android:background="@drawable/elad_xia" android:gravity="center">
+			<TextView android:gravity="center" style="@style/buy_textview"
+				android:text="@string/buy_textviewe" android:layout_weight="1" />
+			<TextView style="@style/buy_textviewa" 
+				android:layout_weight="1" android:id="@+id/buy_textviewe" />
+		</TableRow>
+		
+		<TableRow>
+			<TextView android:gravity="center" style="@style/buy_textview"
+				android:text="@string/buy_textviewf" android:layout_weight="1" />
+			<LinearLayout android:layout_weight="2"
+				android:orientation="vertical" android:layout_width="fill_parent">
+			<RadioGroup style="@style/buy_textview" android:visibility="visible"
+				android:layout_width="fill_parent" android:id="@+id/buy_radiogroup"/>
+		    <TextView android:gravity="center" style="@style/buy_textview" android:text="@string/buy_textviewff" android:visibility="gone"
+				android:layout_width="fill_parent" android:id="@+id/buy_textviewf" />
+			</LinearLayout> 
+		</TableRow>
+		<TableRow>
+			<TextView android:gravity="center" style="@style/buy_textview"
+				android:text="@string/buy_textviewg" android:layout_weight="1" />
+			<EditText style="@style/buy_editview" android:numeric="integer"
+				android:layout_weight="2" android:id="@+id/buy_edittexta" />
+		</TableRow>
+		<TableRow>
+			<TextView android:gravity="center" style="@style/buy_textview"
+				android:text="@string/buy_textviewh" android:layout_weight="1" />
+			<EditText style="@style/buy_editview" 
+				android:layout_weight="2" android:id="@+id/buy_edittextb" />
+		</TableRow>
+		<TableRow>
+			<TextView android:gravity="center" style="@style/buy_textview"
+				android:text="@string/buy_textviewi" android:layout_weight="1" />
+			<EditText style="@style/buy_editview" android:numeric="integer"
+				android:layout_weight="2" android:id="@+id/buy_edittextc" />
+		</TableRow>
+		<TableRow>
+			<TextView android:gravity="center" style="@style/buy_textview"
+				android:text="@string/buy_textviewj" android:layout_weight="1" />
+			<EditText style="@style/buy_editview" 
+				android:layout_weight="2" android:id="@+id/buy_edittextd" />
+		</TableRow>
+		<TableRow>
+			<TextView android:gravity="center" style="@style/buy_textview" 
+				android:text="@string/buy_textviewk" android:layout_weight="1" />
+			<EditText style="@style/buy_editview" android:layout_width="10dip"
+				android:layout_weight="2" android:id="@+id/buy_edittexte" />
+		</TableRow>
+
+	</TableLayout>
+	<Button 
+			android:layout_width="wrap_content"
+			android:layout_height="40dip"
+		    android:id="@+id/buy_button_submit"
+            android:text="@string/buy_submit"
+            android:textSize="14dip"
+            android:textColor="@color/white"
+			android:layout_margin="16dip"
+			android:background="@drawable/elad_check_button_over"
+		/>
+	</LinearLayout> 
+</ScrollView>
+</LinearLayout>   
+

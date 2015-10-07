@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <!-- 设置未浮动窗口 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 设置无边框 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 设置无标题 -->
+        <item name="android:windowBackground">@color/sc_transparent_background</item>
+        <!-- 设置完全透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 设置屏幕变暗 -->
+    </style>
+
+    <style name="chat_text_date_style">
+        <item name="android:padding">2dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:background">#bfbfbf</item>
+    </style>
+
+    <style name="chat_content_date_style">
+        <item name="android:minHeight">50dp</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">#bfbfbf</item>
+    </style>
+
+    <style name="chat_text_name_style">
+        <item name="android:textColor">#818181</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+	<style name="tv_must">
+		<item name="android:layout_width">6dip</item>
+		<item name="android:layout_height">6dip</item>
+		<item name="android:background">@color/red</item>
+	</style>
+	<style name="buy_btn_login">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">36dip</item>
+		<item name="android:textSize">14dip</item>
+		<item name="android:textColor">#000000</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="servicetab_manager_server">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">16dip</item>
+		<item name="android:textColor">#493334</item>
+	</style>
+	<style name="servicetab_coupon_textview">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">15dip</item>
+		<item name="android:textColor">#493334</item>
+		<item name="android:layout_margin">3dip</item>
+	</style>
+	<style name="servicetab_coupon_textviewa">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">15dip</item>
+		<item name="android:textColor">#61b8b8</item>
+		<item name="android:layout_margin">3dip</item>
+	</style>
+	<style name="qqs_textview">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">14dip</item>
+		<item name="android:textColor">#493334</item>
+		<item name="android:layout_margin">5dip</item>
+	</style>
+	<style name="qqs_textviewa">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">14dip</item>
+		<item name="android:textColor">#61b8b8</item>
+		<item name="android:layout_margin">5dip</item>
+	</style>
+	<style name="btn_qqs">
+		<item name="android:layout_width">230dip</item>
+		<item name="android:layout_height">36dip</item>
+		<item name="android:textSize">14dip</item>
+		<item name="android:layout_marginTop">35dip</item>
+		<item name="android:layout_gravity">center</item>
+	</style>
+	<style name="btn_qqsa">
+		<item name="android:layout_width">230dip</item>
+		<item name="android:layout_height">36dip</item>
+		<item name="android:textSize">14dip</item>
+		<item name="android:layout_marginTop">15dip</item>
+		<item name="android:layout_gravity">center</item>
+	</style>
+	<style name="btn_login">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">36dip</item>
+		<item name="android:textSize">14dip</item>
+		<item name="android:textColor">#ffffff</item>
+	</style>
+	<style name="buy_textview">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">13dip</item>
+		<item name="android:textColor">#493334</item>
+		<item name="android:layout_margin">5dip</item>
+	</style>
+	<style name="buy_textviewa">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">13dip</item>
+		<item name="android:textColor">#61b8b8</item>
+		<item name="android:layout_margin">5dip</item>
+	</style>
+	<style name="buy_editview">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">13dip</item>
+		<item name="android:textColor">#4f4f4f</item>
+		<item name="android:layout_margin">3dip</item>
+	</style>
+	<style name="booking_signup">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">40dip</item>
+	</style>
+	<style name="et_signup">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">40dip</item>
+		<item name="android:textSize">14dip</item>
+		<item name="android:singleLine">true</item>
+		<item name="android:gravity">center</item>
+	</style>
+	<style name="pointtab_manager">
+		<item name="android:layout_gravity">center</item>
+		<item name="android:gravity">center</item>
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">16dip</item>
+		<item name="android:textColor">#493334</item>
+		<item name="android:layout_margin">50dip</item>
+		<item name="android:layout_marginBottom">5dip</item>
+	</style>
+	<style name="zixun_editview">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">13dip</item>
+		<item name="android:textColor">#4f4f4f</item>
+		<item name="android:layout_marginLeft">20dip</item>
+		<item name="android:layout_marginRight">20dip</item>
+	</style>
+	<style name="servicetab_ecoupon_textview">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">13dip</item>
+		<item name="android:textColor">#493334</item>
+		<item name="android:layout_margin">0dip</item>
+	</style>
+	<style name="servicetab_ecoupon_textviewa">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">13dip</item>
+		<item name="android:textColor">#61b8b8</item>
+		<item name="android:layout_margin">0dip</item>
+	</style>
+	<style name="tv_lbl_signup">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">13dip</item>
+		<item name="android:textColor">#493334</item>
+		<item name="android:gravity">center_vertical</item>
+	</style>
+	<style name="tv_lbl_signupa">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">30dip</item>
+		<item name="android:textSize">15dip</item>
+		<item name="android:textColor">#61b8b8</item>
+		<item name="android:gravity">center</item>
+	</style>
+	<style name="spinner_signup">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">14dip</item>
+		<item name="android:gravity">center</item>
+	</style>
+	<style name="btn_qqsx">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">36dip</item>
+		<item name="android:textSize">14dip</item>
+		<item name="android:layout_marginTop">15dip</item>
+		<item name="android:layout_marginLeft">47dip</item>
+		<item name="android:layout_marginRight">47dip</item>
+		<item name="android:layout_gravity">center</item>
+	</style>
+	<style name="txt_home_tab">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textSize">12dip</item>
+		<item name="android:textColor">#000000</item>
+	</style>
+	<style name="iv_home_tab">
+		<item name="android:layout_width">32dp</item>
+		<item name="android:layout_height">32dp</item>
+	</style>
+	<style name="ll_home_tab">
+		<item name="android:layout_width">0dp</item>
+		<item name="android:layout_height">match_parent</item>
+		<item name="android:gravity">center_horizontal</item>
+		<item name="android:orientation">vertical</item>
+	</style>
+</resources>

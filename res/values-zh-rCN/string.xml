@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- RtalkSMS start -->
+
+    <string name="elad_ad_top">广告</string>
+    <string name="toast_msg_request_error">链接错误！</string>
+    <string name="lv_ad_media_type_value">视频广告</string>
+    <string name="lv_ad_media_type_value2">图文广告</string>
+    <string name="ad_list_fen">分</string>
+    <string name="toast_msg_canread">对不起,此广告已经结束！</string>
+    <string name="btn_txt_pause">停止</string>
+    <string name="btn_txt_play">开始</string>
+    <string name="pd_val_title2">提示</string>
+    <string name="pd_val_message2">视频下载中,请稍等....</string>
+    <string name="toast_msg_video_error">视频下载失败！</string>
+    <string name="ad_val_title">退出</string>
+    <string name="ad_val_message">您确认要退出吗？</string>
+    <string name="ad_val_ok">确认</string>
+    <string name="ad_val_back">退出</string>
+    <string name="ad_val_cancle">取消</string>
+    <string name="pd_val_title">链接中....</string>
+    <string name="pd_val_message">请稍等</string>
+    <string name="tv_txt_title_answer">调研</string>
+    <string name="tabcontent_service_booking">预约记录:</string>
+    <string name="tabcontent_service_consult">洽谈记录:</string>
+    <string name="tabcontent_service_coupon_title">标\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020题：</string>
+    <string name="tabcontent_service_booking_time">预约时间：</string>
+    <string name="tabcontent_service_consult_time">洽谈时间：</string>
+    <string name="servicetab_booking_textviewa">公司名称：</string>
+    <string name="servicetab_booking_textviewb">公司电话：</string>
+    <string name="servicetab_booking_textviewc">公司地址：</string>
+    <string name="servicetab_booking_textviewd">预约时间：</string>
+    <string name="servicetab_booking_textviewe">预约人姓名：</string>
+    <string name="servicetab_booking_textviewf">预约人电话：</string>
+    <string name="servicetab_booking_textviewg">预约内容：</string>
+    <string name="servicetab_booking_title">预约时间</string>
+    <string name="servicetab_consult_title">洽谈内容</string>
+    <string name="servicetab_consult_textviewa">公司名称：</string>
+    <string name="servicetab_consult_textviewb">公司电话：</string>
+    <string name="servicetab_consult_textviewc">公司电话：</string>
+    <string name="servicetab_consult_textviewd">洽谈时间：</string>
+    <string name="servicetab_consult_textviewe">洽谈人姓名：</string>
+    <string name="servicetab_consult_textviewf">洽谈人电话：</string>
+    <string name="servicetab_consult_textviewg">洽谈内容：</string>
+    <string name="pointtab_note_message">此广告已经结束！</string>
+    <string name="buy_depiont">得：</string>
+    <string name="buy_fen">分</string>
+    <string name="buy_gongpiont">共：</string>
+    <string name="qqs_btn_buy">购买商品</string>
+    <string name="qqs_btn_booking">预约申请</string>
+    <string name="qqs_btn_consult">洽谈申请</string>
+    <string name="qqs_btn_coupon">下载优惠卷</string>
+    <string name="qqs_btn_replay">重新看广告</string>
+    <string name="EConponDownload_image_error">下载失败！</string>
+    <string name="ad_val_title2">提示</string>
+    <string name="ad_val_message3">服务器链接有误,退出吗？</string>
+    <string name="toast_msg_coupon">此广告没有优惠券或已经下载！</string>
+    <string name="buy_title">购买广告商品</string>
+    <string name="buy_submit">提交</string>
+    <string name="buy_textviewa">商\u0020\u0020品\u0020\u0020名：</string>
+    <string name="buy_textviewb">总积分：</string>
+    <string name="buy_textviewc">金\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020额：</string>
+    <string name="buy_textviewd">价\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020格：</string>
+    <string name="buy_textviewe">优惠价：</string>
+    <string name="buy_textviewf">运\u0020\u0020费：</string>
+    <string name="buy_textviewff">由卖家承担运费</string>
+    <string name="buy_textviewg">购买数量：</string>
+    <string name="buy_textviewh">收货人：</string>
+    <string name="buy_textviewi">收货人电话：</string>
+    <string name="buy_textviewj">收货人地址：</string>
+    <string name="buy_textviewk">其它：</string>
+    <string name="img_error">获取图片失败</string>
+    <string name="buy_yuan">分</string>
+    <string name="buy_regular">普邮:\u0020\u0020</string>
+    <string name="buy_fast">快递:\u0020\u0020</string>
+    <string name="buy_ems">EMS:\u0020\u0020 </string>
+    <string name="buy_submit_error">对不起！积分不足！充值后重新购买！</string>
+    <string name="buy_freight">请选择运费！</string>
+    <string name="buy_edittexta">请输入购买数量！</string>
+    <string name="buy_edittextaaa">购买数量不能为零！</string>
+    <string name="buy_edittextb">请填写收件人姓名！</string>
+    <string name="buy_edittextc">请填写收件人电话！</string>
+    <string name="buy_edittextd">请填写收件人地址！</string>
+    <string name="booking_request_error">对不起！链接有误！重新输入！</string>
+    <string name="booking_title">申请预约</string>
+    <string name="booking_textviewa">标\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020题：</string>
+    <string name="booking_textviewb">姓\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020名：</string>
+    <string name="booking_textviewc">手\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020机：</string>
+    <string name="booking_textviewd">预约日期：</string>
+    <string name="booking_textviewe">预约时间：</string>
+    <string name="booking_textviewf">内\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020容：</string>
+    <string name="btn_txt_select">选\u0020\u0020\u0020\u0020择</string>
+    <string name="booking_textviewa_yz">标题必填！</string>
+    <string name="booking_textviewb_yz">姓名必填！</string>
+    <string name="booking_textviewc_yz">手机号必填！</string>
+    <string name="booking_textviewd_yz">输入日期！</string>
+    <string name="booking_textviewe_yz">输入时间！</string>
+    <string name="booking_textviewf_yz">输入内容！</string>
+    <string name="booking_request_right">预约申请成功提交！</string>
+    <string name="booking_textviewc_yza">手机号码错误！</string>
+    <string name="consult_title">洽谈申请</string>
+    <string name="consult_request_right">洽谈申请成功提交！</string>
+    <string name="coupon_title">下载优惠券</string>
+    <string name="coupon_textviewa">下载失败！</string>
+    <string name="coupon_textviewb">重新下载！</string>
+    <string name="coupon_textviewaa">优惠卷下载成功！</string>
+    <string name="coupon_textviewbb">可以在优惠卷列表里查到！</string>
+    <string name="tabcontent_service_zixun_textviewa">咨询内容:</string>
+    <string name="tabcontent_service_zixun_textviewb">联系人:</string>
+    <string name="tabcontent_service_zixun_submit">提\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020交</string>
+    <string name="tabcontent_service_zixun_ok">咨询内容，我们会尽快的给您回复!</string>
+    <string name="tabcontent_service_zixun_error">咨询失败！请重新输入!</string>
+    <string name="tv_txt_kanguanggao">看广告所得积分:</string>
+    <string name="tv_txt_canyudiaoyan">参与调研获得的积分:</string>
+    <string name="tv_txt_adgoumai">购买商品使用积分:</string>
+    <string name="tv_txt_heji">当前积分:</string>
+    <string name="tabcontent_service_coupon_true">看广告下载的优惠券:</string>
+    <string name="tabcontent_service_coupon_num">编\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020号：</string>
+    <string name="tabcontent_service_coupon_time">有效时间：</string>
+    <string name="pointtab_note_title">名称：</string>
+    <string name="pointtab_note_sum">数量：</string>
+    <string name="pointtab_note_type">种类：</string>
+    <string name="pointtab_note_goodstypea">广告商品</string>
+    <string name="pointtab_note_goodstypeb">商城商品</string>
+    <string name="pointtab_note_goodstypec">团购商品</string>
+    <string name="pointtab_note_time">时间：</string>
+    <string name="pointtab_note_textviewa">购买种类：</string>
+    <string name="pointtab_note_textviewb">标题：</string>
+    <string name="pointtab_note_textviewc">商品价格：</string>
+    <string name="pointtab_note_textviewd">购买数量：</string>
+    <string name="pointtab_note_textviewe">总购买金额：</string>
+    <string name="pointtab_note_textviewf">购买时间：</string>
+    <string name="pointtab_note_textviewff">属性：</string>
+    <string name="pointtab_note_textviewg">收货人姓名：</string>
+    <string name="pointtab_note_textviewh">收货人地址：</string>
+    <string name="pointtab_note_textviewi">收货人电话：</string>
+    <string name="pointtab_note_textviewj">退   货：</string>
+    <string name="pointtab_note_textviewk">退货地址：</string>
+    <string name="pointtab_note_textviewl">运   费：</string>
+    <string name="tabcontent_settab_textviewa">为更好的接收广告信息，请尽量完善个人信息</string>
+    <string name="tabcontent_settab_Button">修改或完善信息</string>
+    <string name="tabcontent_settab_Button_tishi">修改信息要间隔15天！</string>
+    <string name="settab_update_name">用户名:</string>
+    <string name="tv_txt_hp">电话号码:</string>
+    <string name="tv_txt_email">常用邮箱:</string>
+    <string name="settab_update_pass_old">密码:</string>
+    <string name="settab_update_pass_newa">新密码:</string>
+    <string name="settab_update_pass_newb">新密码确认:</string>
+    <string name="tv_txt_birthday">年\u0020\u0020\u0020\u0020龄:</string>
+    <string name="tv_txt_home">地\u0020\u0020\u0020\u0020址:</string>
+    <string name="settab_update_okaaa">修改信息成功！</string>
+    <string name="settab_update_erroraaa">修改有误，请重新修改！</string>
+    <string name="toast_msg_name">用户名不能为空！</string>
+    <string name="toast_msg_pass">密码必填！</string>
+    <string name="settab_update_pass">旧密码错误！</string>
+    <string name="settab_update_passnew">密码错误！</string>
+    <string name="btn_txt_commit">提交</string>
+    <string name="ad_val_message4">未参与问答,确认退出吗？</string>
+    <string name="toast_msg_commit_failure">服务器链接错误！</string>
+    <string name="toast_msg_cannot_null">个%d 问题没有回答！</string>
+    <string name="toast_msg_cannot_wrong">答题%d 错误，请重新输入！</string>
+    <string name="toast_msg_cannot_least" formatted="false">答题 %d 最少不能少于 %d 字！</string>
+    <string name="toast_msg_question_without">此广告没有调研！</string>
+    <string name="qqs_return">后退</string>
+    <string name="qqs_title">得到积分</string>
+    <string name="qqs_textviewa">调研积分：</string>
+    <string name="qqs_textviewb">答对题数：</string>
+    <string name="qqs_textviewc">得到积分：</string>
+    <string name="qqs_textviewd">总积分：</string>
+    <string name="toast_msg_commit_success">恭喜您！累计积分 %d Point！</string>
+    <string name="toast_msg_buy">对不起！此广告没有商品销售！</string>
+    <string name="toast_msg_booking">对不起！此广告没有预约！</string>
+    <string name="toast_msg_consult">对不起！此广告没有洽谈！</string>
+    <string name="main_person">个人信息</string>
+    <string name="main_persona">个人信息</string>
+    <string name="main_re">My Pages</string>
+    <string name="main_qa">广告互动</string>
+    <string name="main_point">积分统计</string>
+    <string name="main_pointa">积\u0020\u0020分\u0020\u0020统\u0020\u0020计</string>
+    <string name="main_coupon">优惠券记录</string>
+    <string name="main_buy">购买的广告商品</string>
+    <string name="main_read">观看广告记录</string>
+    <string name="main_rereserch">观看调研记录</string>
+    <string name="main_q">洽谈记录</string>
+    <string name="main_a">广告咨询</string>
+    <string name="tv_txt_diaoyan">调\u0020\u0020\u0020\u0020研</string>
+    <string name="elad_read_top">观看过的广告</string>
+    <string name="elad_rere_top">观看过的市场调查</string>
+    <string name="buy_queren">确认</string>
+    <string name="tv_txt_canyudiaoyan_quwenti">参与调研</string>
+    <string name="ad_type_1">服装</string>
+    <string name="ad_type_2">通讯</string>
+    <string name="ad_type_3">房地产</string>
+    <string name="ad_type_4">汽车</string>
+    <string name="ad_type_5">影视</string>
+    <string name="ad_type_6">美食</string>
+    <string name="ad_type_7">婚庆</string>
+    <string name="ad_type_8">家电</string>
+    <string name="ad_type_9">旅游</string>
+    <string name="ad_type_10">美容</string>
+    <string name="ad_type_11">小商品</string>
+    <string name="ad_type_12">医疗</string>
+
+    <!-- RtalkAD end -->
+
+    <string name="app_name">RTalk</string>
+    <string name="login">登录</string>
+    <string name="regist">注册</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="your_phone_number">手机号码</string>
+    <string name="password">密码</string>
+    <string name="fill_password">输入密码</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="country">国家</string>
+    <string name="nickname">昵称</string>
+    <string name="China">中国</string>
+    <string name="plase_input_nickname">请输入你的昵称</string>
+    <string name="already_agree">同意使用条款</string>
+    <string name="sending_request">发送请求..</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="atlast5">密码，不小于五位</string>
+    <string name="birthday">生日</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="up">提交</string>
+    <string name="title_activity_mine_setting">MineSettingActivity</string>
+    <string name="title_activity_mine_settings">MineSettingsActivity</string>
+    <string name="send">发送</string>
+    <string name="chat">聊天</string>
+    <string name="find_by_name">通过名字查找</string>
+    <string name="find_by_other">其他条件查找</string>
+    <string name="back">返回</string>
+    <string name="id">ID</string>
+    <string name="age">年龄</string>
+    <string name="to">到</string>
+    <string name="sex">性别</string>
+    <string name="female">女</string>
+    <string name="male">男</string>
+    <string name="both">不限</string>
+    <string name="search">搜索</string>
+    <string name="friendslist">朋友列表</string>
+    <string name="recent_add">确认添加为好友么?</string>
+    <string name="search_resout">搜索结果</string>
+    <string name="want_to_add_friend">邀请添加好友</string>
+    <string name="friends">好友</string>
+    <string name="circle_of_friends">焦点</string>
+    <string name="more">更多</string>
+    <string name="join">加    入</string>
+    <string name="notification">通知</string>
+    <string name="friend_request">好友请求</string>
+    <string name="accent">接受</string>
+    <string name="decline">拒绝</string>
+    <string name="advertisement">广告</string>
+    <string name="sms">短信</string>
+    <string name="notice">公告</string>
+    <string name="expression">表情</string>
+    <string name="research">调研</string>
+    <string name="mall">商城</string>
+    <string name="coupons">优惠券</string>
+    <string name="game">游戏</string>
+    <string name="coding">正在开发中……</string>
+    <string name="please_set_name_and_age_correctly">请正确指定您的姓名和密码</string>
+    <string name="password_should_more_than_5">密码应该大于5位</string>
+    <string name="confirmed_password_same">请确认两次输入的密码完全一致</string>
+    <string name="please_choose_gender">请选择性别</string>
+    <string name="failed_to_connect_toServer">连接服务器失败</string>
+    <string name="name_exist">名字已存在</string>
+    <string name="register_success">恭喜，注册成功</string>
+    <string name="sorry_cannot_register">对不起，无法注册</string>
+    <string name="invalid_username_or_password">无效的用户名或密码</string>
+    <string name="mine">我</string>
+    <string name="settings">设置</string>
+    <string name="setcolor">背景</string>
+    <string name="my_picture">相册</string>
+    <string name="my_files">文件</string>
+    <string name="my_collection">收藏</string>
+    <string name="go">马上使用</string>
+    <string name="yuyin_coding">语音、视频通话，正在开发中....</string>
+    <string name="sms_title">Rtalk 消息</string>
+    <string name="gonggao_title">Rtalk 公告</string>
+    <string name="press_again_exit">再按一次退出程序</string>
+
+    <!-- This is after -->
+    
+    
+    
+
+    <string name="sure_decline">你确定拒绝这个请求么？</string>
+    <string name="sure_accent">你确定同意这个请求么？</string>
+    <string name="groups">群聊</string>
+    <string name="want_to_add">想要添加你为好友</string>
+    <string name="accepted_your_request">同意了你的好友请求</string>
+    <string name="declined_your_request">拒绝了你的好友请求</string>
+    <string name="sorry_you_are_friend_already">你们已经是好友了。</string>
+    <string name="ok">确认</string>
+    <string name="no">否</string>
+    <string name="yes">是</string>
+    <string name="are_you_sure_send_request">你确认发送请求么？</string>
+    <string name="you_can_not_add_yourself">你不能添加你自己为好友！</string>
+    <string name="source_content_text_hint">请输入要翻译的文字</string>
+    <string name="translate">翻译</string>
+    <string name="translate_result">翻译结果</string>
+    <string name="translate_debug_info">调试信息</string>
+    <string name="offline_package">离线包</string>
+    <string name="download">下载</string>
+    <string name="downloaded">已下载</string>
+    <string name="undownload">未下载</string>
+    <string name="has_update">有更新</string>
+    <string name="update">更新</string>
+    <string name="delete">删除</string>
+    <string name="pause">暂停</string>
+    <string name="resume">继续</string>
+
+    <string-array name="language">
+        <item>自动检测</item>
+        <item>中文</item>
+        <item>英语</item>
+        <item>日语</item>
+        <item>韩语</item>
+        <item>西班牙语</item>
+        <item>法语</item>
+        <item>泰语</item>
+        <item>阿拉伯语</item>
+        <item>俄语</item>
+        <item>葡萄牙语</item>
+        <item>粤语</item>
+        <item>文言文</item>
+    </string-array>
+    <string-array name="language_short">
+        <item>auto</item>
+        <item>zh</item>
+        <item>en</item>
+        <item>jp</item>
+        <item>kor</item>
+        <item>spa</item>
+        <item>fra</item>
+        <item>th</item>
+        <item>ara</item>
+        <item>ru</item>
+        <item>pt</item>
+        <item>yue</item>
+        <item>wyw</item>
+    </string-array>
+
+    <!-- This is after -->
+
+</resources>

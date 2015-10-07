@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" 
+  android:background="@drawable/elad_bg">
+	<LinearLayout
+	  android:orientation="vertical"
+	  android:layout_width="fill_parent"
+	  android:layout_height="40dip" 
+	  android:background="@drawable/elad_top">
+  		<TextView android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:gravity="center|center_vertical"
+			android:textSize="20dip" 
+			android:textStyle="bold" 
+			android:textColor="@color/white"
+			android:layout_marginTop="7dip" 
+			android:text="@string/main_re"/>
+	</LinearLayout>
+	<LinearLayout
+	  android:orientation="vertical" android:gravity="bottom"
+	  android:layout_width="fill_parent"
+	  android:layout_height="fill_parent"
+	  android:layout_weight="1">
+		<RelativeLayout 
+			android:layout_width="fill_parent" 
+			android:layout_height="wrap_content">
+			<RelativeLayout android:id="@+id/admain_relativeLayout_shang" android:gravity="center"
+				android:layout_width="fill_parent" android:layout_height="wrap_content">
+				<Button android:id="@+id/elad_read"
+					android:layout_width="130dip" 
+					android:layout_height="130dip"
+					android:background="@drawable/elad_read" 
+					android:text="@string/main_read"
+					android:textColor="@color/white"
+					android:textSize="14dip"
+					android:gravity="bottom"
+					android:paddingLeft="25dip"
+					android:paddingBottom="10dip"/>
+				<Button android:id="@+id/elad_rereserch"
+					android:layout_width="130dip" 
+					android:layout_height="130dip"
+					android:background="@drawable/elad_rereserch" 
+					android:layout_toRightOf="@+id/elad_read"
+					android:layout_marginLeft="40dip" 
+					android:text="@string/main_rereserch"
+					android:textColor="@color/white"
+					android:textSize="14dip"
+					android:gravity="bottom"
+					android:paddingLeft="18dip"
+					android:paddingBottom="10dip"/>
+			</RelativeLayout>
+			<ImageView android:scaleType="fitStart"
+				android:layout_width="fill_parent" android:layout_height="70dip"
+				android:src="@drawable/elad_wood" android:layout_below="@+id/admain_relativeLayout_shang"
+				/>
+		</RelativeLayout>	
+	</LinearLayout>
+			<LinearLayout
+	  android:orientation="vertical" android:gravity="center_horizontal"
+	  android:layout_width="fill_parent"
+	  android:layout_height="fill_parent"
+	  android:layout_weight="1">
+		</LinearLayout>
+</LinearLayout>
+

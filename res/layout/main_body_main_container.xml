@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_body_main_container_layout"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="#eee" >
+
+    <futureChange.HomeTabView
+        android:id="@+id/tabBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" >
+    </futureChange.HomeTabView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/tabBar"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical" >
+
+        <org.yuner.www.mainBody.CustomViewPager
+            android:id="@+id/main_body_main_container_tabpager"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" >
+        </org.yuner.www.mainBody.CustomViewPager>
+    </LinearLayout>
+
+</RelativeLayout>

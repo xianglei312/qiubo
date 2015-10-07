@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="@color/bground">
+<LinearLayout
+	  android:orientation="vertical"
+	  android:layout_width="fill_parent"
+	  android:layout_height="40dip" 
+	  android:background="@drawable/elad_top">
+  		<TextView android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:gravity="center|center_vertical"
+			android:textSize="20dip" 
+			android:textStyle="bold" 
+			android:textColor="@color/white"
+			android:layout_marginTop="7dip" 
+			android:text="@string/main_pointa"/>
+	</LinearLayout>
+	<TableLayout android:layout_width="fill_parent"
+		android:layout_marginLeft="34dip" android:layout_marginRight="34dip"
+		android:layout_marginTop="60dip" android:layout_height="wrap_content"
+		android:stretchColumns="1" android:shrinkColumns="1"
+		>
+		<TableRow android:background="@drawable/elad_shang" android:gravity="center">
+			<TextView android:gravity="center" style="@style/qqs_textview"
+				android:text="@string/tv_txt_kanguanggao" android:layout_weight="1" />
+			<TextView android:gravity="center" android:id="@+id/tv_txt_kanguanggao"
+				style="@style/qqs_textviewa" android:layout_weight="1" android:text="0" />
+			<TextView android:gravity="center_vertical" style="@style/qqs_textview"
+				android:text="@string/ad_list_fen" android:layout_weight="1" />
+		</TableRow>
+		<TableRow android:background="@drawable/elad_zhongjian" 
+		    android:gravity="center"
+		    android:layout_marginTop="1dip">
+			<TextView android:gravity="center" style="@style/qqs_textview"
+				android:text="@string/tv_txt_canyudiaoyan" android:layout_weight="1" />
+			<TextView android:gravity="center" android:id="@+id/tv_txt_canyudiaoyan"
+				style="@style/qqs_textviewa" android:layout_weight="1" android:text="0"/>
+			<TextView android:gravity="center_vertical" style="@style/qqs_textview"
+				android:text="@string/ad_list_fen" android:layout_weight="1" />
+		</TableRow>
+		<TableRow android:background="@drawable/elad_zhongjian" 
+		    android:gravity="center"
+		    android:layout_marginTop="1dip">
+			<TextView android:gravity="center" style="@style/qqs_textview"
+				android:text="@string/tv_txt_adgoumai" android:layout_weight="1" />
+			<TextView android:gravity="center" android:id="@+id/tv_txt_goumai"
+				style="@style/qqs_textviewa" android:layout_weight="1" android:text="0"
+				android:textColor="#FF0000"/>
+			<TextView android:gravity="center_vertical" style="@style/qqs_textview"
+				android:text="@string/ad_list_fen" android:layout_weight="1" />
+		</TableRow>
+		<TableRow android:background="@drawable/elad_xia" 
+		    android:gravity="center">
+			<TextView android:gravity="center" style="@style/qqs_textview"
+				android:text="@string/tv_txt_heji" android:layout_weight="1" />
+			<TextView android:gravity="center" android:id="@+id/tv_txt_heji"
+				style="@style/qqs_textviewa" android:layout_weight="1" android:text="0"/>
+			<TextView android:gravity="center_vertical" style="@style/qqs_textview"
+				android:text="@string/ad_list_fen" android:layout_weight="1" />
+		</TableRow>
+	</TableLayout>
+	<LinearLayout
+	  android:layout_width="fill_parent"
+	  android:layout_height="wrap_content" 
+	  android:gravity="center"
+>
+		<Button
+                android:id="@+id/point_button_return"
+                android:layout_width="wrap_content"
+                android:layout_height="40dip"
+                android:layout_margin="40dip"
+                android:background="@drawable/elad_check_button_over"
+                android:text="@string/buy_queren"
+                android:textColor="@color/white"
+                android:textSize="14dip" />
+		</LinearLayout>
+</LinearLayout>

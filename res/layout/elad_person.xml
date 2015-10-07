@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" 
+  android:background="@drawable/elad_bg">
+	<LinearLayout
+	  android:orientation="vertical"
+	  android:layout_width="fill_parent"
+	  android:layout_height="40dip" 
+	  android:background="@drawable/elad_top">
+  		<TextView android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:gravity="center|center_vertical"
+			android:textSize="20dip" 
+			android:textStyle="bold" 
+			android:textColor="@color/white"
+			android:layout_marginTop="7dip" 
+			android:text="@string/main_persona"/>
+	</LinearLayout>
+	<LinearLayout
+	  android:orientation="vertical" android:gravity="center"
+	  android:layout_width="fill_parent"
+	  android:layout_height="fill_parent">
+		<RelativeLayout 
+			android:layout_width="fill_parent" 
+			android:layout_height="wrap_content">
+			<RelativeLayout android:id="@+id/admain_relativeLayout_shang" android:gravity="center"
+				android:layout_width="fill_parent" android:layout_height="wrap_content">
+				<Button android:id="@+id/elad_point"
+					android:layout_width="130dip" 
+					android:layout_height="130dip"
+					android:background="@drawable/elad_point" 
+					android:text="@string/main_point"
+					android:textColor="@color/white"
+					android:textSize="15dip"
+					android:gravity="bottom"
+					android:paddingLeft="23dip"
+					android:paddingBottom="5dip"
+					/>
+				<Button android:id="@+id/elad_coupon"
+					android:layout_width="130dip" 
+					android:layout_height="130dip"
+					android:background="@drawable/elad_coupon" 
+					android:layout_toRightOf="@+id/elad_point"
+					android:layout_marginLeft="40dip" 
+					android:text="@string/main_coupon"
+					android:textColor="@color/white"
+					android:textSize="15dip"
+					android:gravity="bottom"
+					android:paddingLeft="29dip"
+					android:paddingBottom="10dip"
+					/>
+			</RelativeLayout>
+			<ImageView android:scaleType="fitStart"
+				android:layout_width="fill_parent" android:layout_height="70dip"
+				android:src="@drawable/elad_wood" android:layout_below="@+id/admain_relativeLayout_shang"
+				/>
+		</RelativeLayout>	
+		<RelativeLayout
+			android:layout_width="fill_parent" android:layout_height="wrap_content">
+			<RelativeLayout android:id="@+id/admain_relativeLayout_xia" android:gravity="center"
+				android:layout_width="fill_parent" android:layout_height="wrap_content">
+				<Button android:id="@+id/elad_buy"
+					android:layout_width="130dip" 
+					android:layout_height="130dip"
+					android:background="@drawable/elad_buy" 
+					android:text="@string/main_buy"
+					android:textColor="@color/white"
+					android:textSize="14dip"
+					android:gravity="bottom"
+					android:paddingLeft="20dip"
+					android:paddingBottom="10dip"/>
+				<Button android:id="@+id/elad_persona"
+					android:layout_width="130dip" 
+					android:layout_height="130dip"
+					android:background="@drawable/elad_persona" 
+					android:layout_toRightOf="@+id/elad_buy"
+					android:layout_marginLeft="40dip" 
+					android:text="@string/main_person"
+					android:textColor="@color/white"
+					android:textSize="17dip"
+					android:gravity="bottom"
+					android:paddingLeft="30dip"
+					android:paddingBottom="5dip"
+					/>
+			</RelativeLayout>
+			<ImageView android:scaleType="fitStart"
+				android:layout_width="fill_parent" android:layout_height="70dip"
+				android:src="@drawable/elad_wood" android:layout_below="@+id/admain_relativeLayout_xia"
+				/>
+		</RelativeLayout>
+	</LinearLayout>
+</LinearLayout>
+

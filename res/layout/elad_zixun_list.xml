@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bground"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:background="@drawable/elad_top"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dip"
+            android:gravity="center|center_vertical"
+            android:text="@string/main_a"
+            android:textColor="@color/white"
+            android:textSize="20dip"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="10dip"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="18dip"
+                android:layout_marginRight="18dip"
+                android:shrinkColumns="2"
+                android:stretchColumns="2" >
+
+                <TableRow android:gravity="center" >
+
+                    <LinearLayout
+                        style="@style/booking_signup"
+                        android:layout_span="3"
+                        android:gravity="center" >
+
+                        <TextView style="@style/tv_must" />
+
+                        <TextView
+                            style="@style/buy_textview"
+                            android:gravity="center"
+                            android:text="@string/tabcontent_service_zixun_textviewa" />
+                    </LinearLayout>
+                </TableRow>
+
+                <TableRow android:gravity="center" >
+
+                    <EditText
+                        android:id="@+id/tabcontent_service_zixun_editviewa"
+                        style="@style/buy_editview"
+                        android:layout_span="3"
+                        android:lines="8" />
+                </TableRow>
+
+                <TableRow android:gravity="center" >
+
+                    <TextView style="@style/tv_must" />
+
+                    <TextView
+                        style="@style/buy_textview"
+                        android:text="@string/tabcontent_service_zixun_textviewb" />
+
+                    <EditText
+                        android:id="@+id/tabcontent_service_zixun_editviewb"
+                        style="@style/buy_editview"
+                        android:numeric="integer" />
+                </TableRow>
+            </TableLayout>
+
+            <Button
+                android:id="@+id/tabcontent_service_zixun_Button"
+                android:layout_width="wrap_content"
+                android:layout_height="40dip"
+                android:layout_margin="16dip"
+                android:background="@drawable/elad_check_button_over"
+                android:text="@string/buy_submit"
+                android:textColor="@color/white"
+                android:textSize="14dip" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

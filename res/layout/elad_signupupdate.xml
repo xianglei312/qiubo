@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bground"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:background="@drawable/elad_top"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dip"
+            android:gravity="center|center_vertical"
+            android:text="@string/main_person"
+            android:textColor="@color/white"
+            android:textSize="20dip"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="50dip" >
+        <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+                android:layout_marginLeft="18dip"
+                android:layout_marginRight="18dip"
+            android:shrinkColumns="2"
+            android:stretchColumns="2" >
+
+            <TableRow android:gravity="center" >
+
+                <TextView style="@style/tv_must" />
+
+                <TextView
+                    style="@style/tv_lbl_signup"
+                    android:text="@string/settab_update_name" />
+
+                <TextView
+                    android:id="@+id/settab_update_name"
+                    style="@style/tv_lbl_signupa"/>
+            </TableRow>
+
+            <TableRow android:gravity="center">
+
+                <TextView style="@style/tv_must" />
+
+                <TextView
+                    style="@style/tv_lbl_signup"
+                    android:text="@string/tv_txt_hp" />
+
+                <TextView
+                    android:id="@+id/settab_update_hp"
+                    style="@style/tv_lbl_signupa"/>
+            </TableRow>
+
+            <TableRow android:gravity="center" >
+
+                <TextView style="@style/tv_must" />
+
+                <TextView
+                    style="@style/tv_lbl_signup"
+                    android:text="@string/tv_txt_email" />
+
+                <EditText
+                    android:id="@+id/settab_update_email"
+                    style="@style/et_signup" />
+            </TableRow>
+
+            <TableRow android:gravity="center" >
+
+                <TextView style="@style/tv_must" />
+
+                <TextView
+                    style="@style/tv_lbl_signup"
+                    android:text="@string/tv_txt_birthday" />
+
+                    <Spinner
+                        android:id="@+id/spinner_update_age"
+                        style="@style/spinner_signup"
+                        />
+
+            </TableRow>
+
+            <TableRow android:gravity="center" >
+
+                <TextView style="@style/tv_must" />
+
+                <TextView
+                    style="@style/tv_lbl_signup"
+                    android:text="@string/tv_txt_home" />
+
+                <Spinner
+                    android:id="@+id/settab_update_spinner_home_prov"
+                    style="@style/spinner_signup"
+                    />
+            </TableRow>
+
+            <TableRow android:gravity="center" >
+
+                <Spinner
+                    android:id="@+id/settab_update_spinner_home_city"
+                    style="@style/spinner_signup"
+                    android:layout_column="2"
+                    />
+            </TableRow>
+
+            <TableRow android:gravity="center" >
+
+                <Spinner
+                    android:id="@+id/settab_update_spinner_home_area"
+                    style="@style/spinner_signup"
+                    android:layout_column="2"
+                    />
+            </TableRow>
+        </TableLayout>
+        <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dip"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/settab_update_button_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="40dip"
+            android:background="@drawable/elad_check_button_over"
+            android:textColor="@color/white"
+            android:text="@string/buy_submit" />
+    </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

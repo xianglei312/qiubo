@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" 
+  android:background="@drawable/elad_bg">
+	<LinearLayout
+	  android:orientation="vertical"
+	  android:layout_width="fill_parent"
+	  android:layout_height="40dip" 
+	  android:background="@drawable/elad_top">
+  		<TextView android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:gravity="center|center_vertical"
+			android:textSize="20dip" 
+			android:textStyle="bold" 
+			android:textColor="@color/white"
+			android:layout_marginTop="7dip" 
+			android:text="@string/elad_ad_top"/>
+	</LinearLayout>
+	<LinearLayout
+	  android:orientation="vertical" android:gravity="center"
+	  android:layout_width="fill_parent"
+	  android:layout_height="fill_parent">
+		<RelativeLayout 
+			android:layout_width="fill_parent" 
+			android:layout_height="wrap_content">
+			<RelativeLayout android:id="@+id/admain_relativeLayout_shang" android:gravity="center"
+				android:layout_width="fill_parent" android:layout_height="wrap_content">
+				<Button 
+				    android:id="@+id/elad_ad"
+					android:layout_width="130dip"
+					android:layout_height="130dip"
+					android:text="@string/elad_ad_top"
+					android:textColor="@color/white"
+					android:textSize="17dip"
+					android:gravity="bottom"
+					android:paddingLeft="47dip"
+					android:paddingBottom="5dip"
+					android:background="@drawable/elad_ad"/>
+
+				<Button android:id="@+id/elad_person"
+					android:layout_width="130dip" 
+					android:layout_height="130dip"
+					android:background="@drawable/elad_person" 
+					android:layout_toRightOf="@+id/elad_ad"
+					android:layout_marginLeft="40dip"
+					android:text="@string/main_persona"
+					android:textColor="@color/white"
+					android:textSize="17dip"
+					android:gravity="bottom"
+					android:paddingLeft="29dip"
+					android:paddingBottom="5dip"
+
+					/>
+			</RelativeLayout>
+			<ImageView android:scaleType="fitStart"
+				android:layout_width="fill_parent" android:layout_height="80dip"
+				android:src="@drawable/elad_wood" android:layout_below="@+id/admain_relativeLayout_shang"
+				/>
+		</RelativeLayout>	
+		<RelativeLayout
+			android:layout_width="fill_parent" android:layout_height="wrap_content">
+			<RelativeLayout android:id="@+id/admain_relativeLayout_xia" android:gravity="center"
+				android:layout_width="fill_parent" android:layout_height="wrap_content">
+				<Button android:id="@+id/elad_re"
+					android:layout_width="130dip" 
+					android:layout_height="130dip"
+					android:background="@drawable/elad_re"
+					android:text="@string/main_re"
+					android:textColor="@color/white"
+					android:textSize="17dip"
+					android:gravity="bottom"
+					android:paddingLeft="25dip"
+					android:paddingBottom="5dip"
+					 />
+				<Button android:id="@+id/elad_qa"
+					android:layout_width="130dip" 
+					android:layout_height="130dip"
+					android:background="@drawable/elad_qa" 
+					android:layout_toRightOf="@+id/elad_re"
+					android:layout_marginLeft="40dip"
+					android:text="@string/main_qa"
+					android:textColor="@color/white"
+					android:textSize="17dip"
+					android:gravity="bottom"
+					android:paddingLeft="29dip"
+					android:paddingBottom="5dip"
+				/>
+			</RelativeLayout>
+			<ImageView android:scaleType="fitStart"
+				android:layout_width="fill_parent" android:layout_height="70dip"
+				android:src="@drawable/elad_wood" android:layout_below="@+id/admain_relativeLayout_xia"
+				/>
+		</RelativeLayout>
+	</LinearLayout>
+</LinearLayout>

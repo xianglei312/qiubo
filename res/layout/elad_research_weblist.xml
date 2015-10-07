@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bground"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:background="@drawable/elad_top"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/research_textviewtitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dip"
+            android:gravity="center|center_vertical"
+            android:textColor="@color/white"
+            android:textSize="20dip"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:id="@+id/rewebbtn_LinearLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dip"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/research_button_answer"
+                android:layout_width="wrap_content"
+                android:layout_height="40dip"
+                android:background="@drawable/elad_check_button_over"
+                android:text="@string/tv_txt_canyudiaoyan_quwenti"
+                android:textColor="@color/white"
+                android:textSize="16dip" />
+        </LinearLayout>
+
+        <WebView
+            android:id="@+id/wv_research"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@id/rewebbtn_LinearLayout" />
+    </RelativeLayout>
+
+</LinearLayout>

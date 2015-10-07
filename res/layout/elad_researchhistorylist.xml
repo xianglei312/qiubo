@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="70dip"
+    android:background="@drawable/elad_listview_note"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/pointtab_researchhistory_img"
+        android:layout_width="90dip"
+        android:layout_height="70dip"
+        android:paddingBottom="5dip"
+        android:paddingLeft="5dip"
+        android:paddingTop="5dip"
+        android:scaleType="fitXY" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <TextView
+            android:id="@+id/pointtab_researchhistory_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dip"
+            android:paddingRight="20dip"
+            android:paddingTop="5dip"
+            android:singleLine="true"
+            android:textColor="@color/dark_blue"
+            android:textSize="16dip"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/pointtab_researchhistory_point"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pointtab_researchhistory_title"
+            android:paddingLeft="10dip"
+            android:paddingRight="20dip"
+            android:singleLine="true"
+            android:textColor="@color/crimson"
+            android:textSize="14dip" />
+
+        <TextView
+            android:id="@+id/pointtab_researchhistory_pointa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pointtab_researchhistory_point"
+            android:paddingLeft="10dip"
+            android:paddingRight="20dip"
+            android:singleLine="true"
+            android:textColor="@color/dim_gray"
+            android:textSize="14dip" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bground"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:background="@drawable/elad_top"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/adhistorydetailed_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dip"
+            android:gravity="center|center_vertical"
+            android:textColor="@color/white"
+            android:textSize="20dip"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/adhistorydetailed_imageView1"
+        android:layout_width="280dip"
+        android:layout_height="180dip"
+        android:layout_gravity="center"
+        android:layout_margin="10dip"
+        android:src="@android:drawable/alert_light_frame" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/adhistorydetailed_buy"
+                style="@style/btn_qqs"
+                android:background="@drawable/elad_select_bt"
+                android:text="@string/qqs_btn_buy"
+                android:textColor="@color/dark_blue" />
+
+            <Button
+                android:id="@+id/adhistorydetailed_booking"
+                style="@style/btn_qqsa"
+                android:background="@drawable/elad_select_bt"
+                android:text="@string/qqs_btn_booking"
+                android:textColor="@color/dark_blue" />
+
+            <Button
+                android:id="@+id/adhistorydetailed_consult"
+                style="@style/btn_qqsa"
+                android:background="@drawable/elad_select_bt"
+                android:text="@string/qqs_btn_consult"
+                android:textColor="@color/dark_blue" />
+
+            <Button
+                android:id="@+id/adhistorydetailed_coupon"
+                style="@style/btn_qqsa"
+                android:background="@drawable/elad_select_bt"
+                android:text="@string/qqs_btn_coupon"
+                android:textColor="@color/dark_blue" />
+
+            <Button
+                android:id="@+id/adhistorydetailed_replay"
+                style="@style/btn_qqsa"
+                android:background="@drawable/elad_select_bt"
+                android:text="@string/qqs_btn_replay"
+                android:textColor="@color/dark_blue" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

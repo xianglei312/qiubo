@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+	android:orientation="vertical" android:layout_width="fill_parent"         xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="fill_parent" android:background="@drawable/elad_bg">
+	<LinearLayout
+	  android:orientation="vertical"
+	  android:layout_width="fill_parent"
+	  android:layout_height="40dip" 
+	  android:background="@drawable/elad_top">
+  		<TextView android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:gravity="center|center_vertical"
+			android:textSize="20dip" 
+			android:textStyle="bold" 
+			android:textColor="#ffffff"
+			android:layout_marginTop="10dip" 
+			android:text="@string/coupon_title"/>
+	</LinearLayout>
+
+	<ImageView android:src="@android:drawable/alert_light_frame" android:layout_margin="10dip"
+		android:layout_height="200dip" android:layout_width="230dip"
+		android:id="@+id/coupon_imageView" android:layout_gravity="center" />
+		<TextView android:gravity="center" style="@style/buy_textview" android:layout_gravity="center"
+			 android:id="@+id/coupon_texta" android:text="@string/coupon_textviewa"/>
+			
+		<TextView android:gravity="center" style="@style/buy_textview" android:layout_gravity="center"
+			 android:id="@+id/coupon_textb" android:text="@string/coupon_textviewb"/>
+
+</LinearLayout>   

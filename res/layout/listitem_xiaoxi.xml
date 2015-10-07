@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="70dip"
+    android:background="#ffffff"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/list_sms_img"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:paddingLeft="10dip"
+        android:paddingTop="13dip"
+        android:src="@drawable/xiaoxi" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_toRightOf="@+id/list_sms_img" >
+
+        <TextView
+            android:id="@+id/list_xiaoxi_content"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:lines="2"
+            android:paddingLeft="10dip"
+            android:paddingRight="20dip"
+            android:paddingTop="3dip"
+            android:textColor="@color/dark_blue"
+            android:textSize="15dip"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/list_LinearLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/list_xiaoxi_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/list_xiaoxi_time"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingLeft="20dip"
+                android:singleLine="true"
+                android:textColor="@color/crimson"
+                android:textSize="12dip" />
+
+            <ImageView
+                android:layout_width="11dip"
+                android:layout_height="21dip"
+                android:layout_marginRight="20dip"
+                android:layout_toRightOf="@+id/list_xiaoxi_time"
+                android:src="@drawable/arrow" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="#dadada" />
+
+</RelativeLayout>

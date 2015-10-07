@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="70dip"
+    android:background="#ffffff"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/Researchlist_Research_img"
+        android:layout_width="90dip"
+        android:layout_height="70dip"
+        android:paddingBottom="5dip"
+        android:paddingLeft="5dip"
+        android:paddingTop="5dip"
+        android:scaleType="fitXY" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:layout_toRightOf="@+id/Researchlist_Research_img">
+
+        <TextView
+            android:id="@+id/Researchlist_Research_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+android:gravity="center"
+            android:paddingTop="8dip"
+            android:paddingLeft="10dip"
+            android:paddingRight="20dip"
+            android:singleLine="true"
+            android:textColor="@color/dark_blue"
+            android:textSize="15dip"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/list_LinearLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/Researchlist_Research_title"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/Researchlist_member_quota"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="8dip"
+                android:paddingLeft="20dip"
+                android:layout_weight="1"
+                android:singleLine="true"
+                android:textColor="@color/crimson"
+                android:textSize="12dip" />
+
+            <ImageView
+                android:layout_width="11dip"
+                android:layout_height="21dip"
+                android:layout_marginRight="20dip"
+                android:layout_toRightOf="@+id/Researchlist_member_quota"
+                android:src="@drawable/arrow" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="#dadada" />
+
+</RelativeLayout>

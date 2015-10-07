@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal" android:layout_width="fill_parent"
+	android:layout_height="70dip" android:gravity="center_vertical"
+	android:background="@drawable/elad_listview_note">
+	<TableLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:stretchColumns="2"
+		android:shrinkColumns="2">
+		<TableRow>
+			<TextView android:gravity="center" style="@style/servicetab_coupon_textview"
+				android:text="@string/tabcontent_service_coupon_title" android:layout_weight="1" />
+			<TextView style="@style/servicetab_coupon_textviewa" 
+				android:layout_weight="1" android:id="@+id/tabcontent_service_consult_title" />
+		</TableRow>
+
+		<TableRow>
+			<TextView android:gravity="center" style="@style/qqs_textview"
+				android:text="@string/tabcontent_service_consult_time" android:layout_weight="1" />
+			<TextView style="@style/qqs_textviewa" 
+				android:layout_weight="1" android:id="@+id/tabcontent_service_consult_time" />
+		</TableRow>
+	</TableLayout>
+</LinearLayout>

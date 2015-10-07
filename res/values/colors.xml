@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="sc_transparent_background">#00111111</color>
+    <color name="black">#000000</color>
+	<color name="bground">#eff3f3</color>
+	<color name="crimson">#61b8b8</color>
+	<color name="red">#FF0000</color>
+	<color name="silver">#8E8E8E</color>
+	<color name="dark_blue">#493334</color>
+	<color name="menu_text">#333a43</color>
+	<color name="dim_gray">#696969</color>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:background="#fcfcfc"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/ll_main_body_main_container_msgs"
+        style="@style/ll_home_tab"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:id="@+id/main_body_main_container_msgs"
+            style="@style/iv_home_tab"
+            android:background="@drawable/tab_weixin_pressed" />
+
+        <TextView
+            style="@style/txt_home_tab"
+            android:text="@string/chat" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_main_body_main_container_contacts"
+        style="@style/ll_home_tab"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:id="@+id/main_body_main_container_contacts"
+            style="@style/iv_home_tab"
+            android:background="@drawable/tab_address_normal" />
+
+        <TextView
+            style="@style/txt_home_tab"
+            android:text="@string/friends" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_main_body_main_container_friends"
+        style="@style/ll_home_tab"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:id="@+id/main_body_main_container_friends"
+            style="@style/iv_home_tab"
+            android:background="@drawable/tab_find_frd_normal" />
+
+        <TextView
+            style="@style/txt_home_tab"
+            android:text="@string/circle_of_friends" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_main_body_main_container_settings"
+        style="@style/ll_home_tab"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:id="@+id/main_body_main_container_settings"
+            style="@style/iv_home_tab"
+            android:background="@drawable/tab_settings_normal" />
+
+        <TextView
+            style="@style/txt_home_tab"
+            android:text="@string/more" />
+    </LinearLayout>
+
+</LinearLayout>

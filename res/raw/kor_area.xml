@@ -1,0 +1,6137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country value="한국" id="korea">
+	<province value="선택" id="QingXuanZe">
+		<city value="선택" id="QingXuanZe">
+			<area value="선택"/>
+		</city>
+	</province>
+	<province value="서울특별시" id="Seoul">
+		<city value="강남구" id="Gangnam_gu" >
+			<area value="개포1동" />
+			<area value="개포2동" />
+			<area value="개포4동" />
+			<area value="개포동" />
+			<area value="논현1동" />
+			<area value="논현2동" />
+			<area value="논현동" />
+			<area value="대치1동" />
+			<area value="대치2동" />
+			<area value="대치4동" />
+			<area value="대치동" />
+			<area value="도곡1동" />
+			<area value="도곡2동" />
+			<area value="도곡동" />
+			<area value="삼성1동" />
+			<area value="삼성2동" />
+			<area value="삼성동" />
+			<area value="세곡동" />
+			<area value="수서동" />
+                        <area value="신사동" />
+			<area value="압구정동" />
+			<area value="역삼1동" />
+			<area value="역삼2동" />
+			<area value="역삼동" />
+			<area value="율현동" />
+			<area value="일원1동" />
+			<area value="일원2동" />
+			<area value="일원본동" />
+			<area value="일원동" />
+			<area value="자곡동" />
+			<area value="청담동" />
+			<area value="무역센터우체국사서함" />
+			<area value="서울강남우체국사서함" />
+
+                </city>
+		<city value="강동구" id="Gangdong_gu" >
+			<area value="강일동" />
+			<area value="고덕1동" />
+			<area value="고덕2동" />
+			<area value="고덕동" />
+			<area value="길동" />
+			<area value="둔촌1동" />
+			<area value="둔촌2동" />
+			<area value="둔촌동" />
+			<area value="명일1동" />
+			<area value="명일2동" />
+			<area value="명일동" />
+			<area value="상일동" />
+			<area value="성내1동" />
+			<area value="성내2동" />
+			<area value="성내3동" />
+			<area value="암사1동" />
+			<area value="암사2동" />
+			<area value="암사3동" />
+			<area value="암사동" />
+			<area value="천호1동" />
+			<area value="천호2동" />
+			<area value="천호3동" />
+			<area value="천호동" />
+			<area value="서울강동우체국사서함" />
+
+                </city>
+		<city value="강북구" id="Gangbuk">
+			<area value="미아동" />
+			<area value="번1동" />
+			<area value="번2동" />
+			<area value="번3동" />
+			<area value="번동" />
+			<area value="삼각산동" />
+			<area value="삼양동" />
+			<area value="송중동" />
+			<area value="송천동" />
+			<area value="수유1동" />
+			<area value="수유2동" />
+			<area value="수유3동" />
+			<area value="수유동" />
+			<area value="우이동" />
+			<area value="인수동" />
+			<area value="서울강북우체국사서함" />
+
+                </city>
+		<city value="강서구" id="Gangseo_gu">
+			<area value="가양1동" />
+			<area value="가양2동" />
+			<area value="가양3동" />
+			<area value="가양동" />
+			<area value="개화동" />
+			<area value="공항동" />
+			<area value="과해동" />
+			<area value="내발산동" />
+			<area value="등촌1동" />
+			<area value="등촌2동" />
+			<area value="등촌3동" />
+			<area value="등촌동" />
+			<area value="마곡동" />
+			<area value="방화1동" />
+			<area value="방화2동" />
+			<area value="방화3동" />
+			<area value="방화동" />
+			<area value="염창동" />
+			<area value="오곡동" />
+			<area value="오쇠동" />
+			<area value="외발산동" />
+			<area value="우장산동" />
+			<area value="화곡1동" />
+			<area value="화곡2동" />
+			<area value="화곡3동" />
+			<area value="화곡4동" />
+			<area value="화곡6동" />
+			<area value="화곡8동" />
+			<area value="화곡본동" />
+			<area value="화곡동" />
+            <area value="서울화곡우체국사서함 " />
+			<area value="서울강서우체국사서함" />
+			
+		</city>
+		<city value="관악구" id="Gwanak_gu" >
+			<area value="낙성대동" />
+			<area value="난곡동" />
+			<area value="난향동" />
+			<area value="남현동" />
+			<area value="대학동" />
+			<area value="미성동" />
+			<area value="보라매동" />
+			<area value="봉천동" />
+			<area value="삼성동" />
+			<area value="서림동" />
+			<area value="서원동" />
+			<area value="성현동" />
+			<area value="신림동" />
+			<area value="신사동" />
+			<area value="신원동" />
+			<area value="은천동" />
+			<area value="인헌동" />
+			<area value="조원동" />
+                        <area value="중앙동" />
+			<area value="청룡동" />
+			<area value="청림동" />
+			<area value="행운동" />
+			<area value="서울관악우체국사서함" />
+
+		</city>
+		<city value="광진구" id="Gwangjin_gu">
+			<area value="광장동" />
+			<area value="구의1동" />
+			<area value="구의2동" />
+			<area value="구의3동" />
+			<area value="구의동" />
+			<area value="군자동" />
+			<area value="능동" />
+			<area value="자양1동" />
+			<area value="자양2동" />
+			<area value="자양3동" />
+			<area value="자양4동" />
+			<area value="자양동" />
+			<area value="중곡1동" />
+			<area value="중곡2동" />
+                        <area value="중곡3동" />
+			<area value="중곡4동" />
+			<area value="중곡동" />
+			<area value="화양동" />
+			<area value="서울광진우체국사서함" />
+			<area value="동서울우편집중국사서함" />
+			
+		</city>
+		<city value="구로구" id="Guro">
+			<area value="가리봉동" />
+			<area value="개봉1동" />
+			<area value="개봉2동" />
+			<area value="개봉3동" />
+			<area value="개봉동" />
+			<area value="고척1동" />
+			<area value="고척2동" />
+			<area value="고척동" />
+			<area value="구로1동" />
+			<area value="구로2동" />
+			<area value="구로3동" />
+			<area value="구로4동" />
+			<area value="구로5동" />
+			<area value="구로동" />
+			<area value="궁동" />
+			<area value="신도림동" />
+			<area value="오류1동" />
+			<area value="오류2동" />
+			<area value="오류동" />
+			<area value="온수동" />
+			<area value="천왕동" />
+			<area value="항동" />
+			<area value="구로디지털단지우체국사서함" />
+
+                </city>
+		<city value="금천구" id="Geumcheon_">
+			<area value="가산동" />
+			<area value="독산1동" />
+			<area value="독산2동" />
+			<area value="독산3동" />
+			<area value="독산4동" />
+			<area value="독산동" />
+			<area value="시흥1동" />
+			<area value="시흥2동" />
+			<area value="시흥3동" />
+			<area value="시흥4동" />
+			<area value="시흥5동" />
+			<area value="시흥동" />
+			<area value="서울금천우체국사서함" />
+			
+		</city>
+		<city value="노원구" id="Nowon_gu">
+			<area value="공릉1동" />
+			<area value="공릉2동" />
+			<area value="공릉동" />
+			<area value="상계1동" />
+			<area value="상계2동" />
+			<area value="상계3.4동" />
+			<area value="상계5동" />
+			<area value="상계6.7동" />
+			<area value="상계8동" />
+			<area value="상계9동" />
+			<area value="상계10동" />
+			<area value="상계동" />
+                        <area value="월계1동" />
+			<area value="월계2동" />
+			<area value="월계3동" />
+			<area value="월계동" />
+			<area value="중계1동" />
+			<area value="중계2.3동" />
+			<area value="중계4동" />
+			<area value="중계본동" />
+			<area value="중계동" />
+			<area value="하계1동" />
+                        <area value="하계2동" />
+			<area value="하계동" />
+			<area value="서울노원우체국사서함" />
+			
+		</city>
+		<city value="도봉구" id="Dobong">
+			<area value="도봉1동" />
+			<area value="도봉2동" />
+			<area value="도봉동" />
+			<area value="방학1동" />
+			<area value="방학2동" />
+			<area value="방학3동" />
+			<area value="방학동" />
+			<area value="쌍문1동" />
+			<area value="쌍문2동" />
+			<area value="쌍문3동" />
+                        <area value="쌍문4동" />
+			<area value="쌍문동" />
+			<area value="창1동" />
+			<area value="창2동" />
+			<area value="창3동" />
+			<area value="창4동" />
+			<area value="창5동" />
+			<area value="창동" />
+
+                </city>
+		<city value="동대문구" id="Dongdaemun_gu,">
+			<area value="답십리1동" />
+			<area value="답십리2동" />
+			<area value="답십리동" />
+			<area value="신설동" />
+			<area value="용두동" />
+			<area value="이문1동" />
+			<area value="이문2동" />
+			<area value="이문동" />
+			<area value="장안1동" />
+			<area value="장안2동" />
+			<area value="장안동" />
+                        <area value="전농1동" />
+			<area value="전농2동" />
+			<area value="전농동" />
+			<area value="제기동" />
+			<area value="청량리동" />
+			<area value="회기동" />
+			<area value="휘경1동" />
+			<area value="휘경2동" />
+			<area value="휘경동" />
+                        <area value="동대문우체국사서함" />
+			<area value="서울청량우체국사서함" />
+
+		</city>
+		<city value="동작구" id="Dongdaemun_gu,">
+			<area value="노량진1동" />
+			<area value="노량진2동" />
+			<area value="노량진동" />
+			<area value="대방동" />
+			<area value="본동" />
+			<area value="사당1동" />
+			<area value="사당2동" />
+                        <area value="사당3동" />
+			<area value="사당4동" />
+			<area value="사당5동" />
+			<area value="사당동" />
+			<area value="상도1동" />
+			<area value="상도2동" />
+			<area value="상도3동" />
+			<area value="상도4동" />
+			<area value="상도동" />
+			<area value="신대방1동" />
+			<area value="신대방2동" />
+                        <area value="신대방동" />
+			<area value="흑석동" />
+			<area value="서울동작우체국사서함" />
+			
+		</city>
+		<city value="마포구" id="Mapo_gu,">
+			<area value="공덕동" />
+			<area value="구수동" />
+			<area value="노고산동" />
+			<area value="당인동" />
+			<area value="대흥동" />
+			<area value="도화동" />
+			<area value="동교동" />
+                        <area value="마포동" />
+			<area value="망원1동" />
+			<area value="망원2동" />
+			<area value="망원동" />
+			<area value="상수동" />
+			<area value="상암동" />
+			<area value="서교동" />
+			<area value="성산1동" />
+			<area value="성산2동" />
+			<area value="성산동" />
+			<area value="신공덕동" />
+			<area value="신수동" />
+			<area value="신정동" />
+                        <area value="아현동" />
+			<area value="연남동" />
+			<area value="염리동" />
+			<area value="용강동" />
+			<area value="중동" />
+			<area value="창전동" />
+			<area value="토정동" />
+			<area value="하중동" />
+			<area value="합정동" />
+                        <area value="현석동" />
+			<area value="서울마포우체국사서함" />
+
+		</city>
+		<city value="서대문구" id="Seodaemun_gu,">
+			<area value="남가좌1동" />
+			<area value="남가좌2동" />
+			<area value="남가좌동" />
+			<area value="냉천동" />
+			<area value="대신동" />
+                        <area value="대현동" />
+			<area value="미근동" />
+                        <area value="봉원동" />
+			<area value="북가좌1동" />
+			<area value="북가좌2동" />
+			<area value="북가좌동" />
+			<area value="북아현동" />
+			<area value="신촌동" />
+			<area value="연희동" />
+			<area value="영천동" />
+			<area value="옥천동" />
+			<area value="창천동" />
+			<area value="천연동" />
+			<area value="충정로2가" />
+			<area value="충정로3가" />
+			<area value="합동" />
+			<area value="현저동" />
+			<area value="홍은1동" />
+                        <area value="홍은2동" />
+			<area value="홍은동" />
+			<area value="홍제1동" />
+			<area value="홍제2동" />
+			<area value="홍제3동" />
+			<area value="홍제동" />
+                        <area value="서대문우체국사서함" />
+                        <area value="서울충정로우체국사서함" />
+
+		</city>
+		<city value="서초구" id="Seocho_gu,">
+			<area value="내곡동" />
+			<area value="반포1동" />
+			<area value="반포2동" />
+			<area value="반포4동" />
+			<area value="반포본동" />
+			<area value="반포동" />
+                        <area value="방배1동" />
+			<area value="방배2동" />
+			<area value="방배3동" />
+			<area value="방배4동" />
+			<area value="방배본동" />
+			<area value="방배동" />
+			<area value="서초1동" />
+			<area value="서초2동" />
+			<area value="서초3동" />
+			<area value="서초4동" />
+			<area value="서초동" />
+			<area value="신원동" />
+			<area value="양재1동" />
+			<area value="양재2동" />
+                        <area value="양재동" />
+			<area value="염곡동" />
+			<area value="우면동" />
+                        <area value="원지동" />
+			<area value="잠원동" />
+			<area value="서울서초우체국사서함" />
+		
+                </city>
+		<city value="성동구" id="Seongdong_gu,">
+			<area value="금호동1가" />
+			<area value="금호동2가" />
+			<area value="금호동3가" />
+			<area value="금호동4가" />
+			<area value="도선동" />
+			<area value="마장동" />
+			<area value="사근동" />
+                        <area value="상왕십리동" />
+			<area value="성수1가1동" />
+			<area value="성수1가2동" />
+			<area value="성수2가1동" />
+			<area value="성수2가3동" />
+			<area value="성수동1가" />
+			<area value="성수동2가" />
+			<area value="송정동" />
+			<area value="옥수동" />
+			<area value="왕십리2동" />
+			<area value="용답동" />
+			<area value="응봉동" />
+			<area value="하왕십리동" />
+                        <area value="행당1동" />
+			<area value="행당2동" />
+			<area value="행당동" />
+			<area value="홍익동" />
+			<area value="서울성동우체국사서함" />
+			
+		</city>
+		<city value="성북구" id="Seongbuk_gu,">
+			<area value="길음1동" />
+			<area value="길음2동" />
+			<area value="길음동" />
+			<area value="돈암1동" />
+			<area value="돈암2동" />
+			<area value="돈암동" />
+                        <area value="동선동1가" />
+			<area value="동선동2가" />
+			<area value="동선동3가" />
+			<area value="동선동4가" />
+			<area value="동선동5가" />
+			<area value="동소문동1가" />
+			<area value="동소문동2가" />
+			<area value="동소문동3가" />
+			<area value="동소문동4가" />
+			<area value="동소문동5가" />
+			<area value="동소문동6가" />
+			<area value="동소문동7가" />
+			<area value="보문동1가" />
+			<area value="보문동2가" />
+			<area value="보문동3가" />
+			<area value="보문동4가" />
+                        <area value="보문동5가" />
+			<area value="보문동6가" />
+			<area value="보문동7가" />
+			<area value="삼선동1가" />
+			<area value="삼선동2가" />
+			<area value="삼선동3가" />
+			<area value="삼선동4가" />
+			<area value="삼선동5가" />
+			<area value="상월곡동" />
+			<area value="석관동" />
+			<area value="성북동" />
+			<area value="성북동1가" />
+			<area value="성북동" />
+                        <area value="안암동1가" />
+			<area value="안암동2가" />
+			<area value="안암동3가" />
+			<area value="안암동4가" />
+                        <area value="안암동5가" />
+			<area value="월곡1동" />
+			<area value="월곡2동" />
+                        <area value="장위1동" />
+			<area value="장위2동" />
+			<area value="장위3동" />
+            	        <area value="장위동" />
+                        <area value="정릉1동" />
+			<area value="정릉2동" />
+			<area value="정릉3동" />
+			<area value="정릉4동" />
+			<area value="정릉동" />
+			<area value="종암동" />
+			<area value="하월곡동" />
+                        <area value="서울성북우체국사서함" />
+		</city>
+		<city value="송파구" id="Songpa_gu,">
+			<area value="가락1동" />
+			<area value="가락2동" />
+			<area value="가락본동" />
+			<area value="가락동" />
+			<area value="거여1동" />
+			<area value="거여2동" />
+			<area value="거여동" />
+                        <area value="마천1동" />
+			<area value="마천2동" />
+			<area value="마천동" />
+			<area value="문정1동" />
+			<area value="문정2동" />
+			<area value="문정동" />
+			<area value="방이1동" />
+			<area value="방이2동" />
+			<area value="방이동" />
+			<area value="삼전동" />
+			<area value="석촌동" />
+			<area value="송파1동" />
+			<area value="송파2동" />
+			<area value="송파동" />
+			<area value="신천동" />
+			<area value="오금동" />
+			<area value="오륜동" />
+			<area value="잠실2동" />
+			<area value="잠실3동" />
+			<area value="잠실4동" />
+			<area value="잠실6동" />
+			<area value="잠실7동" />
+			<area value="잠실본동" />
+			<area value="잠실동" />
+			<area value="장지동" />
+                        <area value="풍납1동" />
+			<area value="풍납2동" />
+			<area value="풍납동" />
+			<area value="서울송파우체국사서함" />
+			
+		</city>
+		<city value="양천구" id="Yangcheon_gu">
+			<area value="목1동" />
+			<area value="목2동" />
+			<area value="목3동" />
+			<area value="목4동" />
+			<area value="목5동" />
+			<area value="목동" />
+			<area value="신월1동" />
+                        <area value="신월2동" />
+			<area value="신월3동" />
+			<area value="신월4동" />
+			<area value="신월5동" />
+			<area value="신월6동" />
+			<area value="신월7동" />
+			<area value="신월동" />
+			<area value="신정1동" />
+			<area value="신정2동" />
+			<area value="신정3동" />
+			<area value="신정4동" />
+			<area value="신정6동" />
+			<area value="신정7동" />
+                        <area value="신정동" />
+			<area value="서울양천우체국사서함" />
+			
+		</city>
+		<city value="영등포구" id="Yeongdeungpo_gu">
+			<area value="당산동1가" />
+			<area value="당산동2가" />
+			<area value="당산동3가" />
+			<area value="당산동4가" />
+			<area value="당산동5가" />
+			<area value="당산동6가" />
+			<area value="당산동" />
+                        <area value="대림1동" />
+			<area value="대림2동" />
+			<area value="대림3동" />
+			<area value="대림동" />
+			<area value="도림동" />
+			<area value="문래동1가" />
+			<area value="문래동2가" />
+			<area value="문래동3가" />
+			<area value="문래동4가" />
+			<area value="문래동5가" />
+			<area value="문래동6가" />
+			<area value="신길1동" />
+			<area value="신길3동" />
+			<area value="신길4동" />
+			<area value="신길5동" />
+			<area value="신길6동" />
+			<area value="신길7동" />
+			<area value="신길동" />
+			<area value="양평동1가" />
+                        <area value="양평동2가" />
+			<area value="양평동3가" />
+			<area value="양평동4가" />
+			<area value="양평동5가" />
+			<area value="양평동6가" />
+			<area value="양평동" />
+ 			<area value="양화동" />
+                        <area value="여의도동" />
+			<area value="영등포동1가" />
+			<area value="영등포동2가" />
+                        <area value="영등포동3가" />
+                        <area value="영등포동4가" />
+                        <area value="영등포동5가" />
+                        <area value="영등포동6가" />
+                        <area value="영등포동7가" />
+                        <area value="영등포동8가" />
+                        <area value="영등포본동" />
+                        <area value="영등포동" />
+                        <area value="여의도우체국사서함" />
+                        <area value="영등포우체국사서함" />
+		</city>
+		<city value="용산구" id="Yongsan_gu">
+			<area value="갈월동" />
+			<area value="남영동" />
+			<area value="도원동" />
+			<area value="동빙고동" />
+			<area value="동자동" />
+			<area value="문배동" />
+			<area value="보광동" />
+                        <area value="산천동" />
+			<area value="서계동" />
+			<area value="서빙고동" />
+			<area value="신계동" />
+			<area value="신창동" />
+			<area value="용문동" />
+			<area value="용산동1가" />
+			<area value="용산동2가" />
+			<area value="용산동3가" />
+			<area value="용산동4가" />
+			<area value="용산동5가" />
+			<area value="용산동6가" />
+			<area value="원효로1가" />
+			<area value="원효로2가" />
+			<area value="원효로3가" />
+			<area value="원효로4가" />
+			<area value="이촌1동" />
+			<area value="이촌2동" />
+			<area value="이촌동" />
+                        <area value="이태원1동" />
+			<area value="이태원2동" />
+			<area value="이태원동" />
+			<area value="주성동" />
+			<area value="청암동" />
+			<area value="청파동1가" />
+			<area value="청파동2가" />
+			<area value="청파동3가" />
+			<area value="한강로1가" />
+			<area value="한강로2가" />
+			<area value="한강로3가" />
+                        <area value="한남동" />
+                        <area value="효창동" />
+                        <area value="후암동" />
+                        <area value="서울용산우체국사서함" />
+			
+		</city>
+		<city value="은평구" id="Eunpyeong_gu">
+			<area value="갈현1동" />
+			<area value="갈현2동" />
+			<area value="갈현동" />
+			<area value="구산동" />
+                        <area value="녹번동" />
+			<area value="대조동" />
+			<area value="불광1동" />
+			<area value="불광2동" />
+			<area value="불광동" />
+			<area value="수색동" />
+			<area value="신사1동" />
+			<area value="신사2동" />
+			<area value="신사동" />
+			<area value="역촌동" />
+			<area value="응암1동" />
+			<area value="응암2동" />
+			<area value="응암3동" />
+                        <area value="응암동" />
+			<area value="증산동" />
+			<area value="진관동" />
+			<area value="서울은평우체국사서함" />
+                       
+		</city>
+		<city value="종로구" id="Jongno_gu">
+			<area value="가회동" />
+			<area value="견지동" />
+			<area value="경운동" />
+			<area value="계동" />
+			<area value="공평동" />
+			<area value="관수동" />
+                        <area value="관철동" />
+                        <area value="관훈동" />
+                        <area value="교남동" />
+                        <area value="교북동" />
+			<area value="구기동" />
+			<area value="궁정동" />
+			<area value="권농동" />
+			<area value="낙원동" />
+			<area value="내수동" />
+                        <area value="내자동" />
+			<area value="누상동" />
+                        <area value="누하동" />
+			<area value="당주동" />
+			<area value="도렴동" />
+			<area value="돈의동" />
+			<area value="동숭동" />
+			<area value="명륜1가" />
+			<area value="명륜2가" />
+                        <area value="명륜3가" />
+			<area value="명륜4가" />
+			<area value="묘동" />
+			<area value="무악동" />
+			<area value="봉익동" />
+                        <area value="부암동" />
+			<area value="사간동" />
+			<area value="사직동" />
+			<area value="삼청동" />
+			<area value="서린동" />
+                        <area value="세종로" />
+			<area value="소격동" />
+			<area value="송월동" />
+                        <area value="송현동" />
+			<area value="수송동" />
+			<area value="숭인1동" /> 
+                        <area value="숭인2동" />
+                        <area value="숭인동" />
+			<area value="신교동" />
+			<area value="신문로1가" />
+			<area value="신문로2가" />
+			<area value="신영동" />
+                        <area value="안국동" />
+			<area value="연건동" />
+			<area value="연지동" />
+			<area value="예지동" />
+			<area value="옥인동" />
+                        <area value="와룡동" />
+			<area value="운니동" />
+			<area value="원남동" />
+                        <area value="원서동" />
+			<area value="이화동" />
+			<area value="익선동" />
+                        <area value="인사동" />
+                        <area value="인의동" />
+			<area value="장사동" />
+			<area value="재동" />
+                        <area value="적선동" />
+			<area value="종로1가" />
+			<area value="종로2가" />
+			<area value="종로3가" />
+			<area value="종로4가" />
+                        <area value="종로5가" />
+			<area value="종로6가" />
+			<area value="중학동" />
+			<area value="창성동" />
+			<area value="창신1동" />
+                        <area value="창신2동" />
+			<area value="창신3동" />
+			<area value="창신동" />
+			<area value="청운동" />
+			<area value="청진동" />
+                        <area value="체부동" />
+			<area value="충신동" />
+			<area value="통의동" />
+                        <area value="통인동" />
+			<area value="팔판동" />
+			<area value="평동" />
+                        <area value="평창동" />
+			<area value="필운동" />
+			<area value="행촌동" />
+			<area value="혜화동" />
+                        <area value="홍지동" />
+			<area value="홍파동" />
+			<area value="화동" />
+			<area value="효자동" />
+                        <area value="효제동" />
+			<area value="훈정동" />
+                        <area value="광화문우체국사서함" />
+
+		</city>
+		<city value="중구" id="Jung_gu,">
+			<area value="광희동1가" />
+			<area value="광희동2가" />
+			<area value="남대문로1가" />
+			<area value="남대문로2가" />
+			<area value="남대문로3가" />
+			<area value="남대문로4가" />
+			<area value="남대문로5가" />
+			<area value="남산동1가" />
+			<area value="남산동2가" />
+			<area value="남산동3가" />
+			<area value="남창동" />
+			<area value="남학동" />
+			<area value="다동" />
+			<area value="만리동1가" />
+			<area value="만리동2가" />
+			<area value="명동1가" />
+			<area value="명동2가" />
+			<area value="무교동" />
+                        <area value="무학동" />
+			<area value="묵정동" />
+			<area value="방산동" />
+			<area value="봉래동1가" />
+			<area value="봉래동2가" />
+			<area value="북창동" />
+			<area value="산림동" />
+			<area value="삼각동" />
+			<area value="서소문동" />
+			<area value="소공동" />
+			<area value="수표동" />
+			<area value="수하동" />
+			<area value="순화동" />
+			<area value="신당1동" />
+			<area value="신당2동" />
+			<area value="신당3동" />
+			<area value="신당4동" />
+			<area value="신당5동" />
+			<area value="신당6동" />
+			<area value="신당동" />
+			<area value="쌍림동" />
+			<area value="예관동" />
+			<area value="예장동" />
+			<area value="오장동" />
+			<area value="을지로1가" />
+			<area value="을지로2가" />
+			<area value="을지로3가" />
+			<area value="을지로4가" />
+			<area value="을지로5가" />
+			<area value="을지로6가" />
+			<area value="을지로7가" />
+			<area value="의주로1가" />
+			<area value="의주로2가" />
+			<area value="인현동1가" />
+			<area value="인현동2가" />
+                        <area value="입정동" />
+			<area value="장교동" />
+			<area value="장충동1가" />
+			<area value="장충동2가" />
+			<area value="저동1가" />
+			<area value="저동2가" />
+			<area value="정동" />
+			<area value="주교동" />
+			<area value="주자동" />
+			<area value="중림동" />
+                        <area value="초동" />
+			<area value="충무로1가" />
+			<area value="충무로2가" />
+			<area value="충무로3가" />
+                        <area value="충무로4가" />
+			<area value="충무로5가" />
+			<area value="충정로1가" />
+			<area value="태평로1가" />
+                        <area value="태평로2가" />
+			<area value="필동1가" />
+			<area value="필동2가" />
+			<area value="필동3가" />
+                        <area value="황학동" />
+			<area value="회현동1가" />
+			<area value="회현동2가" />
+                        <area value="회현동3가" />
+                        <area value="흥인동" />
+                        <area value="서울중앙우체국사서함" />
+		</city>
+		<city value="중랑구" id="Jungryanggu">
+			<area value="망우3동" />
+			<area value="망우본동" />
+			<area value="망우동" />
+			<area value="면목2동" />
+			<area value="면목3.8동" />
+			<area value="면목4동" />
+			<area value="면목5동" />
+			<area value="면목7동" />
+			<area value="면목본동" />
+			<area value="면목동" />
+			<area value="묵1동" />
+                        <area value="묵2동" />
+			<area value="묵동" />
+			<area value="상봉1동" />
+			<area value="상봉2동" />
+			<area value="상봉동" />
+			<area value="신내1동" />
+			<area value="신내2동" />
+			<area value="신내동" />
+			<area value="중화1동" />
+			<area value="중화2동" />
+			<area value="중화동" />
+			<area value="서울중랑우체국사서함" />
+		</city>
+    </province>
+	<province value="부산광역시" id="Busan">
+                
+		<city value="강서구" id="Gangseo_gu">
+			<area value="강동동" />
+			<area value="구랑동" />
+			<area value="녹산동" />
+			<area value="눌차동" />
+			<area value="대저1동" />
+			<area value="대저2동" />
+			<area value="대항동" />
+			<area value="동선동" />
+			<area value="명지동" />
+			<area value="미음동" />
+			<area value="범방동" />
+			<area value="봉림동" />
+			<area value="생곡동" />
+			<area value="성북동" />
+			<area value="송정동" />
+			<area value="식만동" />
+			<area value="신호동" />
+			<area value="죽동동" />
+                        <area value="죽림동" />
+			<area value="지사동" />
+			<area value="천성동" />
+			<area value="화전동" />
+			<area value="부산강서우체국사서함" />
+			
+		</city>
+		<city value="금정구" id=" Geumjeong gu">
+			<area value="구서1동" />
+			<area value="구서2동" />
+			<area value="구서동" />
+			<area value="금사동" />
+			<area value="금성동" />
+			<area value="남산동" />
+			<area value="노포동" />
+                        <area value="두구동" />
+			<area value="부곡1동" />
+			<area value="부곡2동" />
+			<area value="부곡3동" />
+			<area value="부곡4동" />
+			<area value="부곡동" />
+			<area value="서1동" />
+                        <area value="서2동" />
+			<area value="서3동" />
+			<area value="서동" />
+			<area value="선동" />
+			<area value="오륜동" />
+			<area value="장전1동" />
+			<area value="장전2동" />
+			<area value="장전3동" />
+			<area value="장전동" />
+			<area value="청룡동" />
+			<area value="회동동" />
+			<area value="부산금정우체국사서함" />
+			
+		</city>
+		<city value="남구" id="Nam_gu">
+			<area value="감만1동" />
+			<area value="감만2동" />
+			<area value="감만동" />
+			<area value="대연1동" />
+                        <area value="대연2동" />
+			<area value="대연3동" />
+			<area value="대연4동" />
+			<area value="대연5동" />
+			<area value="대연6동" />
+			<area value="대연동" />
+			<area value="문현1동" />
+			<area value="문현2동" />
+			<area value="문현3동" />
+			<area value="문현4동" />
+                        <area value="문현동" />
+			<area value="용당동" />
+			<area value="용호1동" />
+			<area value="용호2동" />
+                        <area value="용호3동" />
+			<area value="용호4동" />
+			<area value="용호동" />
+			<area value="우암1동" />
+			<area value="우암2동" />
+			<area value="우암동" />
+			
+
+		</city>
+		<city value="동구" id="dong_gu">
+			<area value="범일1동" />
+			<area value="범일2동" />
+			<area value="범일4동" />
+			<area value="범일5동" />
+			<area value="범일동" />
+			<area value="수정1동" />
+			<area value="수정2동" />
+                        <area value="수정4동" />
+			<area value="수정5동" />
+			<area value="수정동" />
+			<area value="좌천1동" />
+			<area value="좌천4동" />
+			<area value="좌천동" />
+			<area value="초량1동" />
+                        <area value="초량2동" />
+			<area value="초량3동" />
+			<area value="초량6동" />
+			<area value="초량동" />
+			<area value="동부산우체국사서함" />
+			
+		</city>
+		<city value="동래구" id="Dongnae_gu">
+			<area value="낙민동" />
+			<area value="명륜동" />
+			<area value="명장1동" />
+			<area value="명장2동" />
+			<area value="명장동" />
+			<area value="복천동" />
+                        <area value="사직1동" />
+			<area value="사직2동" />
+			<area value="사직3동" />
+			<area value="사직동" />
+			<area value="수안동" />
+                        <area value="안락1동" />
+			<area value="안락2동" />
+			<area value="안락동" />
+			<area value="온천1동" />
+			<area value="온천2동" />
+			<area value="온천3동" />
+                        <area value="온천동" />
+			<area value="칠산동" />
+			<area value="동래우체국사서함" />
+			
+		</city>
+		<city value="부산진구" id="Busanjin_gu">
+			<area value="가야1동" />
+			<area value="가야2동" />
+			<area value="가야3동" />
+			<area value="가야동" />
+			<area value="개금1동" />
+                        <area value="개금2동" />
+			<area value="개금3동" />
+                        <area value="개금동" />
+			<area value="당감1동" />
+			<area value="당감2동" />
+			<area value="당감3동" />
+			<area value="당감4동" />
+                        <area value="당감동" />
+			<area value="범전동" />
+			<area value="범천1동" />
+			<area value="범천2동" />
+			<area value="범천4동" />
+			<area value="범천동" />
+                        <area value="부암1동" />
+			<area value="부암3동" />
+                        <area value="부암동" />
+			<area value="부전1동" />
+			<area value="부전2동" />
+                        <area value="부전동" />
+			<area value="양정1동" />
+                        <area value="양정2동" />
+			<area value="양정동" />
+			<area value="연지동" />
+                        <area value="전포1동" />
+			<area value="전포2동" />
+                        <area value="전포3동" />
+			<area value="전포동" />
+                        <area value="초읍동" />
+                        <area value="부산진우체국사서함" />
+
+		</city>
+		<city value="북구" id="Buk_gu">
+			<area value="구포1동" />
+			<area value="구포2동" />
+			<area value="구포3동" />
+			<area value="구포동" />
+			<area value="금곡동" />
+                        <area value="덕천1동" />
+			<area value="덕천2동" />
+			<area value="덕천3동" />
+			<area value="덕천동" />
+			<area value="만덕1동" />
+                        <area value="만덕2동" />
+			<area value="만덕3동" />
+			<area value="만덕동" />
+			<area value="화명1동" />
+			<area value="화명2동" />
+                        <area value="화명3동" />
+			<area value="화명동" />
+			<area value="북부산우체국사서함" />
+                        
+		</city>
+
+		
+		<city value="사상구" id="Sasang_gu">
+			<area value="감전동" />
+			<area value="괘법동" />
+			<area value="덕포1동" />
+			<area value="덕포2동" />
+			<area value="덕포동" />
+			<area value="모라1동" />
+			<area value="모라3동" />
+			<area value="모라동" />
+                        <area value="삼락동" />
+			<area value="엄궁동" />
+			<area value="주례1동" />
+                        <area value="주례2동" />
+			<area value="주례3동" />
+                        <area value="주례동" />
+			<area value="학장동" />
+			<area value="부산사상우체국사서함" />
+                       
+		
+		</city>
+		<city value="사하구" id="Saha_gu,">
+			<area value="감천1동" />
+			<area value="감천2동" />
+			<area value="감천동" />
+			<area value="괴정1동" />
+			<area value="괴정2동" />
+			<area value="괴정3동" />
+			<area value="괴정4동" />
+			<area value="괴정동" />
+			<area value="구평동" />
+			<area value="다대1동" />
+			<area value="다대2동" />
+                        <area value="다대동" />
+			<area value="당리동" />
+                        <area value="신평1동" />
+			<area value="신평2동" />
+			<area value="신평동" />
+			<area value="장림1동" />
+			<area value="장림2동" />
+			<area value="장림동" />
+			<area value="하단1동" />
+			<area value="하단2동" />
+			<area value="하단동" />
+			<area value="부산사하우체국사서함" />
+			
+		</city>
+		<city value="서구" id="SEO">
+			<area value="남부민1동" />
+			<area value="남부민2동" />
+			<area value="남부민동" />
+			<area value="동대신동1가" />
+			<area value="동대신동2가" />
+			<area value="동대신동3가" />
+			<area value="부민동1가" />
+			<area value="부민동2가" />
+                        <area value="부민동3가" />
+                        <area value="부용동1가" />
+ 			<area value="부용동2가" />
+                        <area value="서대신동1가" />
+			<area value="서대신동2가" />
+			<area value="서대신동3가" />
+			<area value="아미동1가" />
+                        <area value="아미동2가" />
+			<area value="암남동" />
+                        <area value="초장동" />
+			<area value="충무동1가" />
+			<area value="충무동2가" />
+			<area value="충무동3가" />
+                        <area value="토성동1가" />
+			<area value="토성동2가" />
+                        <area value="토성동3가" />
+			<area value="토성동4가" />
+                        <area value="토성동5가" />
+			
+
+		</city>
+		<city value="수영구" id="Suyounggu">
+			<area value="광안1동" />
+			<area value="광안2동" />
+			<area value="광안3동" />
+			<area value="광안4동" />
+			<area value="광안동" />
+			<area value="남천1동" />
+			<area value="남천2동" />
+                        <area value="남천동" />
+                        <area value="망미1동" />
+			<area value="망미2동" />
+                        <area value="망미동" />
+                        <area value="민락동" />
+			<area value="수영동" />
+                        <area value="남부산우체국사서함" />
+                        
+		</city>
+		<city value="연제구" id="Yeonje_gu">
+			<area value="거제1동" />
+			<area value="거제2동" />
+			<area value="거제3동" />
+			<area value="거제4동" />
+			<area value="거제동" />
+			<area value="연산1동" />
+			<area value="연산2동" />
+                        <area value="연산3동" />
+			<area value="연산4동" />
+                        <area value="연산5동" />
+                        <area value="연산6동" />
+			<area value="연산8동" />
+                        <area value="연산9동" />
+			<area value="연산동" />
+			
+		</city>
+		<city value="영도구" id="Yeongdo_gu">
+			<area value="남항동1가" />
+			<area value="남항동2가" />
+			<area value="남항동3가" />
+			<area value="대교동1가" />
+			<area value="대교동2가" />
+			<area value="대평동1가" />
+			<area value="대평동2가" />
+			<area value="동삼1동" />
+                        <area value="동삼2동" />
+			<area value="동삼3동" />
+			<area value="동삼동" />
+			<area value="봉래동1가" />
+			<area value="봉래동2가" />
+                        <area value="봉래동3가" />
+			<area value="봉래동4가" />
+                        <area value="봉래동5가" />
+                        <area value="신선동1가" />
+			<area value="신선동2가" />
+                        <area value="신선동3가" />
+			<area value="영선동1가" />
+                        <area value="영선동2가" />
+                        <area value="영선동3가" />
+			<area value="영선동4가" />
+                        <area value="청학1동" />
+			<area value="청학2동" />
+                        <area value="청학동" />
+                        <area value="부산영도우체국사서함" />
+			
+		</city>
+		<city value="중구" id="Jung_gu,">
+			<area value="광복동1가" />
+			<area value="광복동2가" />
+			<area value="광복동3가" />
+			<area value="남포동1가" />
+			<area value="남포동2가" />
+			<area value="남포동3가" />
+                        <area value="남포동4가" />
+			<area value="남포동5가" />
+			<area value="남포동6가" />
+			<area value="대창동1가" />
+			<area value="대창동2가" />
+			<area value="대청동3가" />
+                        <area value="대청동4가" />
+			<area value="동광동1가" />
+			<area value="동광동2가" />
+			<area value="동광동3가" />
+			<area value="동광동4가" />
+			<area value="동광동5가" />
+                        <area value="보수동1가" />
+                        <area value="보수동2가" />
+			<area value="보수동3가" />
+			<area value="부평동1가" />
+			<area value="부평동2가" />
+			<area value="부평동3가" />
+			<area value="부평동4가" />
+                        <area value="신창동1가" />
+                        <area value="신창동2가" />
+                        <area value="신창동3가" />
+                        <area value="신창동4가" />
+                        <area value="영주1동" />
+                        <area value="영주2동" />
+                        <area value="영주동" />
+                        <area value="중앙동1가" />
+                        <area value="중앙동2가" />
+                        <area value="중앙동3가" />
+                        <area value="중앙동4가" />
+                        <area value="중앙동5가" />
+                        <area value="중앙동6가" />
+                        <area value="중앙동7가" />
+                        <area value="창선동1가" />
+                        <area value="창선동2가" />
+                        <area value="부산우체국사서함" />
+                       
+		</city>
+		<city value="해운대구" id="Haeundae_gu">
+			<area value="반송1동" />
+			<area value="반송2동" />
+			<area value="반송3동" />
+			<area value="반송동" />
+			<area value="반여1동" />
+			<area value="반여2동" />
+                        <area value="반여3동" />
+                        <area value="반여4동" />
+                        <area value="반여동" />
+                        <area value="석대동" />
+                        <area value="송정동" />
+                        <area value="우1동" />
+                        <area value="우2동" />
+                        <area value="우동" />
+                        <area value="재송1동" />
+                        <area value="재송2동" />
+                        <area value="재송동" />
+                        <area value="좌1동" />
+                        <area value="좌2동" />
+                        <area value="좌3동" />
+                        <area value="좌4동" />
+                        <area value="좌동" />
+                        <area value="중1동" />
+                        <area value="중2동" />
+                        <area value="중동" />
+                        <area value="해운대우체국사서함" />
+                       
+		</city>
+		<city value="기장군" id="Gijanggun">
+			<area value="기장읍" />
+			<area value="장안읍" />
+			<area value="일광면" />
+			<area value="정관면" />
+			<area value="철마면" />
+			</city>
+        </province>
+	<province value="대구광역시" id="Cod">	
+		
+		<city value="남구" id="Nam_gu">
+			<area value="대명1동" />
+			<area value="대명2동" />
+			<area value="대명3동" />
+			<area value="대명4동" />
+			<area value="대명5동" />
+			<area value="대명6동" />
+			<area value="대명9동" />
+			<area value="대명10동" />
+			<area value="대명11동" />
+			<area value="대명동" />
+                        <area value="봉덕1동" />
+			<area value="봉덕2동" />
+			<area value="봉덕3동" />
+                        <area value="봉덕동" />
+                        <area value="이천동" />
+                        <area value="남대구우체국사서함" />
+                        
+		</city>
+		<city value="달서구" id="Dalseo_gu">
+			<area value="갈산동" />
+			<area value="감삼동" />
+			<area value="대곡동" />
+			<area value="대천동" />
+			<area value="도원동" />
+			<area value="두류1.2동" />
+			<area value="두류3동" />
+			<area value="두류동" />
+			<area value="본동" />
+                        <area value="본리동" />
+                        <area value="상인1동" />
+                        <area value="상인2동" />
+                        <area value="상인3동" />
+                        <area value="상인동" />
+                        <area value="성당동" />
+                        <area value="송현1동" />
+                        <area value="송현2동" />
+                        <area value="송현동" />
+                        <area value="신당동" />
+                        <area value="용산1동" />
+                        <area value="용산2동" />
+                        <area value="용산동" />
+                        <area value="월성1동" />
+                        <area value="월성2동" />
+                        <area value="월성동" />
+                        <area value="월암동" />
+                        <area value="유천동" />
+                        <area value="이곡1동" />
+                        <area value="이곡2동" />
+                        <area value="이곡동" />
+                        <area value="장동" />
+                        <area value="장기동" />
+                        <area value="죽전동" />
+                        <area value="진천동" />
+                        <area value="파호동" />
+                        <area value="호림동" />
+                        <area value="호산동" />
+                        <area value="대구달서우체국사서함" />
+                        <area value="대구성서우체국사서함" />
+		</city>
+		<city value="동구" id="dong_gu">
+			<area value="각산동" />
+			<area value="검사동" />
+			<area value="괴전동" />
+			<area value="금강동" />
+			<area value="내동" />
+                        <area value="내곡동" />
+			<area value="능성동" />
+			<area value="대림동" />
+			<area value="덕곡동" />
+ 			<area value="도동" />
+                        <area value="도학동" />
+			<area value="동내동" />
+			<area value="동호동" />
+			<area value="둔산동" />
+			<area value="매여동" />
+                        <area value="미곡동" />
+			<area value="미대동" />
+			<area value="방촌동" />
+			<area value="백안동" />
+			<area value="봉무동" />
+			<area value="부동" />
+			<area value="불로동" />
+			<area value="사복동" />
+			<area value="상매동" />
+                        <area value="서호동" />
+			<area value="송정동" />
+			<area value="숙천동" />
+			<area value="신기동" />
+			<area value="신무동" />
+                        <area value="신서동" />
+                        <area value="신암1동" />
+			<area value="신암2동" />
+			<area value="신암3동" />
+			<area value="신암4동" />
+			<area value="신암5동" />
+                        <area value="신암동" />
+			<area value="신용동" />
+			<area value="신천1.2동" />
+			<area value="신천3동" />
+  			<area value="신천4동" />
+                        <area value="신천동" />
+			<area value="신평동" />
+			<area value="용계동" />
+			<area value="용수동" />
+                        <area value="율암동" />
+                        <area value="율하동" />
+			<area value="입석동" />
+			<area value="중대동" />
+			<area value="지묘동" />
+                        <area value="지저동" />
+                        <area value="진인동	" />
+			<area value="평광동" />
+			<area value="효목1동" />
+			<area value="효목2동" />
+                        <area value="효목동" />
+                        <area value="동대구우체국사서함" />
+                      
+                </city>
+		<city value="북구" id="Buk_gu,">
+			<area value="검단동" />
+			<area value="고성동1가" />
+			<area value="고성동2가" />
+			<area value="고성동3가" />
+			<area value="관음동" />
+			<area value="구암동" />
+			<area value="국우동" />
+                        <area value="금호동" />
+			<area value="노곡동" />
+			<area value="노원동1가" />
+			<area value="노원동2가" />
+			<area value="노원동3가" />
+			<area value="대현동" />
+                        <area value="도남동" />
+			<area value="동변동" />
+			<area value="동천동" />
+			<area value="동호동" />
+			<area value="매천동" />
+			<area value="복현1동" />
+                        <area value="복현2동" />
+			<area value="복현동" />
+			<area value="사수동" />
+			<area value="산격1동" />
+			<area value="산격2동" />
+			<area value="산격3동" />
+                        <area value="산격4동" />
+			<area value="산격동" />
+			<area value="서변동" />
+                        <area value="연경동" />
+			<area value="읍내동" />
+			<area value="조야동" />
+			<area value="칠성동1가" />
+			<area value="칠성동2가" />
+			<area value="침산1동" />
+                        <area value="침산2동" />
+                        <area value="침산3동" />
+			<area value="침산동" />
+			<area value="태전1동" />
+			<area value="태전2동" />
+			<area value="태전동" />
+			<area value="팔달동" />
+                        <area value="학정동" />
+			<area value="북대구우체국사서함" />
+                      
+		</city>
+		<city value="서구" id="SEO">
+			<area value="내당1동" />
+			<area value="내당2.3동" />
+			<area value="내당4동" />
+			<area value="내당동" />
+			<area value="비산1동" />
+			<area value="비산2.3동" />
+			<area value="비산4동" />
+			<area value="비산5동" />
+			<area value="비산6동" />
+			<area value="비산7동" />
+			<area value="비산동" />
+			<area value="상리동" />
+			<area value="원대동1가" />
+                        <area value="원대동2가" />
+			<area value="원대동3가" />
+                        <area value="이현동" />
+			<area value="중리동" />
+                        <area value="평리1동" />
+			<area value="평리2동" />
+			<area value="평리3동" />
+			<area value="평리4동" />
+			<area value="평리5동" />
+			<area value="평리6동" />
+			<area value="평리동" />
+			<area value="서대구우체국사서함" />
+			
+		</city>
+		<city value="수성구" id="Suseong_gu">
+			<area value="가천동" />
+			<area value="고모동" />
+			<area value="노변동" />
+			<area value="대흥동" />
+			<area value="두산동" />
+			<area value="만촌1동" />
+			<area value="만촌2동" />
+			<area value="만촌3동" />
+			<area value="만촌동" />
+			<area value="매호동" />
+                        <area value="범물1동" />
+                        <area value="범물2동" />
+			<area value="범물동" />
+			<area value="범어1동" />
+			<area value="범어2동" />
+			<area value="범어3동" />
+                        <area value="범어4동" />
+			<area value="범어동" />
+                        <area value="사월동" />
+			<area value="삼덕동" />
+                        <area value="상동" />
+			<area value="수성동1가" />
+                        <area value="수성동2가" />
+			<area value="수성동3가" /> 
+                        <area value="수성동4가" />
+			<area value="시지동" />
+                        <area value="신매동" />
+			<area value="연호동" />
+                        <area value="욱수동" /> 
+                        <area value="이천동" />
+			<area value="중동" />
+                        <area value="지산1동" />
+			<area value="지산2동" />
+                        <area value="지산동" />
+                        <area value="파동" />
+                        <area value="황금1동" />
+                        <area value="황금2동" />
+                        <area value="황금동" />
+                        <area value="대구수성우체국사서함" />
+                        
+
+		</city>
+		<city value="중구" id="Jung_gu">
+			<area value="계산동1가" />
+			<area value="계산동2가" />
+			<area value="공평동" />
+			<area value="교동" />
+			<area value="남산1동" />
+			<area value="남산2동" />
+			<area value="남산3동" />
+			<area value="남산4동" />
+			<area value="남산동" />
+                        <area value="남성로" />
+			<area value="남일동" />
+			<area value="달성동" />
+                        <area value="대봉1동" />
+                        <area value="대봉2동" />
+                        <area value="대봉동" />
+                        <area value="대신동" />
+                        <area value="대안동" />
+                        <area value="덕산동" />
+			<area value="도원동" />
+			<area value="동문동" />
+			<area value="동산동" />
+			<area value="동성로1가" />
+			<area value="동성로2가" />
+			<area value="동성로3가" />
+			<area value="동인동1가" />
+			<area value="동인동2가" />
+			<area value="동인동3가" />
+			<area value="동인동4가" />
+                        <area value="동일동" />
+                        <area value="문화동" />
+                        <area value="봉산동" />
+                        <area value="북내동" />
+                        <area value="북성로1가" />
+                        <area value="북성로2가" />
+			<area value="사일동" />
+                        <area value="삼덕동1가" />
+                        <area value="삼덕동2가" />
+                        <area value="삼덕동3가" />
+                        <area value="상덕동" />
+                        <area value="상서동" />
+                        <area value="서내동" />
+                        <area value="서문로1가" />
+                        <area value="서문로2가" />
+                        <area value="서성로1가" />
+                        <area value="서성로2가" />
+                        <area value="서야동" />
+                        <area value="수동" />
+                        <area value="수창동" />
+                        <area value="시장북로" />
+                        <area value="완전동" />
+                        <area value="용덕동" />
+                        <area value="인교동" />
+                        <area value="장관동" />
+                        <area value="전동" />
+                        <area value="종로1가" />
+                        <area value="종로2가" />
+                        <area value="태평로1가" />
+                        <area value="태평로2가" />
+                        <area value="태평로3가" />
+                        <area value="포정동" />
+                        <area value="하서동" />
+                        <area value="향촌동" />
+                        <area value="화전동" />
+                        <area value="대구우체국사서함" />
+                        
+		</city>
+		<city value="달성군" id="Dalseonggun">
+			<area value="논공읍" />
+			<area value="다사읍" />
+			<area value="화원읍" />
+			<area value="가창면" />
+			<area value="구지면" />
+			<area value="옥포면" />
+			<area value="유가면" />
+                        <area value="하빈면" />
+                        <area value="현풍면" />
+</city>
+        </province>
+	<province value="인천광역시" id="Incheon" >
+                        
+		
+		<city value="계양구" id="Gyeyang_gu">
+			<area value="갈현동" />
+			<area value="계산1동" />
+			<area value="계산2동" />
+			<area value="계산3동" />
+			<area value="계산4동" />
+                        <area value="계산동" />
+                        <area value="귤현동" />
+                        <area value="노오지동" />
+                        <area value="다남동" />
+                        <area value="동양동" />
+                        <area value="둑실동" />
+                        <area value="목상동" />
+                        <area value="박촌동" />
+                        <area value="병방동" />
+                        <area value="상야동" />
+                        <area value="서운동" />
+			<area value="선주지동" />
+			<area value="오류동" />
+			<area value="용종동" />
+			<area value="이화동" />
+			<area value="임학동" />
+			<area value="작전1동" />
+                        <area value="작전2동" />
+                        <area value="작전동" />
+                        <area value="작전서운동" />
+                        <area value="장기동" />
+                        <area value="평동" />
+                        <area value="하야동" />
+                        <area value="효성1동" />
+                        <area value="효성2동" />
+                        <area value="효성동" />
+                        <area value="인천계양우체국사서함" />
+                        
+		</city>
+		<city value="남구" id="Nam_gu,">
+			<area value="관교동" />
+			<area value="도화1동" />
+			<area value="도화2.3동" />
+			<area value="도화동" />
+                        <area value="문학동" />
+			<area value="숭의1.3동" />
+			<area value="숭의2동" />
+                        <area value="숭의4동" />
+                        <area value="숭의동" />
+                        <area value="용현1.4동" />
+                        <area value="용현2동" />
+                        <area value="용현3동" />
+                        <area value="용현5동" />
+                        <area value="용현동" />
+                        <area value="주안1동" />
+                        <area value="주안2동" />
+                        <area value="주안3동" />
+                        <area value="주안4동" />
+                        <area value="주안5동" />
+                        <area value="주안6동" />
+                        <area value="주안7동" />
+                        <area value="주안8동" />
+                        <area value="주안동" />
+                        <area value="학익1동" />
+                        <area value="학익2동" />
+                        <area value="학익동" />
+		</city>
+		<city value="남동구" id="Namdong_gu">
+			<area value="간석1동" />
+			<area value="간석2동" />
+			<area value="간석3동" />
+			<area value="간석4동" />
+			<area value="간석동" />
+			<area value="고잔동" />
+			<area value="구월1동" />
+			<area value="구월2동" />
+			<area value="구월3동" />
+                        <area value="구월4동" />
+                        <area value="구월동" />
+                        <area value="남촌동" />
+                        <area value="논현동" />
+                        <area value="도림동" />
+                        <area value="만수1동" />
+                        <area value="만수2동" />
+                        <area value="만수3동" />
+                        <area value="만수4동" />
+                        <area value="만수5동" />
+                        <area value="만수6동" />
+                        <area value="만수동" />
+                        <area value="서창동" />
+                        <area value="수산동" />
+                        <area value="운연동" />
+                        <area value="장수동" />
+                        <area value="남인천우체국사서함" />
+                        
+		</city>
+		<city value="동구" id="dong_gu">
+			<area value="금곡동" />
+			<area value="만석동" />
+			<area value="송림1동" />
+			<area value="송림2동" />
+			<area value="송림3.5동" />
+			<area value="송림4동" />
+                        <area value="송림6동" />
+                        <area value="송림동" />
+                        <area value="송현1.2동" />
+			<area value="송현3동" />
+			<area value="송현동" />
+			<area value="창영동" />
+			<area value="화수동" />
+			<area value="화평동" />
+
+                </city>
+		<city value="부평구" id="Bupyeong_gu">
+                        <area value="갈산1동" />
+                        <area value="갈산2동" />
+                        <area value="갈산동" />
+			<area value="구산동" />
+			<area value="부개1동" />
+			<area value="부개2동" />
+			<area value="부개3동" />
+			<area value="부개동" />
+                        <area value="부평1동" />
+                        <area value="부평2동" />
+                        <area value="부평3동" />
+			<area value="부평4동" />
+			<area value="부평5동" />
+			<area value="부평6동" />
+			<area value="부평동" />
+			<area value="산곡1동" />
+                        <area value="산곡2동" />
+                        <area value="산곡3동" />
+                        <area value="산곡4동" />
+                        <area value="산곡동" />
+                        <area value="삼산1동" />
+                        <area value="삼산2동" />
+                        <area value="삼산동" />
+                        <area value="십정1동" />
+                        <area value="십정2동" />
+                        <area value="십정동" />
+                        <area value="일신동" />
+                        <area value="청천1동" />
+                        <area value="청천2동" />
+                        <area value="청천동" />
+                        <area value="북인천우체국사서함" />
+                       
+		</city>
+		<city value="서구" id="SEO">
+			<area value="가정1동" />
+			<area value="가정2동" />
+			<area value="가정3동" />
+			<area value="가정동" />
+                        <area value="가좌1동" />
+                        <area value="가좌2동" />
+                        <area value="가좌3동" />
+                        <area value="가좌4동" />
+                        <area value="가좌동" /> 
+                        <area value="검암동" />
+                        <area value="경서동" />
+                        <area value="공촌동" />
+                        <area value="금곡동" />
+                        <area value="당하동" />
+                        <area value="대곡동" /> 
+                        <area value="마전동" />
+                        <area value="백석동" />
+                        <area value="불로동" />
+                        <area value="석남1동" />
+                        <area value="석남2동" />
+                        <area value="석남3동" />
+                        <area value="석남동" />
+                        <area value="시천동" />
+                        <area value="신현동" />
+                        <area value="심곡동" /> 
+                        <area value="연희동" />
+                        <area value="오류동" />
+                        <area value="왕길동" />
+                        <area value="원당동" />
+                        <area value="원창동" />
+                        <area value="서인천우체국사서함" />  
+
+		</city>
+		<city value="연수구" id="Yeonsu_gu">
+			<area value="동춘1동" />
+			<area value="동춘2동" />
+			<area value="동춘3동" />
+			<area value="동춘동" />
+			<area value="선학동" />
+			<area value="송도1동" />
+			<area value="송도2동" />
+			<area value="송도동" />
+			<area value="연수1동" />
+                        <area value="연수2동" />
+			<area value="연수3동" />
+			<area value="연수동" />
+			<area value="옥련1동" />
+			<area value="옥련2동" />
+			<area value="옥련동" />
+			<area value="청학동" />
+			<area value="인천우체국사서함" />
+
+                </city>
+		<city value="중구" id="Jung_gu,">
+			<area value="경동" />
+                        <area value="관동1가" />
+			<area value="관동2가" />
+			<area value="관동3가" />
+			<area value="남북동" />
+			<area value="내동" />
+			<area value="답동" />
+			<area value="덕교동" />
+			<area value="도원동" />
+			<area value="무의동" />
+                        <area value="북성동1가" />
+			<area value="북성동2가" />
+			<area value="북성동3가" />
+			<area value="사동" />
+			<area value="선린동" />
+			<area value="선화동" />
+			<area value="송월동1가" />
+			<area value="송월동2가" />
+			<area value="송월동3가" />
+                        <area value="송학동1가" />
+			<area value="송학동2가" />
+			<area value="송학동3가" />
+			<area value="신생동" />
+			<area value="신포동" />
+			<area value="신흥동1가" />
+                        <area value="신흥동2가" />
+			<area value="신흥동3가" />
+			<area value="용동" />
+			<area value="운남동" />
+			<area value="운북동" />
+			<area value="운서동" />
+                        <area value="유동" />
+			<area value="율목동" />
+			<area value="을왕동" />
+			<area value="인현동" />
+			<area value="전동" />
+			<area value="중산동" />
+                        <area value="중앙동1가" />
+			<area value="중앙동2가" />
+                        <area value="중앙동3가" />
+			<area value="중앙동4가" />
+			<area value="항동1가" />
+			<area value="항동2가" />
+			<area value="항동3가" />
+			<area value="항동4가" />
+                        <area value="항동5가" />
+                        <area value="항동6가" />
+			<area value="항동7가" />
+                        <area value="해안동1가" />
+			<area value="해안동2가" />
+			<area value="해안동3가" />
+			<area value="해안동4가" />
+			<area value="인천공항우체국사서함" />
+			
+		</city>
+		<city value="강화군" id="Ganghwa_group">
+			<area value="강화읍" />
+			<area value="교동면" />
+			<area value="길상면" />
+			<area value="내가면" />
+			<area value="불은면" />
+			<area value="삼산면" />
+			<area value="서도면" />
+			<area value="선원면" />
+			<area value="송해면" />
+                        <area value="양도면" />
+			<area value="양사면" />
+			<area value="하점면" />
+			<area value="화도면" />
+			
+		</city>
+		<city value="옹진군" id="Woongjin group">
+			<area value="대청면" />
+			<area value="덕적면" />
+			<area value="백령면" />
+ 			<area value="북도면" />
+                        <area value="연평면" />
+			<area value="영흥면" />
+			<area value="자월면" />
+</city>
+        </province>
+	<province value="광주광역시" id="Guangzhou" >
+
+                
+		<city value="광산구" id="Gwangsan_gu">
+                        <area value="고룡동" />
+			<area value="광산동" />
+                        <area value="남산동" />
+			<area value="내산동" />
+			<area value="대산동" />
+                        <area value="덕림동" />
+ 			<area value="도덕동" />
+                        <area value="도산동" />
+			<area value="도천동" />
+			<area value="도호동" />
+			<area value="동림동" />
+                        <area value="동산동" />
+			<area value="동호동" />
+			<area value="두정동" />
+ 			<area value="등임동" />
+                        <area value="명도동" />
+			<area value="명화동" />
+			<area value="박호동" />
+ 			<area value="복룡동" />
+                        <area value="본덕동" />
+ 			<area value="북산동" />
+                        <area value="비아동" />
+			<area value="사호동" />
+			<area value="산막동" />
+			<area value="산수동" />
+                        <area value="산월동" />
+ 			<area value="산정동" />
+                        <area value="삼거동" />
+			<area value="삼도동" />
+			<area value="서봉동" />
+			<area value="선동" />
+                        <area value="선암동" />
+ 			<area value="소촌동" />
+                        <area value="송대동" />
+			<area value="송산동" />
+			<area value="송정1동" />
+			<area value="송정2동" />
+                        <area value="송정동" />
+                        <area value="송촌동" />
+			<area value="송치동" />
+			<area value="송학동" />
+			<area value="수완동" />
+                        <area value="신동" />
+			<area value="신창동" />
+			<area value="신가동" />
+			<area value="신룡동" />
+                        <area value="신촌동" />
+                        <area value="쌍암동" />
+                        <area value="안청동" />
+                        <area value="양동" />
+                        <area value="양산동" />
+                        <area value="연산동" />
+                        <area value="오산동" />
+                        <area value="오선동" />
+                        <area value="오운동" />
+                        <area value="옥동" />
+                        <area value="왕동" />
+                        <area value="요기동" />
+                        <area value="용곡동" />
+                        <area value="용동" />
+                        <area value="용봉동" />
+                        <area value="우산동" />
+                        <area value="운남동" />
+                        <area value="운수동" />
+                        <area value="월계동" />
+                        <area value="월곡1동" />
+                        <area value="월곡2동" />
+                        <area value="월곡동" />
+                        <area value="월전동" />
+                        <area value="유계동" />
+                        <area value="임곡동" />
+                        <area value="장덕동" />
+                        <area value="장록동" />
+                        <area value="장수동" />
+                        <area value="지산동" />
+                        <area value="지정동" />
+                        <area value="지죽동" />
+                        <area value="지평동" />
+                        <area value="진곡동" />
+                        <area value="하남동" />
+                        <area value="하산동" />
+                        <area value="황룡동" />
+                        <area value="흑석동" />
+                        <area value="광주광산우체국사서함" />
+		</city>
+		<city value="남구" id="Nam_gu,">
+			<area value="구동" />
+			<area value="구소동" />
+			<area value="노대동" />
+			<area value="대지동" />
+			<area value="덕남동" />
+			<area value="도금동" />
+			<area value="방림1동" />
+                        <area value="방림2동" />
+                        <area value="방림동" />
+                        <area value="백운1동" />
+			<area value="백운2동" />
+			<area value="백운동" />
+			<area value="봉선1동" />
+			<area value="봉선2동" />
+			<area value="봉선동" />
+                        <area value="사동" />
+                        <area value="서1동" />
+                        <area value="서2동" />
+			<area value="서동" />
+			<area value="석정동" />
+			<area value="송하동" />
+			<area value="승촌동" />
+			<area value="신장동" />
+                        <area value="압촌동" />
+                        <area value="양과동" />
+                        <area value="양림동" />
+                        <area value="양촌동" />
+                        <area value="원산동" />
+                        <area value="월산4동" />
+                        <area value="월산5동" />
+                        <area value="월산동" />
+                        <area value="월성동" />
+                        <area value="이장동" />
+                        <area value="임암동" />
+                        <area value="주월1동" />
+                        <area value="주월2동" />
+                        <area value="주월동" />
+                        <area value="지석동" />
+                        <area value="진월동" />
+                        <area value="칠석동" />
+                        <area value="행암동" />
+                        <area value="화장동" />
+                        
+
+		</city>
+		<city value="동구" id="dong_gu">
+			<area value="계림1동" />
+			<area value="계림2동" />
+			<area value="계림동" />
+			<area value="광산동" />
+			<area value="궁동" />
+			<area value="금남로1가" />
+			<area value="금남로2가" />
+                        <area value="금남로3가" />
+                        <area value="금남로4가" />
+                        <area value="금남로5가" />
+                        <area value="금동" />
+                        <area value="남동" />
+                        <area value="내남동" />
+                        <area value="대의동" />
+                        <area value="대인동" />
+                        <area value="동명동" />
+                        <area value="불로동" />
+                        <area value="산수1동" />
+                        <area value="산수2동" />
+                        <area value="산수동" />
+                        <area value="서석동" />
+                        <area value="선교동" />
+			<area value="소태동" />
+			<area value="수기동" />
+			<area value="용산동" />
+			<area value="용연동" />
+			<area value="운림동" />
+			<area value="월남동" />
+                        <area value="장동" />
+                        <area value="지산1동" />
+                        <area value="지산2동" />
+                        <area value="지산동" />
+                        <area value="충장로1가" />
+                        <area value="충장로2가" />
+                        <area value="충장로3가" />
+                        <area value="충장로4가" />
+                        <area value="충장로5가" />
+                        <area value="학동" />
+                        <area value="호남동" />
+                        <area value="황금동" />
+                        <area value="광주우체국사서함" />
+                       
+		</city>
+		<city value="북구" id="Buk_gu">
+			<area value="각화동" />
+			<area value="금곡동" />
+			<area value="누문동" />
+			<area value="대촌동" />
+                        <area value="덕의동" />
+                        <area value="동림동" />
+                        <area value="두암1동" />
+                        <area value="두암2동" />
+                        <area value="두암3동" />
+                        <area value="두암동" />
+                        <area value="망월동" />
+                        <area value="매곡동" />
+                        <area value="문흥1동" />
+			<area value="문흥2동" />
+			<area value="문흥동" />
+			<area value="북동" />
+			<area value="삼각동" />
+			<area value="생용동" />
+			<area value="수곡동" />
+			<area value="신안동" />
+                        <area value="신용동" />
+			<area value="양산동" />
+			<area value="연제동" />
+			<area value="오룡동" />
+			<area value="오치1동" />
+			<area value="오치2동" />
+			<area value="오치동" />
+			<area value="용강동" />
+                        <area value="용두동" />
+			<area value="용봉동" />
+			<area value="용전동" />
+			<area value="우산동" />
+			<area value="운암1동" />
+                        <area value="운암2동" />
+			<area value="운암3동" />
+			<area value="운암동" />
+			<area value="운정동" />
+			<area value="월출동" />
+                        <area value="유동" />
+			<area value="일곡동" />
+			<area value="임동" />
+			<area value="장등동" />
+                        <area value="중흥1동" />
+			<area value="중흥2동" />
+			<area value="중흥3동" />
+                        <area value="중흥동" />
+			<area value="지야동" />
+			<area value="청풍동" />
+                        <area value="충효동" />
+			<area value="태령동" />
+                        <area value="풍향동" />
+			<area value="화암동" />
+			<area value="효령동" />
+                        <area value="북광주우체국사서함" />           
+ 
+		</city>
+		<city value="서구" id="SEO">
+			<area value="광천동" />
+			<area value="금호동" />
+			<area value="내방동" />
+			<area value="농성1동" />
+			<area value="농성2동" />
+                        <area value="농성동" />
+                        <area value="덕흥동" />
+			<area value="동천동" />
+                        <area value="마륵동" />
+			<area value="매월동" />
+			<area value="벽진동" />
+                        <area value="상무1동" />
+                        <area value="상무2동" />
+			<area value="상무동" />
+                        <area value="서창동" />
+			<area value="세하동" />
+			<area value="쌍촌동" />
+                        <area value="양3동" />
+                        <area value="양동" />
+			<area value="용두동" />
+                        <area value="유촌동" />
+			<area value="치평동" />
+			<area value="풍암동" />
+                        <area value="화정1동" />
+                        <area value="화정2동" />
+			<area value="화정3동" />
+                        <area value="화정4동" />
+			<area value="화정동" />
+                        <area value="서광주우체국사서함" />
+                        </city>
+	</province>
+	<province value="대전광역시" id="Great War">	
+
+		
+		<city value="대덕구" id="Daedeok_gu">
+			<area value="갈전동" />
+			<area value="대화동" />
+			<area value="덕암동" />
+			<area value="목상동" />
+			<area value="문평동" />
+			<area value="미호동" />
+			<area value="법1동" />
+			<area value="법2동" />
+                        <area value="법동" />
+			<area value="부수동" />
+                        <area value="비래동" />
+                        <area value="삼정동" />
+			<area value="상서동" />
+                        <area value="석봉동" />
+			<area value="송촌동" />
+                        <area value="신대동" />
+			<area value="신일동" />
+			<area value="신탄진동" />
+                        <area value="연축동" />
+                        <area value="오정동" />
+			<area value="와동" />
+                        <area value="용호동" />
+			<area value="읍내동" />
+                        <area value="이현동" />
+			<area value="장동" />
+			<area value="중리동" />
+                        <area value="평촌동" />
+                        <area value="황호동" />
+			<area value="대전대덕우체국사서함" />
+                        
+
+
+		</city>
+		<city value="동구" id="dong_gu">
+			<area value="가양1동" />
+			<area value="가양2동" />
+			<area value="가양동" />
+			<area value="가오동" />
+                        <area value="구도동" />
+			<area value="낭월동" />
+			<area value="내탑동" />
+			<area value="대동" />
+                        <area value="대별동" />
+			<area value="대성동" />
+			<area value="마산동" />
+                        <area value="비룡동" />
+                        <area value="사성동" />
+			<area value="삼괴동" />
+                        <area value="삼성동" />
+                        <area value="삼정동" />
+			<area value="상소동" />
+			<area value="성남동" />
+                        <area value="세천동" />
+                        <area value="소제동" />
+			<area value="소호동" />
+                        <area value="신상동" />
+			<area value="신안동" />
+			<area value="신촌동" />
+                        <area value="신하동" />
+                        <area value="신흥동" />
+			<area value="오동" />
+                        <area value="용계동" />
+			<area value="용운동" />
+			<area value="용전동" />
+                        <area value="원동" />
+                        <area value="이사동" />
+			<area value="인동" />
+                        <area value="자양동" />
+			<area value="장척동" />
+			<area value="정동" />
+                        <area value="주산동" />
+                        <area value="주촌동" />
+			<area value="중동" />
+                        <area value="직동" />
+                        <area value="천동" />
+			<area value="추동" />
+                        <area value="판암1동" />
+                        <area value="판암2동" />
+			<area value="판암동" />
+                        <area value="하소동" />
+			<area value="홍도동" />
+                        <area value="효동" />
+                        <area value="효평동" />
+			<area value="대전우체국사서함" />
+		</city>
+		<city value="서구" id="seo">
+			<area value="가수원동" />
+			<area value="가장동" />
+			<area value="갈마1동" />
+			<area value="갈마2동" />
+			<area value="갈마동" />
+			<area value="관저1동" />
+                        <area value="관저2동" />
+			<area value="관저동" />
+			<area value="괴곡동" />
+			<area value="괴정동" />
+			<area value="내동" />
+                        <area value="도마1동" />
+			<area value="도마2동" />
+			<area value="도마동" />
+			<area value="도안동" />
+			<area value="둔산1동" />
+                        <area value="둔산2동" />
+			<area value="둔산3동" />
+			<area value="둔산동" />
+			<area value="만년동" />
+			<area value="매노동" />
+                        <area value="변동" />
+			<area value="복수동" />
+			<area value="봉곡동" />
+			<area value="산직동" />
+			<area value="오동" /> 
+                        <area value="용문동" />
+			<area value="용촌동" />
+			<area value="우명동" /> 
+                        <area value="원정동" />
+			<area value="월평1동" />
+			<area value="월평2동" /> 
+                        <area value="월평3동" />
+			<area value="월평동" /> 
+                        <area value="장안동" />
+			<area value="정림동" /> 
+                        <area value="탄방동" />
+			<area value="평촌동" /> 
+                        <area value="흑석동" />
+			<area value="대전둔산우체국사서함" />
+                       
+
+
+		</city>
+		<city value="유성구" id="Yuseong_gu">
+			<area value="가정동" />
+			<area value="갑동" />
+			<area value="계산동" />
+			<area value="관평동" />
+			<area value="교촌동" />
+			<area value="구룡동" />
+			<area value="구성동" />
+			<area value="구암동" />
+                        <area value="궁동" />
+			<area value="금고동" /> 
+                        <area value="금탄동" />
+			<area value="노은동" />
+                        <area value="대동" />
+			<area value="대정동" />
+			<area value="덕명동" />
+			<area value="덕진동" />
+                        <area value="도룡동" />
+			<area value="둔곡동" /> 
+                        <area value="문지동" />
+			<area value="반석동" />
+                        <area value="방동" />
+			<area value="방현동" />
+			<area value="복용동" />
+			<area value="봉명동" />
+                        <area value="봉산동" />
+			<area value="봉산동" /> 
+                        <area value="상대동" />
+			<area value="성북동" />
+                        <area value="세동" />
+			<area value="송강동" />
+			<area value="수남동" />
+			<area value="신동" />
+                        <area value="신봉동" />
+			<area value="신성동" /> 
+                        <area value="안산동" />
+			<area value="어은동" />
+                        <area value="외삼동" />
+                        <area value="용계동" />
+			<area value="용산동" /> 
+                        <area value="원내동" />
+			<area value="원신흥동" />
+                        <area value="원촌동" /> 
+                        <area value="자운동" />
+			<area value="장동" />
+                        <area value="장대동" />
+                        <area value="전민동" /> 
+                        <area value="죽동" />
+			<area value="지족동" />
+                        <area value="추목동" />
+                        <area value="탑립동" /> 
+                        <area value="하기동" />
+			<area value="학하동" />
+                        <area value="화암동" />
+			<area value="대전유성우체국사서함" />
+                      
+		
+
+		</city>
+		<city value="중구" id="Jung_gu">
+			<area value="구완동" />
+			<area value="금동" />
+			<area value="대사동" />
+			<area value="대흥동" />
+			<area value="목동" />
+			<area value="목달동" />
+			<area value="무수동" />
+                        <area value="문창동" />
+                        <area value="문화1동" />
+			<area value="문화2동" />
+                        <area value="문화동" />
+			<area value="부사동" />
+                        <area value="사정동" />
+			<area value="산성동" />
+			<area value="석교동" />
+			<area value="선화동" />
+			<area value="안영동" />
+			<area value="어남동" />
+                        <area value="오류동" />
+                        <area value="옥계동" />
+			<area value="용두동" />
+                        <area value="유천1동" />
+			<area value="유천2동" />
+                        <area value="유천동" />
+			<area value="은행동" />
+			<area value="정생동" />
+			<area value="중촌동" />
+			<area value="침산동" />
+			<area value="태평1동" />
+                        <area value="태평2동" />
+                        <area value="태평동" />
+			<area value="호동" />
+                        <area value="서대전우체국사서함" />
+</city>
+        </province>
+	<province value="울산광역시" id="Ulsan">		
+		
+		<city value="남구" id="Nam_gu,">
+			<area value="개운동" />
+			<area value="고사동" />
+			<area value="남화동" />
+			<area value="달동" />
+                        <area value="두왕동" />
+			<area value="매암동" />
+                        <area value="무거동" />
+                        <area value="부곡동" />
+			<area value="삼산동" />
+			<area value="상개동" />
+                        <area value="선암동" />
+                        <area value="신정1동" />
+			<area value="신정2동" />
+                        <area value="신정3동" />
+			<area value="신정4동" />
+                        <area value="신정5동" />
+			<area value="신정동" />
+			<area value="야음동" />
+			<area value="여천동" />
+                        <area value="옥동" />
+			<area value="용연동" />
+                        <area value="용잠동" />
+                        <area value="장생포동" />
+			<area value="황성동" />
+			<area value="남울산우체국사서함" />
+                       
+		</city>
+		<city value="동구" id="dong_gu">
+			<area value="대송동" />
+			<area value="동부동" />
+			<area value="미포동" />
+			<area value="방어동" />
+			<area value="서부동" />
+			<area value="일산동" />
+			<area value="전하1동" />
+			<area value="전하2동" />
+			<area value="전하동" />
+			<area value="주전동" />
+			<area value="화정동" />
+                        <area value="동울산우체국사서함" />
+
+                </city>
+		<city value="북구" id="Buk_gu">
+                        <area value="가대동" />
+			<area value="구유동" />
+                        <area value="달천동" />
+			<area value="당사동" />
+                        <area value="대안동" />
+                        <area value="매곡동" />
+			<area value="명촌동" />
+			<area value="무룡동" />
+                        <area value="산하동" />
+                        <area value="상안동" />
+			<area value="송정동" />
+                        <area value="시례동" />
+			<area value="신명동" />
+                        <area value="신천동" />
+                        <area value="신현동" />
+			<area value="양정동" />
+			<area value="어물동" />
+                        <area value="연암동" />
+                        <area value="염포동" />
+			<area value="정자동" />
+                        <area value="중산동" />
+                        <area value="진장동" />
+			<area value="창평동" />
+                        <area value="천곡동" />
+                        <area value="호계동" />
+			<area value="화봉동" />
+                        <area value="효문동" />
+
+                </city>
+		<city value="중구" id="Jung_gu,">
+			<area value="교동" />
+                        <area value="남외동" />
+                        <area value="다운동" />
+			<area value="동동" />
+                        <area value="반구1동" />
+			<area value="반구2동" />
+                        <area value="반구동" />
+			<area value="복산1동" />
+                        <area value="복산2동" />
+                        <area value="복산동" />
+                        <area value="북정동" />
+			<area value="서동" />
+                        <area value="성남동" />
+			<area value="성안동" />
+                        <area value="약사동" />
+			<area value="옥교동" />
+                        <area value="우정동" />
+			<area value="유곡동" />
+                        <area value="장현동" />
+			<area value="태화동" />
+                        <area value="학산동" />
+			<area value="울산우체국사서함" />
+ 、
+                </city>
+		<city value="울주군" id="Ulju_gun">
+                        <area value="범서읍" />
+			<area value="언양읍" />
+                        <area value="온산읍" />
+			<area value="온양읍" />
+                        <area value="두동면" />
+			<area value="두서면" />
+                        <area value="삼남면" />
+			<area value="삼동면" />
+                        <area value="상북면" />
+			<area value="서생면" />
+                        <area value="웅촌면" />
+			<area value="청량면" />
+             </city> 
+        </province>
+	<province value="강원도" id="Gangwon">          
+		
+		<city value="강릉시" id="Gangneung">
+			<area value="강문동" />
+			<area value="견소동" />
+			<area value="교1동" />
+			<area value="교2동" />
+                        <area value="교동" />
+                        <area value="금학동" />
+			<area value="난곡동" />
+                        <area value="남문동" />
+			<area value="남항진동" />
+                        <area value="내곡동" />
+                        <area value="노암동" />
+			<area value="담산동" />
+                        <area value="대전동" />
+			<area value="두산동" />
+                        <area value="명주동" />
+			<area value="박월동" />
+                        <area value="병산동" />
+                        <area value="성남동" />
+			<area value="성내동" />
+                        <area value="송정동" />
+			<area value="신석동" />
+                        <area value="안현동" />
+			<area value="옥천동" />
+                        <area value="용강동" />
+                        <area value="운산동" />
+			<area value="운정동" />
+                        <area value="월호평동" />
+			<area value="유산동" />
+                        <area value="유천동" />
+                        <area value="임당동" />
+                        <area value="입암동" />
+                        <area value="장현동" />
+                        <area value="저동" />
+                        <area value="죽헌동" />
+			<area value="지변동" />
+                        <area value="청량동" />
+                        <area value="초당동" />       
+			<area value="포남1동" />
+                        <area value="포남2동" />
+                        <area value="포남동" />
+                        <area value="학동" />
+			<area value="홍제동" />
+                        <area value="회산동" />
+			<area value="주문진읍" />
+                        <area value="강동면" />
+                        <area value="구정면" />
+			<area value="사천면" />
+                        <area value="성산면" />
+                        <area value="연곡면" />
+			<area value="옥계면" />
+                        <area value="왕산면" />
+                        <area value="강릉우체국사서함" />
+			
+		</city>
+		<city value="동해시" id="Donghae">
+			<area value="괴란동" />
+			<area value="구미동" />
+			<area value="구호동" />
+			<area value="귀운동" />
+                        <area value="나안동" />
+                        <area value="내동" />
+                        <area value="단봉동" />
+			<area value="달방동" />
+                        <area value="대구동" />
+                        <area value="대진동" />
+			<area value="동호동" />
+                        <area value="동회동" />
+                        <area value="만우동" />
+                        <area value="망상동" />
+			<area value="묵호진동" />
+                        <area value="발한동" />
+                        <area value="부곡동" />
+			<area value="북평동" />
+                        <area value="비천동" />
+                        <area value="삼화동" />
+                        <area value="송정동" />
+                        <area value="쇄운동" />
+			<area value="신흥동" />
+                        <area value="심곡동" />
+                        <area value="어달동" />
+			<area value="용정동" />
+                        <area value="이기동" />
+			<area value="이도동" />
+                        <area value="이로동" />
+                        <area value="지가동" />
+			<area value="지흥동" />
+                        <area value="천곡동" />
+			<area value="초구동" />
+                        <area value="추암동" />
+                        <area value="평릉동" />
+			<area value="호현동" />
+                        <area value="효가동" />
+                        <area value="동해우체국사서함" />
+			
+			<area value="" />
+		</city>
+		<city value="삼척시" id="Samcheok">
+			<area value="갈천동" />
+			<area value="건지동" />
+			<area value="교동" />
+			<area value="근산동" />
+			<area value="남양동" />
+			<area value="당저동" />
+			<area value="도경동" />
+                        <area value="등봉동" />
+                        <area value="마달동" />
+                        <area value="사직동" />
+                        <area value="성남동" />
+                        <area value="성내동" />
+                        <area value="성북동" />
+                        <area value="오분동" />
+                        <area value="오사동" />
+                        <area value="우지동" />
+                        <area value="원당동" /> 
+                        <area value="읍산동" />
+                        <area value="읍중동" />
+                        <area value="자원동" />
+                        <area value="적노동" />
+                        <area value="정상동" />
+                        <area value="정하동" />
+                        <area value="조비동" />
+                        <area value="증산동" />
+                        <area value="평전동" />
+                        <area value="도계읍" />
+                        <area value="원덕읍" />
+                        <area value="가곡면" />
+                        <area value="근덕면" />
+                        <area value="노곡면" />
+                        <area value="미로면" />
+                        <area value="신기면" />
+                        <area value="하장면" />
+                        <area value="삼척우체국사서함" />
+		</city>
+		<city value="속초시" id="Sokcho">
+			<area value="교동" />
+			<area value="금호동" />
+			<area value="노학동" />
+			<area value="대포동" />
+			<area value="도문동" />
+			<area value="동명동" />
+			<area value="설악동" />
+                        <area value="영랑동" />
+                        <area value="장사동" />
+                        <area value="조양동" />
+                        <area value="중앙동" />
+                        <area value="청학동" />
+                        <area value="청호동" />
+                        <area value="속초우체국사서함" />
+                       
+		</city>
+		<city value="원주시" id="Circumference">
+			<area value="가현동" />
+			<area value="개운동" />
+			<area value="관설동" />
+			<area value="단계동" />
+			<area value="단구동" />
+			<area value="명륜1동" />
+			<area value="명륜2동" />
+			<area value="명륜동" />
+			<area value="무실동" />
+			<area value="반곡동" />
+			<area value="봉산동" />
+			<area value="우산동" />
+			<area value="원동" />
+                        <area value="인동" />
+                        <area value="일산동" />
+                        <area value="중앙동" />
+                        <area value="태장1동" />
+                        <area value="태장2동" />
+                        <area value="태장동" />
+                        <area value="평원동" />
+                        <area value="학성동" />
+                        <area value="행구동" />
+                        <area value="문막읍" />
+                        <area value="귀래면" />
+                        <area value="부론면" />
+                        <area value="소초면" />
+                        <area value="신림면" />
+                        <area value="지정면" />
+                        <area value="판부면" />
+                        <area value="호저면" />
+                        <area value="흥업면" />
+                        <area value="원주우체국사서함" />
+                        
+		</city>
+		<city value="춘천시" id="Chuncheon">
+			<area value="교동" />
+			<area value="근화동" />
+                        <area value="낙원동" />
+			<area value="봉의동" />
+			<area value="사농동" />
+			<area value="삼천동" />
+			<area value="석사동" />
+                        <area value="소양로1가" />
+                        <area value="소양로2가" />
+                        <area value="소양로3가" />
+                        <area value="소양로4가" />
+                        <area value="송암동" />
+                        <area value="신동" />
+                        <area value="약사동" />
+                        <area value="옥천동" />
+                        <area value="온의동" />
+                        <area value="요선동" />
+                        <area value="우두동" />
+                        <area value="운교동" />
+			<area value="조양동" />
+			<area value="죽림동" />
+			<area value="중도동" />
+			<area value="중앙로1가" />
+			<area value="중앙로2가" />
+			<area value="중앙로3가" />
+			<area value="칠전동" />
+			<area value="퇴계동" />
+			<area value="효자1동" />
+			<area value="효자2동" />
+			<area value="효자3동" />
+			<area value="효자동" />
+                        <area value="후평1동" />
+			<area value="후평2동" />
+			<area value="후평3동" />
+			<area value="후평동" />
+			<area value="신북읍" />
+			<area value="남면" />
+			<area value="남산면" />
+			<area value="동면" />
+			<area value="동내면" />
+			<area value="동산면" />
+                        <area value="북산면	" />
+			<area value="사북면" />
+			<area value="서면" />
+			<area value="신동면" />
+			<area value="춘천우체국사서함" />
+			
+		</city>
+		<city value="태백시" id="Taebaek">
+			<area value="구문소동" />
+			<area value="금천동" />
+			<area value="동점동" />
+			<area value="문곡동" />
+			<area value="백산동" />
+			<area value="삼수동" />
+			<area value="상사미동" />
+			<area value="상장동" />
+			<area value="황지동" />
+			<area value="상장동" />
+			<area value="소도동" />
+			<area value="원동" />
+			<area value="장성동" />
+                        <area value="적각동" />
+			<area value="조탄동" />
+			<area value="창죽동" />
+			<area value="철암동" />
+			<area value="통동" />
+                        <area value="하사미동" />
+			<area value="혈동" />
+			<area value="화전동" />
+			<area value="황연동" />
+			<area value="황지동" />
+			<area value="태백우체국사서함" />
+			
+
+		</city>
+		<city value="고성군" id="Goseong ">
+			<area value="간성읍" />
+			<area value="거진읍" />
+			<area value="죽왕면" />
+			<area value="토성면" />
+			<area value="현내면" />
+                        
+		</city>
+		<city value="양구군" id="Yanggu">
+			<area value="양구읍" />
+			<area value="남면" />
+			<area value="동면" />
+			<area value="방산면" />
+			<area value="해안면" />
+
+                </city>
+		<city value="양양군" id="Yangyang">
+			<area value="양양읍" />
+			<area value="강현면" />
+			<area value="서면" />
+			<area value="손양면" />
+			<area value="현남면" />
+			<area value="현북면" />
+
+                </city>
+		<city value="영월군" id="Yeongwol">
+			<area value="상동읍" />
+                        <area value="영월읍" />
+			<area value="김삿갓면" />
+			<area value="남면" />
+                        <area value="북면" />
+			<area value="수주면" />
+			<area value="주천면" />
+			<area value="중동면" />
+			<area value="한반도면" />
+
+                </city>
+		<city value="인제군" id="Inje">
+			<area value="인제읍" />
+			<area value="기린면" />
+			<area value="남면" />
+			<area value="북면" />
+                        <area value="상남면" />
+			<area value="서화면" />
+                
+                </city>
+		<city value="정선군" id="Jeongseon_gun">
+			<area value="고한읍" />
+			<area value="사북읍" />
+			<area value="신동읍" />
+			<area value="정선읍" />
+			<area value="남면" />
+			<area value="북평면" />
+			<area value="여량면" />
+                        <area value="임계면" />
+			<area value="화암면" />
+			
+		</city>
+		<city value="철원군" id="ZhangZhou">
+			<area value="갈말읍" />
+			<area value="김화읍" />
+			<area value="동송읍" />
+			<area value="철원읍" />
+			<area value="근남면" />
+			<area value="서면" />
+
+                </city>
+		<city value="평창군" id="Pyeongchang">
+			<area value="평창읍" />
+			<area value="대관령면" />
+			<area value="대화면" />
+			<area value="미탄면" />
+			<area value="방림면" />
+                        <area value="봉평면" />
+                        <area value="용평동" />
+			<area value="진부면" />
+
+                </city>
+		<city value="홍천군" id="Hongcheon">
+			<area value="홍천읍" />
+                        <area value="남면" />
+			<area value="내면" />
+			<area value="내촌면" />
+                        <area value="동면" />
+			<area value="두촌면" />
+			<area value="북방면" />
+                        <area value="서면" />
+			<area value="서석면" />
+			<area value="화촌면" />
+                
+                </city>
+		<city value="화천군" id="Hwacheon">
+                        <area value="화천읍" />
+                        <area value="간동면" />
+			<area value="사내면" />
+			<area value="상서면" />
+                        <area value="하남면" />
+
+                </city>
+		<city value="횡성군" id="Hoengseong">
+                        <area value="횡성읍" />
+			<area value="갑천면" />
+			<area value="강림면" />
+                        <area value="공근면" />
+                        <area value="둔내면" />
+			<area value="서원면" />
+			<area value="안흥면" />
+                        <area value="우천면" />
+			<area value="청일면" />
+            
+
+	        </city>
+	</province>
+	<province value="경기도" id="Gyeonggi_do">
+		<city value="고양시" id="Hometown when">
+			<area value="덕양구" />
+			<area value="일산동구" />
+			<area value="일산서구" />
+
+                </city>
+		<city value="과천시" id="Gwacheon">
+			<area value="갈현동" />
+			<area value="과천동" />
+			<area value="관문동" />
+			<area value="막계동" />
+			<area value="문원동" />
+			<area value="별양동" />
+			<area value="부림동" />
+                        <area value="원문동" />
+			<area value="주암동" />
+			<area value="중앙동" />
+			<area value="과천우체국사서함" />
+
+                </city>
+		<city value="광명시" id="Light">
+			<area value="가학동" />
+			<area value="광명1동" />
+			<area value="광명2동" />
+			<area value="광명3동" />
+			<area value="광명4동" />
+                        <area value="광명5동" />
+			<area value="광명6동" />
+			<area value="광명7동" />
+			<area value="광명동" />
+			<area value="노온사동" />
+			<area value="소하1동" />
+			<area value="소하2동" />
+			<area value="소하동" />
+			<area value="옥길동" />
+                        <area value="일직동" />
+			<area value="철산1동" />
+			<area value="철산2동" />
+			<area value="철산3동" />
+                        <area value="철산4동" />
+			<area value="철산동" />
+			<area value="하안1동" />
+			<area value="하안2동" />
+                        <area value="하안3동" />
+                        <area value="하안4동" />
+			<area value="하안동" />
+			<area value="광명우체국사서함" />
+			
+		</city>
+		<city value="광주시" id="Guangzhou">
+			<area value="경안동" />
+			<area value="목동" />
+			<area value="목현동" />
+			<area value="삼동" />
+			<area value="송정동" />
+			<area value="쌍령동" />
+			<area value="역동" />
+                        <area value="장지동" />
+			<area value="중대동" />
+			<area value="직동" />
+			<area value="탄벌동" />
+			<area value="태전동" />
+                        <area value="회덕동" />
+			<area value="곤지암읍" />
+			<area value="오포읍" />
+			<area value="초월읍" />
+			<area value="남종면" />
+                        <area value="도척면" />
+			<area value="중부면" />
+			<area value="퇴촌면" />
+                       
+		</city>
+		<city value="구리시" id="Guri City">
+			<area value="갈매동" />
+			<area value="교문1동" />
+			<area value="교문2동" />
+			<area value="교문동" />
+			<area value="동구동" />
+			<area value="사노동" />
+			<area value="수택1동" />
+			<area value="수택2동" />
+			<area value="수택3동" />
+			<area value="수택동" />
+                        <area value="아천동" />
+			<area value="인창동" />
+			<area value="토평동" />
+                        <area value="구리우체국사서함" />
+			
+		</city>
+		<city value="군포시" id="Gunpo_">
+			<area value="광정동" />
+			<area value="군포1동" />
+			<area value="군포2동" />
+			<area value="궁내동" />
+			<area value="금정동" />
+			<area value="당동" />
+			<area value="당정동" />
+			<area value="대야미동" />
+			<area value="도마교동" />
+			<area value="둔대동" />
+			<area value="부곡동" />
+			<area value="산본1동" />
+			<area value="산본2동" />
+			<area value="산본동" />
+			<area value="속달동" />
+			<area value="수리동" />
+			<area value="오금동" />
+			<area value="재궁동" />
+			<area value="군포우체국사서함" />
+
+                </city>
+		<city value="김포시" id="Kimpo">
+			<area value="감정동" />
+			<area value="걸포동" />
+			<area value="구래동" />
+			<area value="마산동" />
+			<area value="북변동" />
+                        <area value="사우동" />
+			<area value="운양동" />
+                        <area value="장기동" />
+                        <area value="풍무동" />
+			<area value="고촌읍" />
+			<area value="양촌읍" />
+                        <area value="통진읍" />
+                        <area value="대곶면" />
+			<area value="월곶면" />
+			<area value="하성면" />
+                        
+		</city>
+		<city value="남양주시" id="Namyangju">
+			<area value="가운동" />
+			<area value="금곡동" />
+			<area value="도농동" />
+			<area value="별내동" />
+			<area value="삼패동" />
+			<area value="수석동" />
+			<area value="양정동" />
+			<area value="이패동" />
+			<area value="일패동" />
+			<area value="지금동" />
+			<area value="평내동" />
+                        <area value="호평동" />
+                        <area value="오남읍" />
+			<area value="와부읍" />
+			<area value="진건읍" />
+                        <area value="진접읍" />
+                        <area value="화도읍" />
+			<area value="남양주우체국사서함" />
+			<area value="별내면" />
+                        <area value="수동면" />
+			<area value="조안면" />
+			<area value="퇴계원면" />
+                       
+		</city>
+		<city value="동두천시" id="Dongducheon">
+			<area value="걸산동" />
+			<area value="광암동" />
+			<area value="동두천동" />
+			<area value="보산동" />
+			<area value="상봉암동" />
+			<area value="상패동" />
+			<area value="생연1동" />
+			<area value="생연2동" />
+			<area value="생연동" />
+			<area value="송내동" />
+			<area value="안흥동" />
+			<area value="중앙동" />
+			<area value="지행동" />
+			<area value="탑동동" />
+                        <area value="하봉암동" />
+			<area value="동두천우체국사서함" />
+			
+		</city>
+		<city value="부천시" id="Bucheon">
+			<area value="소사구" />
+			<area value="오정구" />
+			<area value="원미구" />
+
+                </city>
+		<city value="성남시" id="Seongnam">
+			<area value="분당구" />
+			<area value="수정구" />
+			<area value="중원구" />
+
+                </city>
+		<city value="수원시" id="Suwon">
+			<area value="권선구" />
+			<area value="영통구" />
+                        <area value="장안구" />
+                        <area value="팔달구" />
+                
+                </city>
+		<city value="시흥시" id="Siheung_">
+			<area value="거모동" />
+			<area value="계수동" />
+                        <area value="과림동" />
+                        <area value="광석동" />
+                        <area value="군자동" />
+			<area value="금이동" />
+			<area value="논곡동" />
+                        <area value="능곡동" />
+                        <area value="대야동" />
+                        <area value="도창동" />
+                        <area value="매화동" />
+			<area value="목감동" />
+			<area value="무지내동" />
+                        <area value="물왕동" />
+                        <area value="미산" />
+                        <area value="방산동" />
+                        <area value="산현동" />
+			<area value="신천동" />
+			<area value="안현동" />
+                        <area value="월곶동" />
+                        <area value="은행동" />
+                        <area value="장곡동" />
+                        <area value="장현동" />
+			<area value="정왕1동" />
+			<area value="정왕2동" />
+                        <area value="정왕4동" />
+                        <area value="정왕3동" />
+                        <area value="정왕본동" />
+                        <area value="정왕동" />
+			<area value="조남동" />
+			<area value="죽율동" />
+                        <area value="포동" />
+                        <area value="하상동" />
+                        <area value="하중동" />
+                        <area value="화정동" />
+                        <area value="시흥우체국사서함" />
+                        
+		</city>
+		<city value="안산시" id="Ansan">
+			<area value="단원구" />
+			<area value="상록구" />
+                
+                </city>
+		<city value="안성시" id="Anseong">
+			<area value="가사동" />
+			<area value="가현동" />
+			<area value="계동" />
+			<area value="구포동" />
+			<area value="금산동" />
+			<area value="낙원동" />
+			<area value="당왕동" />
+			<area value="대천동" />
+			<area value="도기동" />
+			<area value="동본동" />
+			<area value="명륜동" />
+			<area value="발화동" />
+			<area value="봉남동" />
+			<area value="봉산동" />
+			<area value="사곡동" />
+			<area value="서인동" />
+                        <area value="석정동" />
+			<area value="성남동" />
+			<area value="숭인동" />
+                        <area value="신건지동" />
+                        <area value="신모산동" />
+                        <area value="신소현동" />
+                        <area value="신흥동" />
+                        <area value="아양동" />
+                        <area value="연지동" />
+			<area value="영동" />
+			<area value="옥산동" />
+                        <area value="옥천동" />
+                        <area value="인지동" />
+			<area value="중리동" />
+			<area value="창전동" />
+                        <area value="현수동" />
+                        <area value="공도읍" />
+			<area value="고삼면" />
+			<area value="금광면" />
+                        <area value="대덕면" />
+			<area value="미양면" />
+			<area value="보개면" />
+                        <area value="삼죽면" />
+			<area value="서운면" />
+			<area value="양성면" />
+                        <area value="원곡면" />
+			<area value="일죽면" />
+			<area value="죽산면" />
+                        <area value="안성우체국사서함" />
+			
+		</city>
+		<city value="안양시" id="Anyang">
+			<area value="동안구" />
+			<area value="만안구" />
+
+                </city>
+		<city value="양주시" id="Yangzhou">
+			<area value="고암동" />
+			<area value="고읍동" />
+			<area value="광사동" />
+			<area value="남방동" />
+			<area value="덕계동" />
+			<area value="덕정동" />
+			<area value="마전동" />
+			<area value="만송동" />
+			<area value="백석읍" />
+                        <area value="봉양동" />
+                        <area value="산북동" />
+			<area value="삼숭동" />
+			<area value="어둔동" />
+                        <area value="옥정동" />
+			<area value="유양동" />
+			<area value="율정동" />
+			<area value="회암동" />
+			<area value="회정동" />
+			<area value="백석읍" />
+			<area value="광적면" />
+			<area value="남면" />
+			<area value="은현면" />
+			<area value="장흥면" />、
+
+                </city>
+		<city value="오산시" id="Osan">
+			<area value="가수동" />
+                        <area value="가장동" />
+                        <area value="갈곶동" />
+			<area value="고현동" />
+			<area value="궐동" />
+                        <area value="금암동" />
+			<area value="내삼미동" />
+			<area value="누읍동" />
+                        <area value="두곡동" />
+                        <area value="벌음동" />
+                        <area value="부산동" />
+			<area value="서동" />
+			<area value="서랑동" />
+                        <area value="세교동" />
+			<area value="수청동" />
+			<area value="양산동" />
+                        <area value="오산동" />
+                        <area value="외삼미동" />
+			<area value="원동" />
+			<area value="은계동" />
+                        <area value="지곶동" />
+                        <area value="청학동" />
+			<area value="청호동" />
+			<area value="탑동" />
+                        <area value="오산우체국사서함" />
+                      
+		
+                </city>
+		<city value="용인시" id="Yongin City">
+			<area value="기흥구" />
+			<area value="수지구" />
+			<area value="처인구" />
+
+                </city>
+		<city value="의왕시" id="Uiwang_si">
+			<area value="고천동" />
+			<area value="내손1동" />
+			<area value="내손2동" />
+			<area value="내손동" />
+			<area value="삼동" />
+			<area value="오전동" />
+			<area value="왕곡동" />
+			<area value="월암동" />
+			<area value="이동" />
+			<area value="청계동" />
+			<area value="초평동" />
+			<area value="포일동" />
+
+                </city>
+		<city value="의정부시" id="Uijeongbu">
+			<area value="가능1동" />
+			<area value="가능2동" />
+			<area value="가능3동" />
+			<area value="가능동" />
+			<area value="고산동" />
+			<area value="금오동" />
+                        <area value="낙양동" />
+                        <area value="녹양동" />
+			<area value="민락동" />
+			<area value="산곡동" />
+			<area value="신곡1동" />
+			<area value="신곡2동" />
+			<area value="신곡동" />
+			<area value="용현동" />
+			<area value="의정부1동" />
+			<area value="의정부2동" />
+			<area value="의정부3동" />
+			<area value="의정부동" />
+			<area value="자일동" />
+			<area value="장암동" />
+			<area value="호원1동" />
+			<area value="호원2동" />
+			<area value="호원동" />
+			<area value="의정부우체국사서함" />
+			
+		</city>
+		<city value="이천시" id="Icheon">
+			<area value="갈산동" />
+			<area value="고담동" />
+			<area value="관고동" />
+			<area value="단월동" />
+			<area value="대포동" />
+			<area value="사음동" />
+			<area value="송정동" />
+			<area value="안흥동" />
+			<area value="율현동" />
+			<area value="장록동" />
+			<area value="중리동" />
+			<area value="증일동" />
+			<area value="증포동" />
+			<area value="진리동" />
+			<area value="창전동" />
+			<area value="부발읍" />
+			<area value="장호원읍" />
+			<area value="대월면" />
+			<area value="마장면" />
+                        <area value="모가면" />
+			<area value="백사면" />
+			<area value="설성면" />
+			<area value="신둔면" />
+			<area value="율면" />
+			<area value="호법면" />
+			<area value="이천우체국사서함" />
+
+                </city>
+		<city value="파주시" id="Paju">
+			<area value="검산동" />
+			<area value="교하동" />
+			<area value="금능동" />
+			<area value="금촌1동" />
+			<area value="금촌2동" />
+			<area value="금촌동" />
+			<area value="다율동" />
+			<area value="당하동" />
+			<area value="동패동" />
+			<area value="맥금동" />
+			<area value="목동동" />
+                        <area value="문발동" />
+			<area value="산남동" />
+			<area value="상지석동" />
+			<area value="서패동" />
+			<area value="송촌동" />
+			<area value="신촌동" />
+			<area value="아동동" />
+			<area value="야당동" />
+			<area value="연다산동" />
+			<area value="오도동" />
+                        <area value="와동동" />
+			<area value="하지석동" />
+			<area value="문산읍" />
+			<area value="법원읍" />
+			<area value="조리읍" />
+			<area value="파주읍" />
+			<area value="광탄면" />
+			<area value="군내면" />
+			<area value="월롱면" />
+			<area value="장단면" />
+			<area value="적성면" />
+			<area value="진동면" />
+			<area value="진서면" />
+			<area value="탄현면" />
+			<area value="파평면" />
+			<area value="문산우체국사서함" />
+			<area value="파주우체국사서함" />
+			
+		</city>
+		<city value="평택시" id="Pyeongtaek">
+			<area value="가재동" />
+			<area value="군문동" />
+			<area value="도일동" />
+			<area value="독곡동" />
+			<area value="동삭동" />
+			<area value="모곡동" />
+			<area value="비전1동" />
+			<area value="비전2동" />
+			<area value="비전동" />
+			<area value="서정동" />
+			<area value="세교동" />
+                        <area value="소사동" />
+                        <area value="신대동" />
+			<area value="신장동" />
+			<area value="용이동" />
+			<area value="월곡동" />
+			<area value="유천동" />
+			<area value="이충동" />
+			<area value="장당동" />
+			<area value="장안동" />
+			<area value="죽백동" />
+                        <area value="지산동" />
+			<area value="지제동" />
+			<area value="청룡동" />
+			<area value="칠괴동" />
+			<area value="칠원동" />
+			<area value="통복동" />
+                        <area value="평택동" />
+			<area value="합정동" />
+			<area value="안중읍" />
+			<area value="팽성읍" />
+			<area value="포승읍" />
+			<area value="고덕면" />
+			<area value="서탄면" />
+			<area value="오성면" />
+			<area value="진위면" />
+			<area value="청북면" />
+			<area value="현덕면" />
+			<area value="송탄우체국사서함" />
+			<area value="평택우체국사서함" />
+			
+		</city>
+		<city value="포천시" id="Pocheon">
+			<area value="동교동" />
+			<area value="선단동" />
+			<area value="설운동" />
+			<area value="신읍동" />
+			<area value="어룡동" />
+			<area value="자작동" />
+			<area value="소흘읍" />
+			<area value="가산면" />
+			<area value="관인면" />
+			<area value="군내면" />
+			<area value="내촌면" />
+			<area value="신북면" />
+			<area value="영북면" />
+                        <area value="이동면" />
+			<area value="일동면" />
+			<area value="창수면" />
+			<area value="화현면" />
+			
+		</city>
+		<city value="하남시" id="Henan">
+			<area value="감북동" />
+			<area value="감이동" />
+			<area value="감일동" />
+			<area value="광암동" />
+			<area value="교산동" />
+                        <area value="덕풍1동" />
+			<area value="덕풍2동" />
+			<area value="덕풍3동" />
+                        <area value="덕풍동" />
+                        <area value="망월동" />
+			<area value="미사동" />
+			<area value="배알미동" />
+			<area value="상사창동" />
+			<area value="상산곡동" />
+                        <area value="선동" />
+			<area value="신장1동" />
+			<area value="신장2동" />
+                        <area value="신장동" />
+			<area value="창우동" />
+			<area value="천현동" />
+			<area value="초이동" />
+			<area value="초일동" />
+                        <area value="춘궁동" />
+			<area value="풍산동" />
+			<area value="하사창동" />
+			<area value="하산곡동" />
+			<area value="학암동" />
+			<area value="항동" />
+			
+		</city>
+		<city value="화성시" id="Hwaseongsi">
+			<area value="기산동" />
+			<area value="기안동" />
+			<area value="남양동" />
+			<area value="능동" />
+			<area value="무송동" />
+			<area value="문호동" />
+			<area value="반송동" />
+			<area value="반월동" />
+			<area value="배양동" />
+			<area value="병점동" />
+			<area value="북양동" />
+			<area value="석우동" />
+			<area value="송림동" />
+                        <area value="송산동" />
+			<area value="수화동" />
+			<area value="시동" />
+			<area value="신남동" />
+			<area value="신외동" />
+			<area value="안녕동" />
+			<area value="안석동" />
+			<area value="온석동" />
+			<area value="원천동" />
+			<area value="장덕동" />
+			<area value="장전동" />
+			<area value="진안동" />
+			<area value="활초동" />
+			<area value="황계동" />
+                        <area value="봉담읍" />
+			<area value="우정읍" />
+			<area value="향남읍" />
+			<area value="동탄면" />
+			<area value="마도면" />
+			<area value="매송면" />
+			<area value="비봉면" />
+			<area value="서신면" />
+			<area value="송산면" />
+			<area value="양감면" />
+			<area value="장안면" />
+			<area value="정남면" />
+			<area value="팔탄면" />
+
+                </city>
+		<city value="가평군" id="Gapyeong">
+			<area value="가평읍" />
+			<area value="북면" />
+			<area value="상면" />
+			<area value="설악면" />
+			<area value="청평면" />
+			<area value="하면" />
+
+                </city>
+		<city value="양평군" id="YangPyong">
+			<area value="양평읍" />
+			<area value="강상면" />
+			<area value="강하면" />
+			<area value="개군면" />
+			<area value="단월면" />
+			<area value="서종면" />
+			<area value="양동면" />
+			<area value="양서면" />
+			<area value="옥천면" />
+			<area value="용문면" />
+			<area value="지평면" />
+			<area value="청운면" />
+
+                </city>
+		<city value="여주군" id="Yeoju">
+			<area value="여주읍" />
+			<area value="가남면" />
+			<area value="강천면" />
+			<area value="금사면" />
+			<area value="능서면" />
+			<area value="대신면" />
+			<area value="북내면" />
+			<area value="산북면" />
+			<area value="점동면" />
+			<area value="흥천면" />
+
+                </city>
+		<city value="연천군" id="Yeoncheon">
+			<area value="연천읍" />
+			<area value="전곡읍" />
+			<area value="군남면" />
+			<area value="미산면" />
+			<area value="백학면" />
+			<area value="신서면" />
+			<area value="왕징면" />
+			<area value="장남면" />
+			<area value="중면" />
+			<area value="청산면" />
+			
+		</city>
+        </province>
+	<province value="경상남도" id="Gyeongnam">
+		<city value="거제시" id="Geoje">
+			<area value="고현동" />
+			<area value="능포동" />
+			<area value="덕포동" />
+			<area value="두모동" />
+			<area value="마전동" />
+			<area value="문동동" />
+			<area value="삼거동" />
+                        <area value="상동동" />
+			<area value="수월동" />
+			<area value="아양동" />
+			<area value="아주동" />
+			<area value="양정동" />
+			<area value="옥포1동" />
+			<area value="옥포2동" />
+                        <area value="옥포동" />
+			<area value="장승포동" />
+			<area value="장평동" />
+			<area value="거제면" />
+			<area value="남부면" />
+			<area value="동부면" />
+			<area value="둔덕면" />
+			<area value="사등면" />
+			<area value="연초면" />
+			<area value="일운면" />
+			<area value="장목면" />
+			<area value="하청면" />
+			<area value="장승포우체국사서함" />
+			
+		</city>
+		<city value="김해시" id="Gimhae_si">
+			<area value="강동" />
+			<area value="구산동" />
+			<area value="내동" />
+			<area value="대성동" />
+			<area value="동상동" />
+			<area value="명법동" />
+			<area value="봉황동" />
+			<area value="부원동" />
+			<area value="불암동" />
+			<area value="삼계동" />
+			<area value="삼방동" />
+			<area value="삼정동" />
+			<area value="서상동" />
+			<area value="안동" />
+			<area value="어방동" />
+			<area value="외동" />
+			<area value="이동" />
+			<area value="전하동" />
+			<area value="지내동" />
+                        <area value="풍유동" />
+			<area value="화목동" />
+			<area value="흥동" />
+			<area value="진영읍" />
+			<area value="대동면" />
+			<area value="상동면" />
+			<area value="생림면" />
+			<area value="장유면" />
+			<area value="주촌면" />
+			<area value="진례면" />
+			<area value="한림면" />
+			<area value="김해우체국사서함" />
+			
+		</city>
+		<city value="밀양시" id="Milhyang">
+			<area value="가곡동" />
+			<area value="교동" />
+			<area value="남포동" />
+			<area value="내이동" />
+                        <area value="삼문동" />
+			<area value="용평동" />
+			<area value="활성동" />
+                        <area value="삼랑진읍" />
+			<area value="하남읍" />
+			<area value="단장면" />
+			<area value="무안면" />
+                        <area value="부북면" />
+			<area value="산내면" />
+			<area value="산외면" />
+                        <area value="상남면" />
+			<area value="상동면" />
+			<area value="청도면" />
+			<area value="초동면" />
+                        <area value="밀양우체국사서함" />
+			
+		</city>
+		<city value="사천시" id="Sacheon">
+			<area value="궁지동" />
+			<area value="노룡동" />
+			<area value="늑도동" />
+			<area value="대방동" />
+                        <area value="대포동" />
+			<area value="동금동" />
+			<area value="동동" />
+			<area value="동림동" />
+			<area value="마도동" />
+			<area value="백천동" />
+			<area value="벌리동" />
+			<area value="봉남동" />
+			<area value="사등동" />
+			<area value="서금동" />
+                        <area value="서동" />
+			<area value="선구동" />
+                        <area value="송포동" />
+			<area value="신벽동" />
+			<area value="신수동" />
+			<area value="실안동" />
+			<area value="와룡동" />
+			<area value="용강동" />
+			<area value="이금동" />
+			<area value="이홀동" />
+			<area value="좌룡동" />
+			<area value="죽림동" />
+			<area value="향촌동" />
+			<area value="사천읍" />
+                        <area value="곤명면" />
+			<area value="곤양면" />
+			<area value="사남면" />
+			<area value="서포면" />
+			<area value="용현면" />
+			<area value="정동면" />
+			<area value="축동면" />
+			<area value="삼천포우체국사서함" />
+			
+		</city>
+		<city value="양산시" id="Yangsan">
+			<area value="교동" />
+			<area value="남부동" />
+			<area value="다방동" />
+			<area value="덕계동" />
+			<area value="매곡동" />
+			<area value="명곡동" />
+			<area value="명동" />
+			<area value="북부동" />
+			<area value="북정동" />
+			<area value="산막동" />
+                        <area value="삼호동" />
+			<area value="소주동" />
+			<area value="신기동" />
+			<area value="어곡동" />
+			<area value="용당동" />
+                        <area value="유산동" />
+			<area value="주남동" />
+			<area value="중부동" />
+			<area value="평산동" />
+			<area value="호계동" />
+			<area value="물금읍" />
+			<area value="동면" />
+			<area value="상북면" />
+			<area value="원동면" />
+			<area value="하북면" />
+                        <area value="양산우체국사서함" />
+	
+		</city>
+		<city value="진주시" id="Jinju City">
+			<area value="가좌동" />
+			<area value="강남동" />
+			<area value="계동" />
+			<area value="귀곡동" />
+			<area value="남성동" />
+			<area value="대안동" />
+			<area value="동성동" />
+			<area value="망경동" />
+			<area value="본성동" />
+			<area value="봉곡동" />
+			<area value="봉래동" />
+			<area value="상대1동" />
+			<area value="상대2동" />
+                        <area value="상대동" />
+			<area value="상봉동동" />
+			<area value="상봉서동" />
+			<area value="상봉동" />
+			<area value="상평동" />
+			<area value="수정동" />
+			<area value="신안동" />
+			<area value="옥봉동" />
+			<area value="유곡동" />
+			<area value="이현동" />
+			<area value="인사동" />
+			<area value="장대동" />
+			<area value="장재동" />
+			<area value="주약동" />
+			<area value="중안동" />
+			<area value="초전동" />
+			<area value="칠암동" />
+			<area value="판문동" />
+			<area value="평거동" />
+			<area value="평안동" />
+			<area value="하대1동" />
+			<area value="하대2동" />
+			<area value="하대동" />
+			<area value="하촌동" />
+			<area value="호탄동" />
+			<area value="문산읍" />
+			<area value="금곡면" />
+			<area value="금산면" />
+			<area value="내동면" />
+			<area value="대곡면" />
+			<area value="대평면" />
+			<area value="명석면" />
+			<area value="미천면" />
+			<area value="사봉면" />
+			<area value="수곡면" />
+			<area value="이반성면" />
+			<area value="일반성면" />
+			<area value="정촌면" />
+			<area value="지수면" />
+			<area value="진성면" />
+			<area value="집현면" />
+			<area value="진주우체국사서함" />
+
+                </city>
+		<city value="창원시" id="Changwon City">
+			<area value="마산합포구" />
+			<area value="마산회원구" />
+			<area value="성산구" />
+			<area value="의창구" />
+			<area value="진해구" />
+
+                </city>
+		<city value="통영시" id="Tongyeong">
+			<area value="당동" />
+			<area value="도남동" />
+			<area value="도천동" />
+			<area value="동호동" />
+			<area value="명정동" />
+			<area value="무전동" />
+			<area value="문화동" />
+			<area value="미수동" />
+			<area value="봉평동" />
+			<area value="북신동" />
+			<area value="서호동" />
+			<area value="인평동" />
+			<area value="정량동" />
+			<area value="중앙동" />
+			<area value="태평동" />
+			<area value="평림동" />
+                        <area value="항남동" />
+			<area value="산양읍" />
+			<area value="광도면" />
+			<area value="도산면" />
+			<area value="사량면" />
+			<area value="욕지면" />
+			<area value="용남면" />
+			<area value="한산면" />
+			<area value="통영우체국사서함" />
+			
+		</city>
+		<city value="거창군" id="Geochang">
+			<area value="거창읍" />
+			<area value="가북면" />
+			<area value="가조면" />
+			<area value="고제면" />
+			<area value="남상면" />
+			<area value="남하면" />
+			<area value="마리면" />
+			<area value="북상면" />
+                        <area value="신원면" />
+			<area value="웅양면" />
+			<area value="위천면" />
+			<area value="주상면" />
+			
+		</city>
+		<city value="고성군" id="Goseong">
+			<area value="고성읍" />
+			<area value="개천면" />
+			<area value="거류면" />
+			<area value="구만면" />
+			<area value="대가면" />
+			<area value="동해면" />
+			<area value="마암면" />
+			<area value="삼산면" />
+			<area value="상리면" />
+                        <area value="영오면" />
+			<area value="영현면" />
+			<area value="하이면" />
+			<area value="하일면" />
+			<area value="회화면" />
+			
+		</city>
+		<city value="남해군" id="Namhae">
+			<area value="남해읍" />
+			<area value="고현면" />
+			<area value="남면" />
+			<area value="미조면" />
+			<area value="삼동면" />
+                        <area value="상주동" />
+			<area value="서면" />
+			<area value="설천면" />
+			<area value="이동면" />
+			<area value="창선면" />
+			
+		</city>
+		<city value="산청군" id="Sancheong">
+			<area value="산청읍" />
+			<area value="금서면" />
+			<area value="단성면" />
+                        <area value="삼장면" />
+			<area value="생비량면" />
+                        <area value="생초면" />
+			<area value="시천면" />
+			<area value="신등면" />
+                        <area value="신안면" />
+			<area value="오부면" />
+			<area value="차황면" />
+
+                </city>
+		<city value="의령군" id="Uiryeong_gun">
+			<area value="의령읍" />
+                        <area value="가례면" />
+			<area value="궁류면" />
+			<area value="낙서면" />
+			<area value="대의면" />
+                        <area value="봉수면" />
+			<area value="부림면" />
+			<area value="용덕면" />
+                        <area value="유곡면" />
+			<area value="정곡면" />
+			<area value="지정면" />
+			<area value="칠곡면" />	
+			<area value="화정면" />
+			
+		</city>
+		<city value="창녕군" id="Changnyeong">
+			<area value="남지읍" />
+			<area value="창녕읍" />
+			<area value="계성면" />
+			<area value="고암면" />
+			<area value="길곡면" />
+			<area value="대지면" />
+			<area value="대합면" />
+			<area value="도천면" />
+			<area value="부곡면" />
+			<area value="성산면" />
+			<area value="영산면" />
+			<area value="유어면" />
+                        <area value="이방면" />
+			<area value="장마면" />
+		
+		</city>
+		<city value="하동군" id="Hadong">
+			<area value="하동읍" />
+			<area value="고전면" />
+			<area value="금남면" />
+			<area value="금성면" />
+			<area value="북천면" />
+			<area value="악양면" />
+			<area value="양보면" />
+			<area value="옥종면" />
+			<area value="적량면" />
+			<area value="진교면" />
+	                <area value="청암면" />
+			<area value="화개면" />
+			<area value="횡천면" />
+        
+                </city>
+		<city value="함안군" id="Haman">
+			<area value="가야읍" />
+			<area value="군북면" />
+			<area value="대산면" />
+			<area value="법수면" />
+			<area value="산인면" />
+			<area value="여항면" />
+			<area value="칠북면" />
+			<area value="칠서면" />
+			<area value="칠원면" />
+			<area value="함안면" />
+
+                </city>
+		<city value="함양군" id="Hamyang">
+			<area value="함양읍" />
+			<area value="마천면" />
+			<area value="백전면" />
+			<area value="병곡면" />
+			<area value="서상면" />
+			<area value="서하면" />
+			<area value="수동면" />
+			<area value="안의면" />
+			<area value="유림면" />
+			<area value="지곡면" />
+			<area value="휴천면" />
+                
+                </city>
+		<city value="합천군" id="Hapcheon">
+			<area value="합천읍" />
+			<area value="가야면" />
+			<area value="가회면" />
+			<area value="대병면" />
+			<area value="대양면" />
+			<area value="덕곡면" />
+			<area value="묘산면" />
+			<area value="봉산면" />
+			<area value="삼가면" />
+			<area value="쌍백면" />
+			<area value="야로면" />
+			<area value="용주면" />
+			<area value="율곡면" />
+			<area value="적중면" />
+			<area value="청덕면" />
+			<area value="초계면" />
+
+                </city>
+	</province>
+	<province value="경상북도" id="Kyungpook">
+		<city value="경산시" id="GyeongSan">
+			<area value="갑제동" />
+			<area value="계양동" />
+			<area value="남방동" />
+			<area value="내동" />
+			<area value="대정동" />
+			<area value="대평동" />
+			<area value="백천동" />
+			<area value="사동" />
+			<area value="사정동" />
+			<area value="삼남동" />
+			<area value="삼북동" />
+			<area value="삼풍동" />
+			<area value="상방동" />
+			<area value="서상동" />
+			<area value="신교동" />
+			<area value="신천동" />
+			<area value="여천동" />
+			<area value="옥곡동" />
+			<area value="옥산동" />
+			<area value="유곡동" />
+			<area value="임당동" />
+                        <area value="점촌동" />
+			<area value="정평동" />
+			<area value="조영동" />
+			<area value="중방동" />
+			<area value="중산동" />
+                        <area value="평산동" />
+			<area value="진량읍" />
+			<area value="하양읍" />
+			<area value="남산면" />
+			<area value="남천면" />
+			<area value="압량면" />
+			<area value="와촌면" />
+			<area value="용성면" />
+			<area value="자인면" />
+                        <area value="경산우체국사서함" />
+
+		</city>
+		<city value="경주시" id="Gyeongju">
+			<area value="광명동" />
+			<area value="교동" />
+			<area value="구정동" />
+			<area value="구황동" />
+			<area value="남산동" />
+			<area value="노동동" />
+			<area value="노서동" />
+			<area value="덕동" />
+			<area value="도지동" />
+			<area value="동방동" />
+			<area value="동부동" />
+			<area value="동천동" />
+			<area value="마동" />
+			<area value="배동" />
+			<area value="배반동" />
+			<area value="보문동" />
+			<area value="북군동" />
+			<area value="북부동" />
+			<area value="사정동" />
+			<area value="서부동" />
+			<area value="서악동" />
+			<area value="석장동" />
+			<area value="성건동" />
+			<area value="성동동" />
+			<area value="손곡동" />
+			<area value="시동" />
+			<area value="시래동" />
+			<area value="신평동" />
+			<area value="암곡동" />
+			<area value="용강동" />
+			<area value="율동" />
+			<area value="인왕동" />
+			<area value="조양동" />
+			<area value="진현동" />
+			<area value="천군동" />
+			<area value="충효동" />
+			<area value="탑동" />
+			<area value="평동" />
+			<area value="하동" />
+			<area value="황남동" />
+			<area value="황성동" />
+			<area value="황오동" />
+			<area value="황용동" />
+			<area value="효현동" />
+			<area value="감포읍" />
+			<area value="건천읍" />
+			<area value="안강읍" />
+			<area value="외동읍" />
+			<area value="강동면" />
+			<area value="내남면" />
+			<area value="산내면" />
+			<area value="서면" />
+			<area value="양남면" />
+			<area value="양북면" />
+			<area value="천북면" />
+			<area value="현곡면" />
+			<area value="경주우체국사서함" />
+			
+                </city>
+		<city value="구미시" id="Gumi">
+            <area value="거의동" />
+			<area value="공단1동" />
+			<area value="공단2동" />
+			<area value="공단동" />
+            <area value="광평동" />
+			<area value="구평동" />
+			<area value="구포동" />
+			<area value="금전동" />
+			<area value="남통동" />
+			<area value="도량동" />
+			<area value="봉곡동" />
+			<area value="부곡동" />
+			<area value="비산동" />
+			<area value="사곡동" />
+			<area value="상모동" />
+			<area value="선기동" />
+			<area value="송정동" />
+			<area value="수점동" />
+			<area value="시미동" />
+			<area value="신동" />
+			<area value="신평1동" />
+			<area value="신평2동" />
+			<area value="신평동" />
+			<area value="양호동" />
+			<area value="오태동" />
+			<area value="옥계동" />
+			<area value="원평1동" />
+			<area value="원평2동" />
+			<area value="원평동" />
+			<area value="인의동" />
+			<area value="임수동" />
+			<area value="임은동" />
+			<area value="지산동" />
+			<area value="진평동" />
+			<area value="형곡1동" />
+			<area value="형곡2동" />
+			<area value="형곡동" />
+			<area value="황상동" />
+			<area value="고아읍" />
+			<area value="선산읍" />
+			<area value="도개면" />
+			<area value="무을면" />
+			<area value="산동면" />
+			<area value="옥성면" />
+			<area value="장천면" />
+			<area value="해평면" />
+			<area value="구미우체국사서함" />
+			
+		</city>
+		<city value="김천시" id="Gimcheon">
+			<area value="감호동" />
+			<area value="교동" />
+			<area value="남산동" />
+			<area value="다수동" />
+			<area value="대광동" />
+			<area value="덕곡동" />
+			<area value="모암동" />
+			<area value="문당동" />
+			<area value="백옥동" />
+			<area value="부곡동" />
+			<area value="삼락동" />
+			<area value="성내동" />
+                        <area value="신음동" />
+			<area value="양천동" />
+			<area value="용두동" />
+			<area value="응명동" />
+			<area value="지좌동" />
+			<area value="평화동" />
+			<area value="황금동" />
+			<area value="아포읍" />
+			<area value="감문면" />
+			<area value="감천면" />
+			<area value="개령면" />
+			<area value="구성면" />
+			<area value="남면" />
+			<area value="농소면" />
+			<area value="대덕면" />
+			<area value="대항면" />
+			<area value="봉산면" />
+			<area value="부항면" />
+			<area value="어모면" />
+			<area value="조마면" />
+			<area value="증산면" />
+			<area value="지례면" />
+			<area value="김천우체국사서함" />
+		</city>
+		<city value="문경시" id="Gimcheon">
+			<area value="공평동" />
+			<area value="모전동" />
+			<area value="불정동" />
+			<area value="신기동" />
+			<area value="영신동" />
+			<area value="우지동" />
+			<area value="유곡동" />
+			<area value="윤직동" />
+			<area value="점촌동" />
+			<area value="창동" />
+			<area value="흥덕동" />
+			<area value="가은읍" />
+			<area value="문경읍" />
+			<area value="농암면" />
+			<area value="동로면" />
+			<area value="마성면" />
+			<area value="산북면" />
+			<area value="산양면" />
+			<area value="영순면" />
+			<area value="호계면" />
+			<area value="문경우체국사서함" />
+			
+		</city>
+		<city value="상주시" id="Sangju_si">
+			<area value="가장동" />
+			<area value="개운동" />
+			<area value="거동동" />
+                        <area value="계산동" />
+			<area value="낙상동" />
+			<area value="낙양동" />
+			<area value="남성동" />
+			<area value="냉림동" />
+			<area value="도남동" />
+			<area value="만산동" />
+			<area value="무양동" />
+			<area value="병성동" />
+			<area value="복룡동" />
+			<area value="부원동" />
+			<area value="서곡동" />
+			<area value="서문동" />
+			<area value="서성동" />
+			<area value="성동동" />
+			<area value="성하동" />
+			<area value="신봉동" />
+			<area value="양촌동" />
+			<area value="연원동" />
+			<area value="오대동" />
+			<area value="외답동" />
+			<area value="인봉동" />
+			<area value="인평동" />
+			<area value="죽전동" />
+			<area value="중덕동" />
+			<area value="지천동" />
+			<area value="초산동" />
+			<area value="헌신동" />
+			<area value="화개동" />
+			<area value="화산동" />
+			<area value="흥각동" />
+			<area value="함창읍" />
+			<area value="공검면" />
+			<area value="낙동면" />
+			<area value="내서면" />
+			<area value="모동면" />
+			<area value="모서면" />
+			<area value="사벌면" />
+			<area value="외남면" />
+			<area value="외서면" />
+			<area value="은척면" />
+			<area value="이안면" />
+			<area value="중동면" />
+			<area value="청리면" />
+			<area value="화남면" />
+			<area value="화동면" />
+			<area value="화북면" />
+			<area value="화서면" />
+			<area value="상주우체국사서함" />
+
+                </city>
+		<city value="안동시" id="Andong_si">
+			<area value="광석동" />
+			<area value="금곡동" />
+			<area value="남문동" />
+			<area value="남부동" />
+			<area value="노하동" />
+                        <area value="당북동" /> 
+			<area value="대석동" />
+			<area value="동문동" />
+			<area value="동부동" />
+			<area value="명륜동" />
+			<area value="목성동" />
+			<area value="법상동" />
+			<area value="법흥동" />
+			<area value="북문동" />
+			<area value="삼산동" />
+			<area value="상아동" />
+			<area value="서부동" />
+			<area value="석동동" />
+			<area value="성곡동" />
+			<area value="송천동" />
+                        <area value="송현동" />
+			<area value="수상동" />
+			<area value="수하동" />
+			<area value="신세동" />
+			<area value="신안동" />
+			<area value="안기동" />
+			<area value="안막동" />
+			<area value="안흥동" />
+			<area value="옥동" />
+			<area value="옥야동" />
+			<area value="옥정동" />
+                        <area value="용상동" />
+                        <area value="운안동" />
+			<area value="운흥동" />
+			<area value="율세동" />
+			<area value="이천동" />
+			<area value="정상동" />
+			<area value="정하동" />
+			<area value="태화동" />
+			<area value="평화동" />
+			<area value="화성동" />
+			<area value="풍산읍" />
+			<area value="길안면" />
+			<area value="남선면" />
+			<area value="남후면" />
+			<area value="녹전면" />
+			<area value="도산면" />
+			<area value="북후면" />
+			<area value="서후면" />
+			<area value="예안면" />
+			<area value="와룡면" />
+			<area value="일직면" />
+			<area value="임동면" />
+			<area value="임하면" />
+			<area value="풍천면" />
+			<area value="안동우체국사서함" />
+
+                </city>
+		<city value="영주시" id="Yeongju_si">
+			<area value="가흥1동" />
+			<area value="가흥2동" />
+			<area value="가흥동	" />
+			<area value="고현동" />
+			<area value="문정동" />
+			<area value="상망동" />
+			<area value="아지동" />
+			<area value="영주1동" />
+			<area value="영주2동" />
+			<area value="영주동" />
+			<area value="적서동" />
+			<area value="조암동" />
+			<area value="조와동" />
+			<area value="창진동" />
+			<area value="하망동" />
+			<area value="휴천1동" />
+			<area value="휴천2동" />
+			<area value="휴천3동" />
+			<area value="휴천동" />
+			<area value="풍기읍" />
+			<area value="단산면" />
+			<area value="문수면" />
+			<area value="봉현면" />
+			<area value="부석면" />
+			<area value="순흥면" />
+                        <area value="안정면" />
+			<area value="이산면" />
+			<area value="장수면" />
+			<area value="평은면" />
+			<area value="영주우체국사서함" />
+
+                </city>
+		<city value="영천시" id="Yeongcheon_si">
+			<area value="과전동" />
+			<area value="괴연동" />
+			<area value="교촌동" />
+			<area value="금노동" />
+			<area value="녹전동" />
+			<area value="대전동" />
+			<area value="도동" />
+                        <area value="도남동" />
+			<area value="도림동" />
+			<area value="망정동" />
+			<area value="매산동" />
+			<area value="문내동" />
+			<area value="문외동" />
+			<area value="범어동" />
+			<area value="본촌동" />
+			<area value="봉동" />
+			<area value="서산동" />
+			<area value="성내동" />
+			<area value="신기동" />
+			<area value="쌍계동" />
+			<area value="야사동" />
+			<area value="언하동" />
+			<area value="오미동" />
+			<area value="오수동" />
+			<area value="완산동" />
+                        <area value="작산동" />
+			<area value="조교동" />
+			<area value="창구동" />
+			<area value="채신동" />
+			<area value="화룡동" />
+			<area value="금호읍" />
+			<area value="고경면" />
+			<area value="대창면" />
+			<area value="북안면" />
+			<area value="신녕면" />
+			<area value="임고면" />
+			<area value="자양면" />
+			<area value="청통면" />
+			<area value="화남면" />
+			<area value="화북면" />
+			<area value="화산면" />
+			<area value="영천우체국사서함" />
+
+                </city>
+		<city value="포항시" id="Pohang_si">
+			<area value="남구" />
+			<area value="북구" />
+
+                </city>
+		<city value="고령군" id="Goryeong_gun">
+			<area value="고령읍" />
+			<area value="개진면" />
+			<area value="다산면" />
+			<area value="덕곡면" />
+			<area value="성산면" />
+			<area value="쌍림면" />
+			<area value="우곡면" />
+			<area value="운수면" />
+
+
+                </city>
+		<city value="군위군" id="Gunwi_gun">
+			<area value="군위읍" />
+			<area value="고로면" />
+			<area value="부계면" />
+			<area value="산성면" />
+			<area value="소보면" />
+			<area value="우보면" />
+			<area value="의흥면" />
+			<area value="효령면" />
+			
+		</city>
+		<city value="봉화군" id="Bonghwa_gun">
+			<area value="봉화읍" />
+			<area value="명호면" />
+			<area value="물야면" />
+			<area value="법전면" />
+			<area value="봉성면" />
+			<area value="상운면" />
+                        <area value="석포면" />
+			<area value="소천면" />
+			<area value="재산면" />
+			<area value="춘양면" />
+
+                </city>
+		<city value="성주군" id="Seongju_gun">
+                        <area value="성주읍" />
+			<area value="가천면" />
+			<area value="금수면" />
+			<area value="대가면" />
+                        <area value="벽진면" />
+			<area value="선남면" />
+			<area value="수륜면" />
+			<area value="용암면" />
+			<area value="월항면" />
+                        <area value="초전면" />
+
+                </city>
+		<city value="영덕군" id="Yeongdeok_gun">
+			<area value="영덕읍" />
+			<area value="강구면" />
+			<area value="남정면" />
+                        <area value="달산면" />
+			<area value="병곡면" />
+			<area value="영해면" />
+			<area value="지품면" />
+			<area value="창수면" />
+			<area value="축산면" />
+			<area value="영양읍" />
+			<area value="석보면" />
+			<area value="수비면" />
+			<area value="일월면" />
+			<area value="입암면" />
+			<area value="청기면" />
+			
+		</city>
+		<city value="예천군" id="Yecheon_gun">
+			<area value="예천읍" />
+			<area value="감천면" />
+			<area value="개포면" />
+			<area value="보문면" />
+                        <area value="상리면" />
+			<area value="용궁면" />
+			<area value="용문면" />
+			<area value="유천면" />
+			<area value="지보면" />
+                        <area value="풍양면" />
+			<area value="하리면" />
+			<area value="호명면" />
+			
+		</city>
+		<city value="울릉군" id="Ulleung_gun">
+			<area value="울릉읍" />
+			<area value="북면" />
+			<area value="서면" />
+
+                </city>
+		<city value="울진군" id="Uljin_gun">
+			<area value="울진읍" />
+			<area value="평해읍" />
+			<area value="근남면" />
+                        <area value="기성면" />
+			<area value="북면" />
+                        <area value="서면" />
+			<area value="온정면" />
+			<area value="원남면" />
+			<area value="죽변면" />
+			<area value="후포면" />
+
+                </city>
+		<city value="의성군" id="Uiseong_gun">
+			<area value="의성읍" />
+                        <area value="가음면" />
+			<area value="구천면" />
+                        <area value="금성면" />
+			<area value="다인면" />
+			<area value="단밀면" />
+			<area value="단북면" />
+			<area value="단촌면" />
+			<area value="봉양면" />
+                        <area value="비안면" />
+			<area value="사곡면" />
+			<area value="신평면" />
+			<area value="안계면" />
+			<area value="안사면" />
+			<area value="안평면" />
+			<area value="옥산면" />
+			<area value="점곡면" />
+			<area value="춘산면" />
+			
+		</city>
+		<city value="청도군" id="Cheongdo_gun">
+			<area value="청도읍" />
+			<area value="화양읍" />
+			<area value="각남면" />
+			<area value="각북면" />
+			<area value="금천면" />
+			<area value="매전면" />
+			<area value="운문면" />
+			<area value="이서면" />
+			<area value="풍각면" />
+
+	        </city>
+		<city value="청송군" id="Cheongsong_gun">
+			<area value="청송읍" />
+			<area value="부남면" />
+			<area value="부동면" />
+			<area value="안덕면" />
+			<area value="진보면" />
+			<area value="파천면" />
+			<area value="현동면" />
+			<area value="현서면" />
+
+                </city>
+		<city value="칠곡군" id="Chilgok_gun">
+			<area value="북삼읍" />
+			<area value="석적읍" />
+			<area value="왜관읍" />
+			<area value="가산면" />
+			<area value="동명면" />
+			<area value="약목면" />
+			<area value="지천면" />
+
+                </city>
+        </province>
+	<province value="전라남도" id="Jeollanam_do">
+		<city value="광양시" id="Gwangyang_si">
+			<area value="광영동" />
+			<area value="금호동" />
+			<area value="도이동" />
+			<area value="마동" />
+			<area value="성황동" />
+			<area value="중군동" />
+			<area value="중동" />
+			<area value="태인동" />
+                        <area value="황금동" />
+			<area value="황길동" />
+			<area value="광양읍" />
+			<area value="다압면" />
+			<area value="봉강면" />
+			<area value="옥곡면" />
+			<area value="옥룡면" />
+			<area value="진상면" />
+			<area value="진월면" />
+			<area value="광양우체국사서함" />
+			<area value="목성우체국사서함" />
+
+                </city>
+		<city value="나주시" id="Naju_si">
+			<area value="경현동" />
+			<area value="과원동" />
+			<area value="관정동" />
+			<area value="교동" />
+			<area value="금계동" />
+			<area value="금성동" />
+			<area value="남내동" />
+			<area value="남외동" />
+			<area value="대기동" />
+			<area value="대호동" />
+			<area value="동수동" />
+			<area value="보산동" />
+			<area value="부덕동" />
+			<area value="산정동" />
+			<area value="삼도동" />
+			<area value="삼영동" />
+			<area value="서내동" />
+			<area value="석현동" />
+			<area value="성북동" />
+			<area value="송월동" />
+                        <area value="송촌동" />
+			<area value="안창동" />
+			<area value="영산동" />
+			<area value="오량동" />
+			<area value="용산동" />
+			<area value="운곡동" />
+			<area value="이창동" />
+			<area value="죽림동" />
+			<area value="중앙동" />
+			<area value="진포동" />
+			<area value="청동" />
+			<area value="토계동" />
+			<area value="평산동" />
+			<area value="남평읍" />
+			<area value="공산면" />
+			<area value="금천면" />
+			<area value="노안면" />
+			<area value="다도면" />
+			<area value="다시면" />
+			<area value="동강면" />
+			<area value="문평면" />
+			<area value="반남면" />
+			<area value="봉황면" />
+			<area value="산포면" />
+			<area value="세지면" />
+			<area value="왕곡면" />
+			<area value="나주우체국사서함" />
+			<area value="남평우체국사서함" />
+			<area value="성북동우체국사서함" />
+			
+		</city>
+		<city value="목포시" id="Mokpo_si">
+			<area value="경동1가" />
+			<area value="경동2가" />
+			<area value="광동1가" />
+			<area value="광동2가" />
+			<area value="광동3가" />
+			<area value="금동1가" />
+			<area value="금동2가" />
+                        <area value="금화동" />
+			<area value="남교동" />
+			<area value="달동" />
+			<area value="대성동" />
+			<area value="대의동1가" />
+                        <area value="대의동2가" />
+			<area value="대의동3가" />
+			<area value="동명동" />
+			<area value="만호동" />
+			<area value="명륜동" />
+			<area value="무안동" />
+			<area value="보광동1가" />
+			<area value="보광동2가" />
+			<area value="보광동3가" />
+			<area value="복만동" />
+			<area value="부주동" />
+			<area value="부흥동" />
+			<area value="북교동" />
+			<area value="북항동" />
+			<area value="산정동" />
+			<area value="삼학동" />
+			<area value="상동" />
+			<area value="상락동1가" />
+			<area value="상락동2가" />
+			<area value="서산동" />
+			<area value="석현동" />
+			<area value="수강동1가" />
+			<area value="수강동2가" />
+			<area value="신흥동" />
+			<area value="양동" />
+			<area value="연산동" />
+			<area value="영해동1가" />
+			<area value="영해동2가" />
+			<area value="옥암동" />
+                        <area value="옥금동" />
+			<area value="용당1동" />
+			<area value="용당2동" />
+			<area value="용당동" />
+			<area value="용해동" />
+			<area value="원산동" />
+			<area value="유동" />
+			<area value="유달동" />
+			<area value="율도동" />
+			<area value="죽교동" />
+			<area value="죽동" />
+			<area value="중동1가" />
+			<area value="중동2가" />
+			<area value="중앙동1가" />
+			<area value="중앙동2가" />
+			<area value="중앙동3가" />
+			<area value="창평동" />
+			<area value="축복동1가" />
+			<area value="축복동2가" />
+			<area value="축복동3가" />
+			<area value="측후동" />
+			<area value="하당동" />
+			<area value="항동" />
+			<area value="해안동1가" />
+			<area value="해안동2가" />
+			<area value="해안동3가" />
+			<area value="해안동4가" />
+                        <area value="행복동1가" />
+			<area value="행복동2가" />
+			<area value="호남동" />
+			<area value="목포우체국사서함" />
+                        
+		</city>
+		<city value="순천시" id="Suncheon_si">
+			<area value="가곡동" />
+			<area value="교량동" />
+			<area value="금곡동" />
+			<area value="남내동" />
+			<area value="남정동" />
+			<area value="대대동" />
+			<area value="대룡동" />
+			<area value="덕암동" />
+			<area value="덕월동" />
+			<area value="동외동" />
+			<area value="매곡동" />
+			<area value="삼거동" />
+			<area value="생목동" />
+			<area value="석현동" />
+			<area value="안풍동" />
+			<area value="야흥동" />
+			<area value="연향동" />
+                        <area value="영동" />
+			<area value="오천동" />
+			<area value="옥천동" />
+			<area value="와룡동" />
+			<area value="왕지동" />
+			<area value="용당동" />
+			<area value="인월동" />
+			<area value="인제동" />
+			<area value="장천동" />
+			<area value="저전동" />
+			<area value="조곡동" />
+			<area value="조례동" />
+			<area value="중앙동" />
+			<area value="풍덕동" />
+			<area value="행동" />
+			<area value="홍내동" />
+			<area value="승주읍" />
+			<area value="낙안면" />
+			<area value="별량면" />
+			<area value="상사면" />
+			<area value="서면" />
+			<area value="송광면" />
+			<area value="외서면" />
+			<area value="월등면" />
+			<area value="주암면" />
+			<area value="해룡면" />
+			<area value="황전면" />
+			<area value="순천우체국사서함" />
+
+                </city>
+		<city value="여수시" id="Yeosu_si">
+			<area value="경호동" />
+			<area value="고소동" />
+			<area value="공화동" />
+			<area value="관문동" />
+			<area value="광무동" />
+			<area value="교동" />
+			<area value="국동" />
+			<area value="군자동" />
+			<area value="낙포동" />
+			<area value="남산동" />
+			<area value="덕충동" />
+			<area value="동산동" />
+			<area value="둔덕동" />
+			<area value="만흥동" />
+			<area value="묘도동" />
+			<area value="문수동" />
+			<area value="미평동" />
+			<area value="봉강동" />
+			<area value="봉계동" />
+			<area value="봉산동" />
+			<area value="상암동" />
+			<area value="서교동" />
+			<area value="선원동" />
+			<area value="소호동" />
+			<area value="수정동" />
+			<area value="시전동" />
+			<area value="신기동" />
+			<area value="신덕동" />
+			<area value="신월동" />
+			<area value="안산동" />
+			<area value="여서동" />
+			<area value="여천동" />
+			<area value="연등동" />
+			<area value="오림동" />
+			<area value="오천동" />
+			<area value="웅천동" />
+			<area value="월내동" />
+                        <area value="월하동" />
+			<area value="적량동" />
+			<area value="종화동" />
+			<area value="주삼동" />
+			<area value="중앙동" />
+			<area value="중흥동" />
+			<area value="충무동" />
+			<area value="평여동" />
+			<area value="학동" />
+                        <area value="학용동" />
+			<area value="해산동" />
+			<area value="호명동" />
+			<area value="화장동" />
+			<area value="화치동" />
+			<area value="돌산읍" />
+			<area value="남면" />
+			<area value="삼산면	" />
+			<area value="소라면" />
+			<area value="율촌면" />
+			<area value="화양면" />
+			<area value="화정면" />
+                        <area value="여수우체국사서함" />
+			
+		</city>
+		<city value="강진군" id="Gangjin_gun">
+			<area value="강진읍" />
+			<area value="군동면" />
+			<area value="대구면" />
+			<area value="도암면" />
+                        <area value="마량면" />
+			<area value="병영면" />
+			<area value="성전면" />
+			<area value="신전면" />
+			<area value="옴천면" />
+                        <area value="작천면" />
+			<area value="칠량면" />
+
+                </city>
+		<city value="고흥군" id="Goheung_gun">
+			<area value="고흥읍" />
+			<area value="도양읍" />
+                        <area value="과역면" />
+			<area value="금산면" />
+			<area value="남양면" />
+			<area value="대서면" />
+			<area value="도덕면" />
+                        <area value="도화면" />
+			<area value="동강면" />
+			<area value="동일면" />
+			<area value="두원면" />
+                        <area value="봉래면" />
+			<area value="영남면" />
+			<area value="점암면" />
+			<area value="포두면" />
+			<area value="풍양면" />
+
+                </city>
+		<city value="곡성군" id="Gokseong_gun">
+			<area value="곡성읍" />
+			<area value="겸면" />
+			<area value="고달면" />
+			<area value="목사동면" />
+			<area value="삼기면" />
+			<area value="석곡면" />
+			<area value="오곡면" />
+			<area value="오산면" />
+			<area value="옥과면" />
+			<area value="입면" />
+			<area value="죽곡면" />
+			
+
+		</city>
+		<city value="구례군" id="Gurye_gun">
+			<area value="구례읍" />
+			<area value="간전면" />
+			<area value="광의면" />
+			<area value="마산면" />
+			<area value="문척면" />
+			<area value="산동면" />
+			<area value="용방면" />
+			<area value="토지면" />
+
+                </city>
+		<city value="담양군" id="Damyang_gun">
+			<area value="담양읍" />
+                        <area value="고서면" />
+			<area value="금성면" />
+			<area value="남면" />
+			<area value="대덕면" />
+			<area value="대전면" />
+                        <area value="무정면" />
+			<area value="봉산면" />
+			<area value="수북면" />
+			<area value="용면" />
+			<area value="월산면" />
+			<area value="창평면" />
+			
+		</city>
+		<city value="무안군" id="Muan_gun">
+			<area value="무안읍" />
+			<area value="삼향읍" />
+			<area value="일로읍" />
+			<area value="삼향읍" />
+			<area value="망운면" />
+                        <area value="몽탄면" />
+			<area value="운남면" />
+			<area value="청계면" />
+                        <area value="해제면" />
+			<area value="현경면" />
+
+                </city>
+		<city value="보성군" id="Boseong_gun">
+			<area value="벌교읍" />
+			<area value="보성읍" />
+			<area value="겸백면" />
+                        <area value="노동면" />
+			<area value="득량면" />
+			<area value="문덕면" />
+			<area value="미력면" />
+			<area value="복내면" />
+			<area value="웅치면" />
+			<area value="율어면" />
+			<area value="조성면" />
+			<area value="회천면" />
+
+                </city>
+		<city value="신안군" id="Sinan_gun">
+			<area value="압해읍" />
+			<area value="지도읍" />
+			<area value="도초면" />
+			<area value="비금면" />
+			<area value="신의면" />
+			<area value="안좌면" />
+			<area value="암태면" />
+			<area value="임자면" />
+			<area value="자은면" />
+			<area value="장산면" />
+			<area value="증도면" />
+			<area value="팔금면" />
+			<area value="하의면" />
+			<area value="흑산면" />
+		</city>
+		<city value="영광군" id="Yeonggwang_gun">
+			<area value="백수읍" />
+			<area value="영광읍" />
+			<area value="홍농읍" />
+			<area value="군남면" />
+			<area value="군서면" />
+			<area value="낙월면" />
+			<area value="대마면" />
+			<area value="묘량면" />
+			<area value="법성면" />
+			<area value="불갑면" />
+			<area value="염산면" />
+			<area value="삼호읍" />
+			<area value="삼호읍" />
+			<area value="영암읍" />
+			<area value="군서면" />
+			<area value="금정면" />
+			<area value="덕진면" />
+			<area value="도포면" />
+			<area value="미암면" />
+			<area value="서호면" />
+			<area value="시종면" />
+			<area value="신북면" />
+			<area value="학산면" />
+
+                </city>
+		<city value="완도군" id="Wando_gun">
+			<area value="금일읍" />
+			<area value="노화읍" />
+			<area value="완도읍" />
+			<area value="고금면" />
+			<area value="군외면" />
+			<area value="금당면" />
+                        <area value="보길면" />
+			<area value="생일면" />
+			<area value="소안면" />
+			<area value="신지면" />
+			<area value="약산면" />
+			<area value="청산면" />
+
+                </city>
+		<city value="장성군" id="Jangseong_gun">
+			<area value="장성읍" />
+			<area value="남면" />
+			<area value="동화면" />
+			<area value="북이면" />
+			<area value="북일면" />
+			<area value="북하면" />
+			<area value="삼계면" />
+			<area value="삼서면" />
+			<area value="서삼면" />
+			<area value="진원면" />
+			<area value="황룡면" />
+	
+		</city>
+		<city value="장흥군" id="Jangheung_gun">
+			<area value="관산읍" />
+			<area value="대덕읍" />
+			<area value="장흥읍" />
+			<area value="부산면" />
+			<area value="안양면" />
+			<area value="용산면" />
+			<area value="유치면" />
+			<area value="장동면" />
+			<area value="장평면" />
+			<area value="회진면" />
+
+                </city>
+		<city value="진도군" id="Jindo_gun">
+			<area value="진도읍" />
+			<area value="고군면" />
+			<area value="군내면" />
+			<area value="의신면" />
+			<area value="임회면" />
+			<area value="조도면" />
+			<area value="지산면" />
+
+                </city>
+		<city value="함평군" id="Hampyeong_gun">
+			<area value="함평읍" />
+			<area value="나산면" />
+			<area value="대동면" />
+			<area value="손불면" />
+			<area value="신광면" />
+			<area value="엄다면" />
+			<area value="월야면" />
+			<area value="학교면" />
+			<area value="해보면" />
+			
+		</city>
+		<city value="해남군" id="Haenam_gun">
+			<area value="해남읍" />
+			<area value="계곡면" />
+			<area value="마산면" />
+			<area value="문내면" />
+			<area value="북일면" />
+			<area value="북평면" />
+			<area value="산이면" />
+			<area value="삼산면" />
+			<area value="송지면" />
+			<area value="옥천면" />
+			<area value="현산면" />
+                        <area value="화산동" />
+			<area value="화원면" />
+			<area value="황산면" />
+
+                </city>
+		<city value="화순군" id="Hwasun_gun">
+			<area value="화순읍" />
+			<area value="남면" />
+			<area value="능주면" />
+			<area value="도곡면" />
+			<area value="도암면" />
+			<area value="동면" />
+			<area value="동복면" />
+			<area value="북면" />
+			<area value="이서면" />
+			<area value="이양면" />
+			<area value="청풍면" />
+			<area value="춘양면" />
+			<area value="한천면" />
+			
+
+		</city>
+        </province>
+	<province value="전라북도" id="Jeollabuk_do">
+		<city value="군산시" id="Gunsan_si">
+			<area value="개복동" />
+                        <area value="개사동" />
+                        <area value="개정동" />
+			<area value="경암동" />
+			<area value="구암동" />
+			<area value="금동" />
+			<area value="금광동" />
+			<area value="금암동" />
+			<area value="나운1동" />
+			<area value="나운2동" />
+			<area value="나운3동" />
+			<area value="나운동" />
+			<area value="내초동" />
+			<area value="내흥동" />
+			<area value="대명동" />
+			<area value="동흥남동" />
+			<area value="둔율동" />
+			<area value="명산동" />
+                        <area value="문화동" />
+			<area value="미룡동" />
+			<area value="미원동" />
+                        <area value="미장동" />
+			<area value="비응도동" />
+			<area value="사정동" />
+			<area value="산북동" />
+                        <area value="삼학동" />
+                        <area value="서흥남동" />
+                        <area value="선양동" />
+			<area value="소룡동" />
+			<area value="송창동" />
+                        <area value="송풍동" />
+			<area value="수송동" />
+			<area value="신관동" />
+			<area value="신영동" />
+			<area value="신창동" />
+			<area value="신풍동" />
+			<area value="신흥동" />
+			<area value="영동" />
+			<area value="영화동" />
+			<area value="오룡동" />
+                        <area value="오식도동" />
+			<area value="월명동" />
+			<area value="장미동" />
+			<area value="장재동" />
+			<area value="조촌동" />
+			<area value="죽성동" />
+			<area value="중동" />
+			<area value="중앙로1가" />
+			<area value="중앙로2가" />
+			<area value="중앙로3가" />
+			<area value="지곡동" />
+			<area value="창성동" />
+                        <area value="평화동" />
+			<area value="해망동" />
+			<area value="옥구읍" />
+			<area value="개정면" />
+			<area value="나포면" />
+			<area value="대야면" />
+			<area value="서수면" />
+			<area value="성산면" />
+			<area value="옥도면" />
+			<area value="옥산면" />
+                        <area value="옥서동" />
+			<area value="임피면" />
+			<area value="회현면" />
+                        <area value="군산우체국사서함" />
+		</city>
+		<city value="김제시" id="Gimje_si">
+			<area value="갈공동" />
+			<area value="검산동" />
+			<area value="교동" />
+			<area value="난봉동" />
+			<area value="도장동" />
+			<area value="명덕동" />
+			<area value="백학동" />
+			<area value="복죽동" />
+			<area value="상동동" />
+			<area value="서암동" />
+			<area value="서정동" />
+			<area value="순동" />
+                        <area value="신곡동" />
+			<area value="신덕동" />
+			<area value="신월동" />
+			<area value="양전동" />
+			<area value="오정동" />
+			<area value="옥산동" />
+			<area value="요촌동" />
+			<area value="용동" />
+                        <area value="월봉동" />
+			<area value="월성동" />
+			<area value="입석동" />
+			<area value="장화동" />
+			<area value="제월동" />
+			<area value="하동" />
+			<area value="황산동" />
+			<area value="흥사동" />
+                        <area value="만경읍" />
+			<area value="공덕면" />
+			<area value="광활면" />
+			<area value="금구면" />
+			<area value="금산면" />
+			<area value="백구면" />
+			<area value="백산면" />
+			<area value="봉남면" />
+                        <area value="부량면" />
+			<area value="성덕면" />
+			<area value="용지면" />
+			<area value="죽산면" />
+			<area value="진봉면" />
+			<area value="청하면" />
+			<area value="황산면" />
+			<area value="김제우체국사서함" />
+			
+		</city>
+		<city value="남원시" id="Namwon_si">
+			<area value="갈치동" />
+			<area value="고죽동" />
+			<area value="광치동" />
+			<area value="금동" />
+			<area value="내척동" />
+			<area value="노암동" />
+			<area value="도통동" />
+			<area value="동충동" />
+			<area value="산곡동" />
+			<area value="식정동" />
+			<area value="신촌동" />
+			<area value="쌍교동" />
+			<area value="어현동" />
+			<area value="왕정동" />
+			<area value="월락동" />
+			<area value="조산동" />
+			<area value="죽항동" />
+			<area value="천거동" />
+                        <area value="하정동" />
+			<area value="향교동" />
+			<area value="화정동" />
+			<area value="운봉읍" />
+			<area value="금지면" />
+			<area value="대강면" />
+			<area value="대산면" />
+			<area value="덕과면" />
+			<area value="보절면" />
+			<area value="사매면" />
+			<area value="산내면" />
+			<area value="산동면" />
+			<area value="송동면" />
+			<area value="수지면" />
+			<area value="아영면" />
+			<area value="이백면" />
+			<area value="인월면" />
+			<area value="주생면" />
+			<area value="주천면" />
+			<area value="남원우체국사서함" />
+			
+		</city>
+		<city value="익산시" id="Iksan_si">
+			<area value="갈산동" />
+			<area value="금강동" />
+			<area value="남중동" />
+			<area value="덕기동" />
+			<area value="동산동" />
+			<area value="마동" />
+			<area value="만석동" />
+			<area value="모현동1가" />
+			<area value="모현동2가" />
+			<area value="목천동" />
+                        <area value="부송동" />
+ 			<area value="석암동" />
+			<area value="석왕동" />
+			<area value="석탄동" />
+			<area value="송학동" />
+			<area value="신동" />
+                        <area value="신용동" />
+			<area value="신흥동" />
+			<area value="어양동" />
+			<area value="영등동" />
+			<area value="용제동" />
+                        <area value="월성동" />
+			<area value="은기동" />
+			<area value="인화동1가" />
+			<area value="인화동2가" />
+			<area value="임상동" />
+                        <area value="정족동" />
+			<area value="주현동" />
+			<area value="중앙동1가" />
+			<area value="중앙동2가" />
+			<area value="중앙동3가" />
+                        <area value="창인동1가" />
+			<area value="창인동2가" />
+			<area value="팔봉동" />
+                        <area value="평화동" />
+			<area value="현영동" />
+			<area value="함열읍" />
+			<area value="금마면" />
+			<area value="낭산면" />
+			<area value="망성면" />
+			<area value="삼기면" />
+			<area value="성당면" />
+			<area value="여산면" />
+			<area value="오산면" />
+			<area value="왕궁면" />
+			<area value="용동면" />
+			<area value="용안면" />
+                        <area value="웅포면" />
+			<area value="춘포면" />
+			<area value="함라면" />
+			<area value="황등면" />
+			<area value="익산우체국사서함" />
+			<area value="익산공단우체국사서함" />
+			
+		</city>
+		<city value="전주시" id="Jeonju_si">
+			<area value="덕진구" />
+			<area value="완산구" />
+
+                </city>
+		<city value="정읍시" id="Jeongeup_si">
+			<area value="공평동" />
+			<area value="과교동" />
+			<area value="교암동" />
+			<area value="구룡동" />
+			<area value="금붕동" />
+			<area value="내장동" />
+			<area value="농소동" />
+                        <area value="망제동" />
+			<area value="부전동" />
+			<area value="삼산동" />
+			<area value="상동" />
+                        <area value="상평동" />
+			<area value="송산동" />
+			<area value="수성동" />
+			<area value="시기동" />
+			<area value="신월동" />
+			<area value="신정동" />
+			<area value="쌍암동" />
+			<area value="연지동" />
+			<area value="영파동" />
+                        <area value="용계동" />
+			<area value="용산동" />
+			<area value="장명동" />
+			<area value="진산동" />
+                        <area value="초산동" />
+                        <area value="하모동" />
+			<area value="하북동" />
+			<area value="흑암동" />
+			<area value="신태인읍" />
+			<area value="감곡면" />
+			<area value="고부면" />
+			<area value="덕천면" />
+			<area value="북면" />
+			<area value="산내면" />
+                        <area value="산외면" />
+			<area value="소성면" />
+			<area value="영원면" />
+			<area value="옹동면" />
+			<area value="이평면" />
+			<area value="입암면" />
+			<area value="정우면" />
+			<area value="칠보면" />
+			<area value="태인면" />
+			<area value="정읍우체국사서함" />
+
+                </city>
+		<city value="고창군" id="Gochang_gun">
+			<area value="고창읍" />
+			<area value="고수면" />
+			<area value="공음면" />
+                        <area value="대산면" />
+			<area value="무장면" />
+			<area value="부안면" />
+			<area value="상하면" />
+			<area value="성내면" />
+			<area value="성송면" />
+			<area value="신림면" />
+			<area value="심원면" />
+			<area value="아산면" />
+			<area value="해리면" />
+                        <area value="흥덕면" />
+
+                </city>
+		<city value="무주군" id="Muju_gun">
+			<area value="무주읍" />
+			<area value="무풍면" />
+			<area value="부남면" />
+			<area value="설천면" />
+			<area value="안성면" />
+			<area value="적상면" />
+            
+                </city>
+		<city value="부안군" id="Buan_gun">
+			<area value="부안읍" />
+			<area value="계화면" />
+			<area value="동진면" />
+			<area value="백산면" />
+			<area value="변산면" />
+			<area value="보안면" />
+			<area value="상서면" />
+			<area value="위도면" />
+			<area value="주산면" />
+			<area value="줄포면" />
+			<area value="진서면" />
+                        <area value="하서면" />
+			<area value="행안면" />
+
+
+                </city>
+		<city value="순창군" id="Sunchang_gun">
+			<area value="순창읍" />
+			<area value="구림면" />
+			<area value="금과면" />
+			<area value="동계면" />
+			<area value="복흥면" />
+			<area value="쌍치면" />
+			<area value="유등면" />
+			<area value="인계면" />
+                        <area value="적성면" />
+			<area value="팔덕면" />
+			<area value="풍산면" />
+			
+		</city>
+		<city value="완주군" id="Wanju_gun">
+			<area value="봉동읍" />
+			<area value="삼례읍" />
+			<area value="경천면" />
+			<area value="고산면" />
+			<area value="구이면" />
+			<area value="동상면" />
+			<area value="비봉면" />
+			<area value="상관면" />
+			<area value="소양면" />
+			<area value="용진면" />
+			<area value="운주면" />
+			<area value="이서면" />
+			<area value="화산면" />
+		</city>	
+		<city value="임실군" id="Imsil_gun">
+			<area value="임실읍" />
+			<area value="강진면" />
+			<area value="관촌면" />
+			<area value="덕치면" />
+                        <area value="삼계면" />
+			<area value="성수면" />
+			<area value="신덕면" />
+			<area value="신평면" />
+                        <area value="오수면" />
+			<area value="운암면" />
+			<area value="지사면" />
+			<area value="청웅면" />
+			
+		</city>
+		<city value="장수군" id="Jangsu_gun">
+			<area value="장수읍" />
+			<area value="계남면" />
+			<area value="계북면" />
+			<area value="번암면" />
+			<area value="산서면" />
+			<area value="장계면" />
+			<area value="천천면" />
+
+                </city>
+		<city value="진안군" id="Jinan_gun">
+			<area value="진안읍" />
+                        <area value="동향면" />
+			<area value="마령면" />
+			<area value="백운면" />
+                        <area value="부귀면" />
+			<area value="상전면" />
+			<area value="성수면" />
+			<area value="안천면" />
+			<area value="용담면" />
+			<area value="정천면" />
+			<area value="주천면" />
+
+                </city>
+	</province>
+	<province value="제주도" id="Jeju">
+		<city value="제주시" id="Jeju_si">
+			<area value="건입동" />
+                        <area value="내도동" />
+			<area value="노형동" />
+			<area value="도남동" />
+                        <area value="도두1동" />
+			<area value="도두2동" />
+			<area value="도련1동" />
+			<area value="도련2동" />
+			<area value="도평동" />
+			<area value="봉개동" />
+			<area value="삼도1동" />
+			<area value="삼도2동" />
+                        <area value="삼양1동" />
+			<area value="삼양2동" />
+			<area value="삼양3동" />
+			<area value="아라1동" />
+			<area value="아라2동" />
+			<area value="연동" />
+			<area value="영평동" />
+			<area value="오등동" />
+			<area value="오라1동" />
+			<area value="오라2동" />
+			<area value="오라3동" />
+			<area value="외도1동" />
+			<area value="외도2동" />
+			<area value="용강동" />
+			<area value="용담1동" />
+			<area value="용담2동" />
+			<area value="용담3동" />
+			<area value="월평동" />
+			<area value="이도1동" />、
+			<area value="이도2동" />
+			<area value="이호1동" />
+			<area value="이호2동" />
+			<area value="일도1동" />
+			<area value="일도2동" />
+			<area value="해안동" />
+			<area value="화북1동" />
+			<area value="화북2동" />
+			<area value="회천동" />
+			<area value="구좌읍" />
+			<area value="애월읍" />
+			<area value="조천읍" />
+			<area value="한림읍" />
+			<area value="우도면" />
+			<area value="추자면" />
+                        <area value="한경면" />
+			<area value="제주우체국사서함" />
+			<area value="제주우편집중국사서함" />
+			
+
+		</city>
+		<city value="서귀포시" id="Seogwipo_si">
+			<area value="강정동" />
+			<area value="대포동" />
+			<area value="도순동" />
+			<area value="동홍동" />
+			<area value="법환동" />
+			<area value="보목동" />
+			<area value="상예동" />
+			<area value="상효동" />
+			<area value="색달동" />
+                        <area value="서귀동" />
+			<area value="서호동" />
+			<area value="서홍동" />
+			<area value="송산동" />
+			<area value="신효동" />
+                        <area value="영남동" />
+			<area value="용흥동" />
+			<area value="월평동" />
+			<area value="정방동" />
+			<area value="중문동" />
+			<area value="중앙동" />
+			<area value="천지동" />
+			<area value="토평동" />
+			<area value="하예동" />
+                        <area value="하원동" />
+			<area value="호근동" />
+			<area value="회수동" />
+			<area value="남원읍" />
+			<area value="대정읍" />
+                        <area value="성산읍" />
+			<area value="안덕면" />
+			<area value="표선면" />
+			<area value="서귀포우체국사서함" />
+
+        </city>       
+</province>
+<province value="충청남도" id="Chungcheongnam_do">
+<city value="계룡시" id="Gyeryong_si">
+<area value="	금암동	" />
+<area value="	두마면	" />
+<area value="	신도안면	" />
+<area value="	엄사면	" />
+
+
+</city>
+<city value="공주시" id="Gongju_si">
+<area value="	검상동	" />
+<area value="	교동	" />
+<area value="	금성동	" />
+<area value="	금학동	" />
+<area value="	금흥동	" />
+<area value="	무릉동	" />
+<area value="	반죽동	" />
+<area value="	봉정동	" />
+<area value="	봉황동	" />
+<area value="	산성동	" />
+<area value="	상왕동	" />
+<area value="	소학동	" />
+<area value="	신관동	" />
+<area value="	신기동	" />
+<area value="	쌍신동	" />
+<area value="	오곡동	" />
+<area value="	옥룡동	" />
+<area value="	웅진동	" />
+<area value="	월미동	" />
+<area value="	월송동	" />
+<area value="	주미동	" />
+<area value="	중동	" />
+<area value="	중학동	" />
+<area value="	태봉동	" />
+<area value="	유구읍	" />
+<area value="	계룡면	" />
+<area value="	반포면	" />
+<area value="	사곡면	" />
+<area value="	신풍면	" />
+<area value="	우성면	" />
+<area value="	의당면	" />
+<area value="	이인면	" />
+<area value="	장기면	" />
+<area value="	정안면	" />
+<area value="	탄천면	" />
+<area value="	공주우체국사서함	" />
+
+
+</city>
+<city value="논산시" id="Nonsan_si">
+<area value="	강산동	" />
+<area value="	관촉동	" />
+<area value="	내동	" />
+<area value="	대교동	" />
+<area value="	덕지동	" />
+<area value="	등화동	" />
+<area value="	반월동	" />
+<area value="	부창동	" />
+<area value="	지산동	" />
+<area value="	취암동	" />
+<area value="	화지동	" />
+<area value="	강경읍	" />
+<area value="	연무읍	" />
+<area value="	가야곡면	" />
+<area value="	광석면	" />
+<area value="	노성면	" />
+<area value="	벌곡면	" />
+<area value="	부적면	" />
+<area value="	상월면	" />
+<area value="	성동면	" />
+<area value="	양촌면	" />
+<area value="	연산면	" />
+<area value="	은진면	" />
+<area value="	채운면	" />
+<area value="	논산우체국사서함	" />
+
+
+</city>
+<city value="당진시" id="Dangjin_si">
+<area value="	구룡동	" />
+<area value="	대덕동	" />
+<area value="	사기소동	" />
+<area value="	수청동	" />
+<area value="	시곡동	" />
+<area value="	용연동	" />
+<area value="	우두동	" />
+<area value="	원당동	" />
+<area value="	읍내동	" />
+<area value="	채운동	" />
+<area value="	행정동	" />
+<area value="	송악읍	" />
+<area value="	합덕읍	" />
+<area value="	고대면	" />
+<area value="	대호지면	" />
+<area value="	면천면	" />
+<area value="	석문면	" />
+<area value="	송산면	" />
+<area value="	순성면	" />
+<area value="	신평면	" />
+<area value="	우강면	" />
+<area value="	정미면	" />
+
+
+</city>
+<city value="보령시" id="Boryeong_si">
+<area value="	궁촌동	" />
+<area value="	남곡동	" />
+<area value="	내항동	" />
+<area value="	대천1동	" />
+<area value="	대천2동	" />
+<area value="	대천동	" />
+<area value="	동대동	" />
+<area value="	명천동	" />
+<area value="	신흑동	" />
+<area value="	요암동	" />
+<area value="	죽정동	" />
+<area value="	화산동	" />
+<area value="	웅천읍	" />
+<area value="	남포면	" />
+<area value="	미산면	" />
+<area value="	성주면	" />
+<area value="	오천면	" />
+<area value="	주교면	" />
+<area value="	주산면	" />
+<area value="	주포면	" />
+<area value="	천북면	" />
+<area value="	청라면	" />
+<area value="	청소면	" />
+<area value="	보령우체국사서함	" />
+
+
+</city>
+<city value="서산시" id="Seosan_si">
+<area value="	갈산동	" />
+<area value="	덕지천동	" />
+<area value="	동문동	" />
+<area value="	석림동	" />
+<area value="	수석동	" />
+<area value="	양대동	" />
+<area value="	예천동	" />
+<area value="	오남동	" />
+<area value="	온석동	" />
+<area value="	읍내동	" />
+<area value="	잠홍동	" />
+<area value="	장동	" />
+<area value="	죽성동	" />
+<area value="	대산읍	" />
+<area value="	고북면	" />
+<area value="	부석면	" />
+<area value="	성연면	" />
+<area value="	운산면	" />
+<area value="	음암면	" />
+<area value="	인지면	" />
+<area value="	지곡면	" />
+<area value="	팔봉면	" />
+<area value="	해미면	" />
+<area value="	서산대산우체국사서함	" />
+<area value="	서산우체국사서함	" />
+
+
+</city>
+<city value="아산시" id="Asan_si">
+<area value="	권곡동	" />
+<area value="	기산동	" />
+<area value="	남동	" />
+<area value="	득산동	" />
+<area value="	모종동	" />
+<area value="	방축동	" />
+<area value="	배미동	" />
+<area value="	법곡동	" />
+<area value="	신동	" />
+<area value="	신인동	" />
+<area value="	실옥동	" />
+<area value="	온양1동	" />
+<area value="	온양2동	" />
+<area value="	온천동	" />
+<area value="	용화동	" />
+<area value="	읍내동	" />
+<area value="	장존동	" />
+<area value="	점양동	" />
+<area value="	좌부동	" />
+<area value="	초사동	" />
+<area value="	풍기동	" />
+<area value="	배방읍	" />
+<area value="	염치읍	" />
+<area value="	도고면	" />
+<area value="	둔포면	" />
+<area value="	선장면	" />
+<area value="	송악면	" />
+<area value="	신창면	" />
+<area value="	영인면	" />
+<area value="	음봉면	" />
+<area value="	인주면	" />
+<area value="	탕정면	" />
+<area value="	아산우체국사서함	" />
+
+
+</city>
+<city value="천안시" id="Cheonan_si">
+<area value="	구룡동	" />
+<area value="	다가동	" />
+<area value="	대흥동	" />
+<area value="	문화동	" />
+<area value="	봉명동	" />
+<area value="	사직동	" />
+<area value="	삼룡동	" />
+<area value="	성황동	" />
+<area value="	신방동	" />
+<area value="	신부동	" />
+<area value="	쌍용동	" />
+<area value="	안서동	" />
+<area value="	영성동	" />
+<area value="	오룡동	" />
+<area value="	용곡동	" />
+<area value="	원성1동	" />
+<area value="	원성2동	" />
+<area value="	원성동	" />
+<area value="	유량동	" />
+<area value="	청당동	" />
+<area value="	청수동	" />
+<area value="	목천읍	" />
+<area value="	광덕면	" />
+<area value="	동면	" />
+<area value="	병천면	" />
+<area value="	북면	" />
+<area value="	성남면	" />
+<area value="	수신면	" />
+<area value="	풍세면	" />
+<area value="	천안우체국사서함	" />
+<area value="	두정동	" />
+<area value="	백석동	" />
+<area value="	부대동	" />
+<area value="	불당동	" />
+<area value="	성성동	" />
+<area value="	성정1동	" />
+<area value="	성정2동	" />
+<area value="	신당동	" />
+<area value="	쌍용1동	" />
+<area value="	쌍용2동	" />
+<area value="	쌍용3동	" />
+<area value="	쌍용동	" />
+<area value="	업성동	" />
+<area value="	와촌동	" />
+<area value="	차암동	" />
+<area value="	성거읍	" />
+<area value="	성환읍	" />
+<area value="	직산읍	" />
+
+
+</city>
+<city value="금산군" id="Geumsan_gun">
+<area value="	금산읍	" />
+<area value="	군북면	" />
+<area value="	금성면	" />
+<area value="	남이면	" />
+<area value="	남일면	" />
+<area value="	복수면	" />
+<area value="	부리면	" />
+<area value="	제원면	" />
+<area value="	진산면	" />
+<area value="	추부면	" />
+
+
+</city>
+<city value="부여군" id="Buyeo_gun">
+<area value="	부여읍	" />
+<area value="	구룡면	" />
+<area value="	규암면	" />
+<area value="	남면	" />
+<area value="	내산면	" />
+<area value="	석성면	" />
+<area value="	세도면	" />
+<area value="	양화면	" />
+<area value="	옥산면	" />
+<area value="	외산면	" />
+<area value="	은산면	" />
+<area value="	임천면	" />
+<area value="	장암면	" />
+<area value="	초촌면	" />
+<area value="	충화면	" />
+<area value="	홍산면	" />
+
+
+</city>
+<city value="서천군" id="Seocheon_gun">
+<area value="	서천읍	" />
+<area value="	장항읍	" />
+<area value="	기산면	" />
+<area value="	마산면	" />
+<area value="	마서면	" />
+<area value="	문산면	" />
+<area value="	비인면	" />
+<area value="	서면	" />
+<area value="	시초면	" />
+<area value="	종천면	" />
+<area value="	판교면	" />
+<area value="	한산면	" />
+<area value="	화양면	" />
+
+
+</city>
+<city value="연기군" id="Yeongi_gun">
+<area value="	조치원읍	" />
+<area value="	금남면	" />
+<area value="	남면	" />
+<area value="	동면	" />
+<area value="	서면	" />
+<area value="	소정면	" />
+<area value="	전동면	" />
+<area value="	전의면	" />
+
+
+</city>
+<city value="예산군" id="Yesan_gun">
+<area value="	삽교읍	" />
+<area value="	예산읍	" />
+<area value="	고덕면	" />
+<area value="	광시면	" />
+<area value="	대술면	" />
+<area value="	대흥면	" />
+<area value="	덕산면	" />
+<area value="	봉산면	" />
+<area value="	신암면	" />
+<area value="	신양면	" />
+<area value="	오가면	" />
+<area value="	응봉면	" />
+
+
+</city>
+<city value="청양군" id="Cheongyang_gun">
+<area value="	청양읍	" />
+<area value="	남양면	" />
+<area value="	대치면	" />
+<area value="	목면	" />
+<area value="	비봉면	" />
+<area value="	운곡면	" />
+<area value="	장평면	" />
+<area value="	정산면	" />
+<area value="	청남면	" />
+<area value="	화성면	" />
+
+
+</city>
+<city value="태안군" id="Taean_gun">
+<area value="	안면읍	" />
+<area value="	태안읍	" />
+<area value="	고남면	" />
+<area value="	근흥면	" />
+<area value="	남면	" />
+<area value="	소원면	" />
+<area value="	원북면	" />
+<area value="	이원면	" />
+
+
+</city>
+<city value="홍성군" id="Hongseong_gun">
+<area value="	광천읍	" />
+<area value="	홍성읍	" />
+<area value="	갈산면	" />
+<area value="	결성면	" />
+<area value="	구항면	" />
+<area value="	금마면	" />
+<area value="	서부면	" />
+<area value="	은하면	" />
+<area value="	장곡면	" />
+<area value="	홍동면	" />
+<area value="	홍북면	" />
+
+
+</city>
+        </province>
+	<province value="충북북도" id="Chungcheongbuk_do">
+		<city value="제천시" id="Jecheon_si">
+<area value="	강제동	" />
+<area value="	고암동	" />
+<area value="	교동	" />
+<area value="	남천동	" />
+<area value="	대랑동	" />
+<area value="	동현동	" />
+<area value="	두학동	" />
+<area value="	명동	" />
+<area value="	명지동	" />
+<area value="	모산동	" />
+<area value="	산곡동	" />
+<area value="	서부동	" />
+<area value="	신동	" />
+<area value="	신백동	" />
+<area value="	신월동	" />
+<area value="	영천동	" />
+<area value="	왕암동	" />
+<area value="	의림동	" />
+<area value="	자작동	" />
+<area value="	장락동	" />
+<area value="	중앙로1가	" />
+<area value="	중앙로2가	" />
+<area value="	천남동	" />
+<area value="	청전동	" />
+<area value="	하소동	" />
+<area value="	화산동	" />
+<area value="	흑석동	" />
+<area value="	봉양읍	" />
+<area value="	금성면	" />
+<area value="	덕산면	" />
+<area value="	백운면	" />
+<area value="	송학면	" />
+<area value="	수산면	" />
+<area value="	청풍면	" />
+<area value="	제천우체국사서함	" />
+
+
+</city>
+<city value="청주시" id="Cheongju_si">
+<area value="	금천동	" />
+<area value="	남문로1가	" />
+<area value="	남문로2가	" />
+<area value="	남주동	" />
+<area value="	내덕1동	" />
+<area value="	내덕2동	" />
+<area value="	내덕동	" />
+<area value="	대성동	" />
+<area value="	명암동	" />
+<area value="	문화동	" />
+<area value="	방서동	" />
+<area value="	북문로1가	" />
+<area value="	북문로2가	" />
+<area value="	북문로3가	" />
+<area value="	사천동	" />
+<area value="	산성동	" />
+<area value="	서문동	" />
+<area value="	석교동	" />
+<area value="	수동	" />
+<area value="	영동	" />
+<area value="	영운동	" />
+<area value="	오동동	" />
+<area value="	외남동	" />
+<area value="	외평동	" />
+<area value="	외하동	" />
+<area value="	용담동	" />
+<area value="	용암1동	" />
+<area value="	용암2동	" />
+<area value="	용암동	" />
+<area value="	용정동	" />
+<area value="	우암동	" />
+<area value="	운동동	" />
+<area value="	월오동	" />
+<area value="	율량동	" />
+<area value="	정북동	" />
+<area value="	정상동	" />
+<area value="	정하동	" />
+<area value="	주성동	" />
+<area value="	지북동	" />
+<area value="	탑동	" />
+<area value="	평촌동	" />
+<area value="	청주우체국사서함" />
+<area value="	가경동	" />
+<area value="	강서동	" />
+<area value="	개신동	" />
+<area value="	남촌동	" />
+<area value="	내곡동	" />
+<area value="	동막동	" />
+<area value="	모충동	" />
+<area value="	문암동	" />
+<area value="	미평동	" />
+<area value="	복대1동	" />
+<area value="	복대2동	" />
+<area value="	복대동	" />
+<area value="	봉명1동	" />
+<area value="	봉명2동	" />
+<area value="	봉명동	" />
+<area value="	분평동	" />
+<area value="	비하동	" />
+<area value="	사직1동	" />
+<area value="	사직2동	" />
+<area value="	사직동	" />
+<area value="	사창동	" />
+<area value="	산남동	" />
+<area value="	상신동	" />
+<area value="	서촌동	" />
+<area value="	석곡동	" />
+<area value="	석소동	" />
+<area value="	성화동	" />
+<area value="	송절동	" />
+<area value="	송정동	" />
+<area value="	수곡1동	" />
+<area value="	수곡2동	" />
+<area value="	수곡동	" />
+<area value="	수의동	" />
+<area value="	신대동	" />
+<area value="	신봉동	" />
+<area value="	신성동	" />
+<area value="	신전동	" />
+<area value="	신촌동	" />
+<area value="	외북동	" />
+<area value="	운천동	" />
+<area value="	원평동	" />
+<area value="	장성동	" />
+<area value="	장암동	" />
+<area value="	정봉동	" />
+<area value="	죽림동	" />
+<area value="	지동동	" />
+<area value="	평동	" />
+<area value="	향정동	" />
+<area value="	현암동	" />
+<area value="	화계동	" />
+<area value="	휴암동	" />
+<area value="	서청주우체국사서함" />
+
+</city>
+<city value="충주시" id="Chungju_si">
+<area value="	가주동	" />
+<area value="	교현2동	" />
+<area value="	교현동	" />
+<area value="	금릉동	" />
+<area value="	단월동	" />
+<area value="	달천동	" />
+<area value="	목벌동	" />
+<area value="	목행동	" />
+<area value="	문화동	" />
+<area value="	봉방동	" />
+<area value="	성남동	" />
+<area value="	성내동	" />
+<area value="	성서동	" />
+<area value="	안림동	" />
+<area value="	연수동	" />
+<area value="	용관동	" />
+<area value="	용두동	" />
+<area value="	용산동	" />
+<area value="	용탄동	" />
+<area value="	종민동	" />
+<area value="	지현동	" />
+<area value="	직동	" />
+<area value="	충인동	" />
+<area value="	칠금동	" />
+<area value="	풍동	" />
+<area value="	호암동	" />
+<area value="	주덕읍	" />
+<area value="	가금면	" />
+<area value="	금가면	" />
+<area value="	노은면	" />
+<area value="	대소원면	" />
+<area value="	동량면	" />
+<area value="	산척면	" />
+<area value="	살미면	" />
+<area value="	소태면	" />
+<area value="	수안보면	" />
+<area value="	신니면	" />
+<area value="	앙성면	" />
+<area value="	엄정면	" />
+<area value="	충주우체국사서함" />
+
+</city>
+<city value="괴산군" id="Goesan_gun">
+<area value="	괴산읍	" />
+<area value="	감물면	" />
+<area value="	문광면	" />
+<area value="	불정면	" />
+<area value="	사리면	" />
+<area value="	소수면	" />
+<area value="	연풍면	" />
+<area value="	장연면	" />
+<area value="	청안면	" />
+<area value="	청천면	" />
+<area value="	칠성면	" />
+
+</city>
+<city value="단양군" id="Danyang_gun">
+<area value="	단양읍	" />
+<area value="	매포읍	" />
+<area value="	가곡면	" />
+<area value="	단성면	" />
+<area value="	대강면	" />
+<area value="	어상천면" />
+<area value="	영춘면	" />
+<area value="	적성면	" />
+
+</city>
+<city value="보은군" id="Boeun_gun">
+<area value="	보은읍	" />
+<area value="	내북면	" />
+<area value="	마로면	" />
+<area value="	산외면	" />
+<area value="	삼승면	" />
+<area value="	속리산면	" />
+<area value="	수한면	" />
+<area value="	장안면	" />
+<area value="	탄부면	" />
+<area value="	회남면	" />
+<area value="	회인면	" />
+
+</city>
+<city value="영동군" id="Yeongdong_gun">
+<area value="	영동읍	" />
+<area value="	매곡면	" />
+<area value="	상촌면	" />
+<area value="	심천면	" />
+<area value="	양강면	" />
+<area value="	양산면	" />
+<area value="	용산면	" />
+<area value="	용화면	" />
+<area value="	추풍령면	" />
+<area value="	학산면	" />
+<area value="	황간면	" />
+
+</city>
+<city value="옥천군" id="Okcheon_gun">
+<area value="	옥천읍	" />
+<area value="	군북면	" />
+<area value="	군서면	" />
+<area value="	동이면	" />
+<area value="	안남면	" />
+<area value="	안내면	" />
+<area value="	이원면	" />
+<area value="	청산면	" />
+<area value="	청성면	" />
+
+</city>
+<city value="음성군" id="Eumseong_gun">
+<area value="	금왕읍	" />
+<area value="	음성읍	" />
+<area value="	감곡면	" />
+<area value="	대소면	" />
+<area value="	맹동면	" />
+<area value="	삼성면	" />
+<area value="	생극면	" />
+<area value="	소이면	" />
+<area value="	원남면	" />
+
+</city>
+<city value="증평군" id="Jeungpyeong_gun">
+<area value="	증평읍	" />
+<area value="	도안면	" />
+
+</city>
+<city value="진천군" id="Jincheon_gun">
+<area value="	진천읍	" />
+<area value="	광혜원면	" />
+<area value="	덕산면	" />
+<area value="	문백면	" />
+<area value="	백곡면	" />
+<area value="	이월면	" />
+<area value="	초평면	" />
+
+</city>
+<city value="청원군" id="Cheongwon_gun">
+<area value="내수읍" />
+<area value="오송읍" />
+<area value="오창읍" />
+<area value="가덕면" />
+<area value="강내면" />
+<area value="남이면" />
+<area value="남일면" />
+<area value="낭성면" />
+<area value="문의면" />
+<area value="미원면" />
+<area value="부용면" />
+<area value="북이면" />
+<area value="옥산면" />
+<area value="현도면" />
+
+
+
+			
+			
+
+		</city>
+	</province>
+</country>

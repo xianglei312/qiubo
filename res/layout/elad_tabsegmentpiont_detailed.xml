@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bground"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:background="@drawable/elad_top"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dip"
+            android:gravity="center|center_vertical"
+            android:text="@string/main_buy"
+            android:textColor="@color/white"
+            android:textSize="20dip"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dip"
+            android:layout_marginRight="15dip"
+            android:layout_marginTop="15dip" >
+
+            <TableRow
+                android:background="@drawable/elad_shang"
+                android:gravity="center" >
+
+                <TextView
+                    style="@style/qqs_textview"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/pointtab_note_textviewa" />
+
+                <TextView
+                    android:id="@+id/pointtab_note_textviewa"
+                    style="@style/qqs_textviewa"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:background="@drawable/elad_shang"
+                android:gravity="center" >
+
+                <TextView
+                    style="@style/qqs_textview"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/pointtab_note_textviewb" />
+
+                <TextView
+                    android:id="@+id/pointtab_note_textviewb"
+                    style="@style/qqs_textviewa"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:background="@drawable/elad_shang"
+                android:gravity="center" >
+
+                <TextView
+                    style="@style/qqs_textview"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/pointtab_note_textviewc" />
+
+                <TextView
+                    android:id="@+id/pointtab_note_textviewc"
+                    style="@style/qqs_textviewa"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:background="@drawable/elad_shang"
+                android:gravity="center" >
+
+                <TextView
+                    style="@style/qqs_textview"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/pointtab_note_textviewl" />
+
+                <TextView
+                    android:id="@+id/pointtab_note_textviewl"
+                    style="@style/qqs_textviewa"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:background="@drawable/elad_shang"
+                android:gravity="center" >
+
+                <TextView
+                    style="@style/qqs_textview"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/pointtab_note_textviewd" />
+
+                <TextView
+                    android:id="@+id/pointtab_note_textviewd"
+                    style="@style/qqs_textviewa"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:background="@drawable/elad_shang"
+                android:gravity="center" >
+
+                <TextView
+                    style="@style/qqs_textview"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/pointtab_note_textviewe" />
+
+                <TextView
+                    android:id="@+id/pointtab_note_textviewe"
+                    style="@style/qqs_textviewa"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:background="@drawable/elad_shang"
+                android:gravity="center" >
+
+                <TextView
+                    style="@style/qqs_textview"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/pointtab_note_textviewf" />
+
+                <TextView
+                    android:id="@+id/pointtab_note_textviewf"
+                    style="@style/qqs_textviewa"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:background="@drawable/elad_shang"
+                android:gravity="center" >
+
+                <TextView
+                    style="@style/qqs_textview"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/pointtab_note_textviewg" />
+
+                <TextView
+                    android:id="@+id/pointtab_note_textviewg"
+                    style="@style/qqs_textviewa"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:background="@drawable/elad_shang"
+                android:gravity="center" >
+
+                <TextView
+                    style="@style/qqs_textview"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/pointtab_note_textviewh" />
+
+                <TextView
+                    android:id="@+id/pointtab_note_textviewh"
+                    style="@style/qqs_textviewa"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:background="@drawable/elad_shang"
+                android:gravity="center" >
+
+                <TextView
+                    style="@style/qqs_textview"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/pointtab_note_textviewi" />
+
+                <TextView
+                    android:id="@+id/pointtab_note_textviewi"
+                    style="@style/qqs_textviewa"
+                    android:layout_weight="1" />
+            </TableRow>
+
+            <TableRow
+                android:background="@drawable/elad_shang"
+                android:gravity="center" >
+
+                <TextView
+                    style="@style/qqs_textview"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/pointtab_note_textviewj" />
+
+                <TextView
+                    android:id="@+id/pointtab_note_textviewj"
+                    style="@style/qqs_textviewa"
+                    android:layout_weight="1" />
+            </TableRow>
+        </TableLayout>
+    </ScrollView>
+
+</LinearLayout>
